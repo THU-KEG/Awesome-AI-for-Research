@@ -153,6 +153,8 @@ The main benchmark hub lives at [docs/benchmarks/index.md](docs/benchmarks/index
 
 The repository uses a lightweight taxonomy so entries can be read through research stage, role in the loop, application domain, and evidence quality without turning the README into a flat list.
 
+![Taxonomy overview](Taxonomy.PNG)
+
 - [Research stage taxonomy](docs/taxonomy.md#research-stage-taxonomy) for the macro stage map and fine-grained stage legend.
 - [Role taxonomy](docs/taxonomy.md#role-taxonomy) for the L1 to L3 human-tool-system ladder, with `self-evolving` tracked as a tag.
 - [Application domain taxonomy](docs/taxonomy.md#application-domain-taxonomy) for discipline-oriented navigation across artificial intelligence, biomedical, chemistry, computer science, general, materials science, math, physics, and social science.
