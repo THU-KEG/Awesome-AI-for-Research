@@ -170,7 +170,7 @@ If you find this repository useful in your research, please cite:
 
 ```bibtex
 @misc{awesome_ai_for_research_2026,
-  author       = {Jing, Yi and Xin, Xin and Yao, Zijun},
+  author       = {Jing, Yi and Amy, Xin and Yao, Zijun},
   title        = {Awesome AI for Research},
   year         = {2026},
   howpublished = {\url{https://github.com/THU-KEG/Awesome-AI-for-Research}},
