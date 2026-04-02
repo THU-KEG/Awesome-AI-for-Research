@@ -17,6 +17,7 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| Sci-Reasoning (2026) | [Details](../catalog.md#sci-reasoning) | [Paper](https://arxiv.org/abs/2601.04577) · [Repo](https://github.com/JLiuCS/Sci-Reasoning) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | The Ideation-Execution Gap (2025) | [Details](../catalog.md#ideation-execution-gap) | [Paper](https://arxiv.org/abs/2506.20803) |
 | The Ramon Llull's Thinking Machine for Automated Ideation (2025) | [Details](../catalog.md#ramon-llull-thinking-machine) | [Paper](https://openreview.net/forum?id=DhIqrga74P) |

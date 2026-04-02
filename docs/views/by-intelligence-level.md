@@ -8,8 +8,8 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 
 ## On this page
 
-- [L1 Tools](#l1-tools) (18)
-- [L2 Collaborators](#l2-collaborators) (16)
+- [L1 Tools](#l1-tools) (21)
+- [L2 Collaborators](#l2-collaborators) (17)
 - [L3 Systems](#l3-systems) (16)
 
 <a id="l1-tools"></a>
@@ -19,8 +19,11 @@ Human drives the loop. The AI acts as a tool, local component, or narrow assista
 
 | Work | Details | External |
 | --- | --- | --- |
+| EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
 | Memento-Skills (2026) | [Details](../catalog.md#memento-skills) | [Paper](https://doi.org/10.48550/arXiv.2603.18743) · [Repo](https://github.com/Memento-Teams/Memento-Skills) |
+| Sci-Reasoning (2026) | [Details](../catalog.md#sci-reasoning) | [Paper](https://arxiv.org/abs/2601.04577) · [Repo](https://github.com/JLiuCS/Sci-Reasoning) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
+| AI Research Skills Library (2025) | [Details](../catalog.md#ai-research-skills) | [Repo](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [Project](https://www.orchestra-research.com/) |
 | Anthropic Agent Skills (2025) | [Details](../catalog.md#anthropic-agent-skills) | [Repo](https://github.com/anthropics/skills) · [Blog](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills) |
 | PaSa (2025) | [Details](../catalog.md#pasa) | [Paper](https://arxiv.org/abs/2501.10120) · [Repo](https://github.com/bytedance/pasa) · [Project](https://pasa-agent.ai/) |
 | Prover Agent (2025) | [Details](../catalog.md#prover-agent) | [Paper](https://arxiv.org/abs/2506.19923) · [Repo](https://github.com/kAIto47802/Prover-Agent) |
@@ -53,6 +56,7 @@ Human in the loop. The AI can advance multi-step work, but humans still steer, g
 | Agent Laboratory (2025) | [Details](../catalog.md#agent-laboratory) | [Paper](https://arxiv.org/abs/2501.04227) · [Project](https://agentlaboratory.github.io/) |
 | AgentSociety (2025) | [Details](../catalog.md#agentsociety) | [Paper](https://arxiv.org/abs/2502.08691) · [Repo](https://github.com/tsinghua-fib-lab/AgentSociety) · [Project](https://agentsociety.readthedocs.io/) |
 | AI Agents for Ground-Based Gamma Astronomy (2025) | [Details](../catalog.md#gamma-astronomy-agents) | [Paper](https://arxiv.org/abs/2503.00821) |
+| Curie (2025) | [Details](../catalog.md#curie) | [Paper](https://arxiv.org/abs/2502.16069) · [Repo](https://github.com/Just-Curie/Curie) |
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | Robin (2025) | [Details](../catalog.md#robin) | [Paper](https://doi.org/10.48550/arXiv.2505.13400) · [Repo](https://github.com/Future-House/robin) |
 | SciMaster (2025) | [Details](../catalog.md#scimaster) | [Paper](https://arxiv.org/abs/2507.05241) · [Repo](https://github.com/sjtu-sai-agents/X-Master) · [Project](https://scimaster.bohrium.com/) |

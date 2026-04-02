@@ -1264,5 +1264,105 @@
     },
     "stage_focus": "execute-experiment",
     "stage_secondary": null
+  },
+  {
+    "id": "ai-research-skills",
+    "title": "AI Research Skills Library",
+    "year": 2025,
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Repo only",
+    "human_role": "Human-driven",
+    "summary": "An open-source library of 87 modular AI research skills that equip coding agents with expert-level guidance across the full research lifecycle, from literature survey and ideation through training, evaluation, and paper writing.",
+    "why_it_matters": "It is a complementary infrastructure layer to generic agent-skill systems because it packages domain-specific AI research knowledge — real code recipes, troubleshooting guides, and production workflows — as drop-in skill modules rather than requiring researchers to write bespoke prompts for every research subtask.",
+    "tags": [
+      "skills",
+      "research-lifecycle",
+      "agent-infrastructure"
+    ],
+    "links": {
+      "repo": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "project": "https://www.orchestra-research.com/"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "exp-bench",
+    "title": "EXP-Bench",
+    "year": 2026,
+    "section": "benchmarks-evaluation",
+    "level": "l1-tools",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Conference",
+    "human_role": "Human-driven",
+    "summary": "A benchmark of 461 research tasks extracted from 51 top-tier AI papers that evaluates whether agents can formulate hypotheses, design procedures, implement code, execute experiments, and analyze results end to end.",
+    "why_it_matters": "It quantifies a critical gap in current AI agents — only 0.5% of complete experiments succeed — providing a rigorous yardstick for measuring progress on autonomous experimentation capabilities.",
+    "tags": [
+      "benchmark",
+      "experimentation",
+      "end-to-end-evaluation"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2505.24785",
+      "repo": "https://github.com/EvolvingLMMs-Lab/EXP-Bench"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": null
+  },
+  {
+    "id": "curie",
+    "title": "Curie",
+    "year": 2025,
+    "section": "experimentation-agent-methods",
+    "level": "l2-collaborators",
+    "domains": [
+      "computer-science"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "An agent framework for rigorous scientific experimentation that uses intra-agent rigor, inter-agent rigor, and experiment knowledge modules to maintain methodological control across multi-agent experimental workflows.",
+    "why_it_matters": "It addresses the reliability problem head-on by introducing explicit rigor mechanisms that yield a 3.4× improvement in correctly answering experimental questions, making it a useful reference for how to add methodological discipline to agent-driven experiments.",
+    "tags": [
+      "rigor",
+      "multi-agent",
+      "experimental-methodology"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2502.16069",
+      "repo": "https://github.com/Just-Curie/Curie"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "analyze-visualize"
+  },
+  {
+    "id": "sci-reasoning",
+    "title": "Sci-Reasoning",
+    "year": 2026,
+    "section": "research-ideation",
+    "level": "l1-tools",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-driven",
+    "summary": "A dataset that traces high-quality papers from NeurIPS, ICML, and ICLR back to their predecessors, identifying 15 distinct innovation thinking patterns such as gap-driven reframing and cross-domain synthesis.",
+    "why_it_matters": "It makes the tacit reasoning behind research breakthroughs explicit and quantifiable, providing structured training signal for AI research agents and a lens for studying how scientific innovation actually works.",
+    "tags": [
+      "innovation-patterns",
+      "reasoning-dataset",
+      "research-process"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2601.04577",
+      "repo": "https://github.com/JLiuCS/Sci-Reasoning"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": "discover-synthesize"
   }
 ]

@@ -32,6 +32,7 @@
 | AlphaGo Moment for Model Architecture Discovery (2025) | [Details](../catalog.md#alpha-go-moment) | [Paper](https://arxiv.org/abs/2507.18074) · [Repo](https://github.com/GAIR-NLP/ASI-Arch) |
 | An AI system to help scientists write expert-level empirical software (2025) | [Details](../catalog.md#expert-level-empirical-software) | [Paper](https://arxiv.org/abs/2509.06503) |
 | AtomAgents (2025) | [Details](../catalog.md#atomagents) | [Paper](https://doi.org/10.1073/pnas.2414074122) · [Repo](https://github.com/lamm-mit/AtomAgents) |
+| Curie (2025) | [Details](../catalog.md#curie) | [Paper](https://arxiv.org/abs/2502.16069) · [Repo](https://github.com/Just-Curie/Curie) |
 | Darwin Godel Machine (2025) | [Details](../catalog.md#darwin-godel-machine) | [Paper](https://arxiv.org/abs/2505.22954) · [Repo](https://github.com/jennyzzt/dgm) · [Blog](https://sakana.ai/dgm/) |
 | ML-Master (2025) | [Details](../catalog.md#ml-master) | [Paper](https://arxiv.org/abs/2506.16499) · [Repo](https://github.com/sjtu-sai-agents/ML-Master) · [Project](https://sjtu-sai-agents.github.io/ML-Master/1.0.html) |
 | MLE-STAR (2025) | [Details](../catalog.md#mle-star) | [Paper](https://arxiv.org/abs/2506.15692) · [Project](https://research.google/pubs/mle-star-machine-learning-engineering-agent-via-search-and-targeted-refinement/) |
