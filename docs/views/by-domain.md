@@ -6,10 +6,10 @@ Use this page to find systems grouped by application domain.
 
 ## On this page
 
-- [Artificial Intelligence](#ai) (18)
+- [Artificial Intelligence](#ai) (21)
 - [Biomedical](#biomedical) (3)
 - [Chemistry](#chemistry) (2)
-- [Computer Science](#computer-science) (2)
+- [Computer Science](#computer-science) (3)
 - [General](#general) (19)
 - [Materials Science](#materials-science) (2)
 - [Math](#math) (2)
@@ -27,8 +27,11 @@ Applications in artificial intelligence research, machine learning research work
 | ARIS (2026) | [Details](../catalog.md#aris) | [Repo](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
 | AutoResearchClaw (2026) | [Details](../catalog.md#autoresearchclaw) | [Repo](https://github.com/aiming-lab/AutoResearchClaw) |
 | Claudini (2026) | [Details](../catalog.md#claudini) | [Paper](https://doi.org/10.48550/arXiv.2603.24511) · [Repo](https://github.com/romovpa/claudini) |
+| EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
 | Memento-Skills (2026) | [Details](../catalog.md#memento-skills) | [Paper](https://doi.org/10.48550/arXiv.2603.18743) · [Repo](https://github.com/Memento-Teams/Memento-Skills) |
+| Sci-Reasoning (2026) | [Details](../catalog.md#sci-reasoning) | [Paper](https://arxiv.org/abs/2601.04577) · [Repo](https://github.com/JLiuCS/Sci-Reasoning) |
 | Agent Laboratory (2025) | [Details](../catalog.md#agent-laboratory) | [Paper](https://arxiv.org/abs/2501.04227) · [Project](https://agentlaboratory.github.io/) |
+| AI Research Skills Library (2025) | [Details](../catalog.md#ai-research-skills) | [Repo](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [Project](https://www.orchestra-research.com/) |
 | AI-Researcher (2025) | [Details](../catalog.md#ai-researcher) | [Paper](https://arxiv.org/abs/2505.18705) · [Repo](https://github.com/hkuds/ai-researcher) · [Project](https://autoresearcher.github.io/) |
 | AIDE (2025) | [Details](../catalog.md#aide) | [Paper](https://arxiv.org/abs/2502.13138) · [Repo](https://github.com/WecoAI/aideml) · [Project](https://www.aide.ml/) |
 | AlphaGo Moment for Model Architecture Discovery (2025) | [Details](../catalog.md#alpha-go-moment) | [Paper](https://arxiv.org/abs/2507.18074) · [Repo](https://github.com/GAIR-NLP/ASI-Arch) |
@@ -78,6 +81,7 @@ Applications in non-AI computer science research such as formal methods, program
 | --- | --- | --- |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | AlphaEvolve (2025) | [Details](../catalog.md#alphaevolve) | [Paper](https://arxiv.org/abs/2506.13131) · [Blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) |
+| Curie (2025) | [Details](../catalog.md#curie) | [Paper](https://arxiv.org/abs/2502.16069) · [Repo](https://github.com/Just-Curie/Curie) |
 
 ---
 

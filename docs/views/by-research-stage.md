@@ -6,12 +6,12 @@ Use this page when you want to find systems by the stage of research they most c
 
 ## On this page
 
-- [Discover & Synthesize](#discover-synthesize) (9)
-- [Ideate](#ideate) (7)
+- [Discover & Synthesize](#discover-synthesize) (10)
+- [Ideate](#ideate) (8)
 - [Plan & Design](#plan-design) (2)
 - [Implement](#implement) (4)
-- [Execute & Experiment](#execute-experiment) (15)
-- [Analyze & Visualize](#analyze-visualize) (7)
+- [Execute & Experiment](#execute-experiment) (17)
+- [Analyze & Visualize](#analyze-visualize) (8)
 - [Write & Review](#write-review) (6)
 
 <a id="discover-synthesize"></a>
@@ -21,6 +21,7 @@ Literature search, evidence gathering, contradiction spotting, and structured sy
 
 | Work | Details | External |
 | --- | --- | --- |
+| Sci-Reasoning (2026) | [Details](../catalog.md#sci-reasoning) | [Paper](https://arxiv.org/abs/2601.04577) · [Repo](https://github.com/JLiuCS/Sci-Reasoning) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | PaSa (2025) | [Details](../catalog.md#pasa) | [Paper](https://arxiv.org/abs/2501.10120) · [Repo](https://github.com/bytedance/pasa) · [Project](https://pasa-agent.ai/) |
@@ -40,6 +41,7 @@ Hypothesis generation, gap finding, analogical search, and research framing.
 
 | Work | Details | External |
 | --- | --- | --- |
+| Sci-Reasoning (2026) | [Details](../catalog.md#sci-reasoning) | [Paper](https://arxiv.org/abs/2601.04577) · [Repo](https://github.com/JLiuCS/Sci-Reasoning) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | AlphaGo Moment for Model Architecture Discovery (2025) | [Details](../catalog.md#alpha-go-moment) | [Paper](https://arxiv.org/abs/2507.18074) · [Repo](https://github.com/GAIR-NLP/ASI-Arch) |
 | The Ideation-Execution Gap (2025) | [Details](../catalog.md#ideation-execution-gap) | [Paper](https://arxiv.org/abs/2506.20803) |
@@ -84,6 +86,7 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 | Work | Details | External |
 | --- | --- | --- |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
+| EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
 | AlphaEvolve (2025) | [Details](../catalog.md#alphaevolve) | [Paper](https://arxiv.org/abs/2506.13131) · [Blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) |
 | Agentic AI for Multi-Stage Physics Experiments at a Large-Scale User Facility Particle Accelerator (2025) | [Details](../catalog.md#agentic-physics-experiments) | [Paper](https://arxiv.org/abs/2509.17255) |
 | AgentSociety (2025) | [Details](../catalog.md#agentsociety) | [Paper](https://arxiv.org/abs/2502.08691) · [Repo](https://github.com/tsinghua-fib-lab/AgentSociety) · [Project](https://agentsociety.readthedocs.io/) |
@@ -91,6 +94,7 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 | AIDE (2025) | [Details](../catalog.md#aide) | [Paper](https://arxiv.org/abs/2502.13138) · [Repo](https://github.com/WecoAI/aideml) · [Project](https://www.aide.ml/) |
 | AlphaGo Moment for Model Architecture Discovery (2025) | [Details](../catalog.md#alpha-go-moment) | [Paper](https://arxiv.org/abs/2507.18074) · [Repo](https://github.com/GAIR-NLP/ASI-Arch) |
 | An AI system to help scientists write expert-level empirical software (2025) | [Details](../catalog.md#expert-level-empirical-software) | [Paper](https://arxiv.org/abs/2509.06503) |
+| Curie (2025) | [Details](../catalog.md#curie) | [Paper](https://arxiv.org/abs/2502.16069) · [Repo](https://github.com/Just-Curie/Curie) |
 | ML-Master (2025) | [Details](../catalog.md#ml-master) | [Paper](https://arxiv.org/abs/2506.16499) · [Repo](https://github.com/sjtu-sai-agents/ML-Master) · [Project](https://sjtu-sai-agents.github.io/ML-Master/1.0.html) |
 | MLE-STAR (2025) | [Details](../catalog.md#mle-star) | [Paper](https://arxiv.org/abs/2506.15692) · [Project](https://research.google/pubs/mle-star-machine-learning-engineering-agent-via-search-and-targeted-refinement/) |
 | Prover Agent (2025) | [Details](../catalog.md#prover-agent) | [Paper](https://arxiv.org/abs/2506.19923) · [Repo](https://github.com/kAIto47802/Prover-Agent) |
@@ -111,6 +115,7 @@ Result interpretation, figure generation, statistical inspection, and error anal
 | Agentic AI for Multi-Stage Physics Experiments at a Large-Scale User Facility Particle Accelerator (2025) | [Details](../catalog.md#agentic-physics-experiments) | [Paper](https://arxiv.org/abs/2509.17255) |
 | AgentSociety (2025) | [Details](../catalog.md#agentsociety) | [Paper](https://arxiv.org/abs/2502.08691) · [Repo](https://github.com/tsinghua-fib-lab/AgentSociety) · [Project](https://agentsociety.readthedocs.io/) |
 | AI Agents for Ground-Based Gamma Astronomy (2025) | [Details](../catalog.md#gamma-astronomy-agents) | [Paper](https://arxiv.org/abs/2503.00821) |
+| Curie (2025) | [Details](../catalog.md#curie) | [Paper](https://arxiv.org/abs/2502.16069) · [Repo](https://github.com/Just-Curie/Curie) |
 | ML-Master (2025) | [Details](../catalog.md#ml-master) | [Paper](https://arxiv.org/abs/2506.16499) · [Repo](https://github.com/sjtu-sai-agents/ML-Master) · [Project](https://sjtu-sai-agents.github.io/ML-Master/1.0.html) |
 | MLE-STAR (2025) | [Details](../catalog.md#mle-star) | [Paper](https://arxiv.org/abs/2506.15692) · [Project](https://research.google/pubs/mle-star-machine-learning-engineering-agent-via-search-and-targeted-refinement/) |
 | Simulating and Experimenting with Social Media Mobilization Using LLM Agents (2025) | [Details](../catalog.md#llm-sociopol) | [Paper](https://arxiv.org/abs/2510.26494) · [Repo](https://github.com/CausalMP/LLM-SocioPol) · [Project](https://www.gsb.stanford.edu/faculty-research/working-papers/simulating-experimenting-social-media-mobilization-using-llm-agents) |

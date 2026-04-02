@@ -88,6 +88,20 @@ Experimentation & Agent Methods · L3 · Preprint
 
 ---
 
+<a id="exp-bench"></a>
+
+### EXP-Bench (2026)
+
+Benchmarks & Evaluation · L1 · Execute & Experiment · Conference
+
+**Links:** [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench)
+
+**Summary:** A benchmark of 461 research tasks extracted from 51 top-tier AI papers that evaluates whether agents can formulate hypotheses, design procedures, implement code, execute experiments, and analyze results end to end.
+
+`benchmark` `experimentation` `end-to-end-evaluation`
+
+---
+
 <a id="memento-skills"></a>
 
 ### Memento-Skills (2026)
@@ -99,6 +113,20 @@ Experimentation & Agent Methods · L1 · Technical report
 **Summary:** A continually learnable agent-designing agent that externalizes reusable skills as markdown memory and updates them through a read-write reflective learning loop.
 
 `self-evolving` `continual-learning` `externalized-memory`
+
+---
+
+<a id="sci-reasoning"></a>
+
+### Sci-Reasoning (2026)
+
+Research Ideation · L1 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2601.04577) · [Repo](https://github.com/JLiuCS/Sci-Reasoning)
+
+**Summary:** A dataset that traces high-quality papers from NeurIPS, ICML, and ICLR back to their predecessors, identifying 15 distinct innovation thinking patterns such as gap-driven reframing and cross-domain synthesis.
+
+`innovation-patterns` `reasoning-dataset` `research-process`
 
 ---
 
@@ -200,6 +228,20 @@ Experimentation & Agent Methods · L2 · Execute & Experiment · Preprint
 
 ---
 
+<a id="ai-research-skills"></a>
+
+### AI Research Skills Library (2025)
+
+Research Infrastructure & Frameworks · L1 · Repo only
+
+**Links:** [Repo](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [Project](https://www.orchestra-research.com/)
+
+**Summary:** An open-source library of 87 modular AI research skills that equip coding agents with expert-level guidance across the full research lifecycle, from literature survey and ideation through training, evaluation, and paper writing.
+
+`skills` `research-lifecycle` `agent-infrastructure`
+
+---
+
 <a id="ai-researcher"></a>
 
 ### AI-Researcher (2025)
@@ -294,6 +336,20 @@ Experimentation & Agent Methods · L3 · Journal
 **Summary:** A physics-aware multimodal multi-agent system for alloy design that combines knowledge retrieval, code generation, atomistic simulation, and results analysis.
 
 `materials-discovery` `atomistic-simulation` `multi-agent`
+
+---
+
+<a id="curie"></a>
+
+### Curie (2025)
+
+Experimentation & Agent Methods · L2 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2502.16069) · [Repo](https://github.com/Just-Curie/Curie)
+
+**Summary:** An agent framework for rigorous scientific experimentation that uses intra-agent rigor, inter-agent rigor, and experiment knowledge modules to maintain methodological control across multi-agent experimental workflows.
+
+`rigor` `multi-agent` `experimental-methodology`
 
 ---
 
