@@ -157,6 +157,19 @@ Experimentation & Agent Methods · L1 · Technical report
 
 ---
 
+<a id="researchclawbench"></a>
+### ResearchClawBench (2026)
+
+System Benchmark · Scientific Reasoning · Benchmark release
+
+**Links:** [Repo](https://github.com/InternScience/ResearchClawBench) · [Benchmark](https://internscience.github.io/ResearchClawBench-Home/)
+
+**Summary:** A benchmark of 40 expert-curated scientific research tasks across 10 disciplines that evaluates whether coding agents can move from raw datasets and related work to publication-style reports scored against human papers with weighted multimodal checklists.
+
+`scientific-research` `paper-grounded-evaluation` `multimodal-checklists`
+
+---
+
 <a id="openscholar"></a>
 
 ### Synthesizing scientific literature with retrieval-augmented language models (2026)

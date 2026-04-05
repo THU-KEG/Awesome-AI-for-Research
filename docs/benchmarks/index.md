@@ -8,6 +8,7 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 ## Quick Links
 
 - [EXP-Bench](../catalog.md#exp-bench) (2026)
+- [ResearchClawBench](../catalog.md#researchclawbench) (2026)
 - [AstaBench](../catalog.md#astabench) (2025)
 - [FrontierScience](../catalog.md#frontierscience) (2025)
 - [KernelBench](../catalog.md#kernelbench) (2025)
@@ -34,6 +35,7 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 | Work | Details | External |
 | --- | --- | --- |
 | EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
+| ResearchClawBench (2026) | [Details](../catalog.md#researchclawbench) | [Repo](https://github.com/InternScience/ResearchClawBench) · [Benchmark](https://internscience.github.io/ResearchClawBench-Home/) |
 | AstaBench (2025) | [Details](../catalog.md#astabench) | [Repo](https://github.com/allenai/asta-bench) · [Benchmark](https://allenai.org/asta/bench) · [Blog](https://allenai.org/blog/astabench) |
 | FrontierScience (2025) | [Details](../catalog.md#frontierscience) | [Project](https://openai.com/index/frontier-science/) |
 | KernelBench (2025) | [Details](../catalog.md#kernelbench) | [Paper](https://arxiv.org/abs/2502.10517) · [Repo](https://github.com/ScalingIntelligence/KernelBench) · [Blog](https://scalingintelligence.stanford.edu/blogs/kernelbench/) |
