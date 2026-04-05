@@ -20,6 +20,27 @@
     }
   },
   {
+    "id": "researchclawbench",
+    "title": "ResearchClawBench",
+    "year": 2026,
+    "evidence": "Benchmark release",
+    "types": [
+      "System Benchmark",
+      "Scientific Reasoning"
+    ],
+    "summary": "A benchmark of 40 expert-curated scientific research tasks across 10 disciplines that evaluates whether coding agents can move from raw datasets and related work to publication-style reports scored against human papers with weighted multimodal checklists.",
+    "why_it_matters": "It is a practical end-to-end benchmark for scientific research agents because it combines autonomous execution, paper-grounded evaluation, and public multi-agent leaderboard tracking in one open benchmark stack.",
+    "tags": [
+      "scientific-research",
+      "paper-grounded-evaluation",
+      "multimodal-checklists"
+    ],
+    "links": {
+      "repo": "https://github.com/InternScience/ResearchClawBench",
+      "benchmark": "https://internscience.github.io/ResearchClawBench-Home/"
+    }
+  },
+  {
     "id": "scienceagentbench",
     "title": "ScienceAgentBench",
     "year": 2024,

@@ -3,7 +3,7 @@
 <h1 align="center">Awesome AI for Research</h1>
 
 <p align="center">
-<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="LICENSE"><img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-2563eb?style=flat-square" /></a> <img alt="entries: 57" src="https://img.shields.io/badge/entries-57-0f766e?style=flat-square" /> <img alt="benchmarks: 13" src="https://img.shields.io/badge/benchmarks-13-b45309?style=flat-square" /> <img alt="updated: 2026-04-03" src="https://img.shields.io/badge/updated-2026--04--03-475569?style=flat-square" /> <img alt="curation: curated" src="https://img.shields.io/badge/curation-curated-334155?style=flat-square" /> <img alt="coverage: benchmark-aware" src="https://img.shields.io/badge/coverage-benchmark--aware-7c3aed?style=flat-square" />
+<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="LICENSE"><img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-2563eb?style=flat-square" /></a> <img alt="entries: 57" src="https://img.shields.io/badge/entries-57-0f766e?style=flat-square" /> <img alt="benchmarks: 14" src="https://img.shields.io/badge/benchmarks-14-b45309?style=flat-square" /> <img alt="updated: 2026-04-05" src="https://img.shields.io/badge/updated-2026--04--05-475569?style=flat-square" /> <img alt="curation: curated" src="https://img.shields.io/badge/curation-curated-334155?style=flat-square" /> <img alt="coverage: benchmark-aware" src="https://img.shields.io/badge/coverage-benchmark--aware-7c3aed?style=flat-square" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ This ladder separates human-driven tools, human-in-the-loop collaborators, and A
 | [📚 Literature Discovery & Synthesis](docs/sections/literature-discovery-synthesis.md#literature-discovery-synthesis) | Systems focused on finding, organizing, comparing, and synthesizing prior work. | 5 |
 | [📝 Survey / Review Automation](docs/sections/survey-review-automation.md#survey-review-automation) | Systems designed to produce structured surveys, reviews, or systematic review-style outputs. | 3 |
 | [🧱 Research Infrastructure & Frameworks](docs/sections/research-infrastructure-frameworks.md#research-infrastructure-frameworks) | Frameworks, platforms, runtimes, and engineering environments for building and operating research agents. | 6 |
-| [📏 Benchmarks & Evaluation](docs/benchmarks/index.md#benchmarks-evaluation) | Benchmarks, datasets, metrics, and evaluation frameworks for research agents and AI-for-research systems. | 13 |
+| [📏 Benchmarks & Evaluation](docs/benchmarks/index.md#benchmarks-evaluation) | Benchmarks, datasets, metrics, and evaluation frameworks for research agents and AI-for-research systems. | 14 |
 
 
 ---
