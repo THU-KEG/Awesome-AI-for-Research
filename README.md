@@ -3,7 +3,7 @@
 <h1 align="center">Awesome AI for Research</h1>
 
 <p align="center">
-<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="LICENSE"><img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-2563eb?style=flat-square" /></a> <img alt="entries: 57" src="https://img.shields.io/badge/entries-57-0f766e?style=flat-square" /> <img alt="benchmarks: 14" src="https://img.shields.io/badge/benchmarks-14-b45309?style=flat-square" /> <img alt="updated: 2026-04-05" src="https://img.shields.io/badge/updated-2026--04--05-475569?style=flat-square" /> <img alt="curation: curated" src="https://img.shields.io/badge/curation-curated-334155?style=flat-square" /> <img alt="coverage: benchmark-aware" src="https://img.shields.io/badge/coverage-benchmark--aware-7c3aed?style=flat-square" />
+<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="LICENSE"><img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-2563eb?style=flat-square" /></a> <img alt="entries: 59" src="https://img.shields.io/badge/entries-59-0f766e?style=flat-square" /> <img alt="benchmarks: 14" src="https://img.shields.io/badge/benchmarks-14-b45309?style=flat-square" /> <img alt="updated: 2026-04-10" src="https://img.shields.io/badge/updated-2026--04--10-475569?style=flat-square" /> <img alt="curation: curated" src="https://img.shields.io/badge/curation-curated-334155?style=flat-square" /> <img alt="coverage: benchmark-aware" src="https://img.shields.io/badge/coverage-benchmark--aware-7c3aed?style=flat-square" />
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ This ladder separates human-driven tools, human-in-the-loop collaborators, and A
 
 1. [`L1 Tools · 19`](docs/views/by-intelligence-level.md#l1-tools) - Human drives the loop. The AI acts as a tool, local component, or narrow assistant rather than as a workflow owner.
 2. [`L2 Collaborators · 17`](docs/views/by-intelligence-level.md#l2-collaborators) - Human in the loop. The AI can advance multi-step work, but humans still steer, gate, or validate important decisions.
-3. [`L3 Systems · 21`](docs/views/by-intelligence-level.md#l3-systems) - AI drives the loop. The system owns substantial execution and iteration, while humans mainly provide goals, constraints, or downstream review.
+3. [`L3 Systems · 23`](docs/views/by-intelligence-level.md#l3-systems) - AI drives the loop. The system owns substantial execution and iteration, while humans mainly provide goals, constraints, or downstream review.
 
 
 ---
@@ -90,7 +90,7 @@ This ladder separates human-driven tools, human-in-the-loop collaborators, and A
 
 | Section | Focus | Count |
 | --- | --- | --- |
-| [🔬 End-to-End Research Systems](docs/sections/end-to-end-research-systems.md#end-to-end-research-systems) | Systems that cover multiple core stages of the research process and aim to complete a relatively full research loop with limited human intervention. | 8 |
+| [🔬 End-to-End Research Systems](docs/sections/end-to-end-research-systems.md#end-to-end-research-systems) | Systems that cover multiple core stages of the research process and aim to complete a relatively full research loop with limited human intervention. | 10 |
 | [⚙️ Experimentation & Agent Methods](docs/sections/experimentation-agent-methods.md#experimentation-agent-methods) | Systems, methods, and specialized agents whose main contribution is iterative experimentation, optimization, search, reflection, or self-improving execution, rather than a full end-to-end research workflow. | 29 |
 | [💡 Research Ideation](docs/sections/research-ideation.md#research-ideation) | Systems focused on generating research questions, hypotheses, directions, or project ideas. | 6 |
 | [📚 Literature Discovery & Synthesis](docs/sections/literature-discovery-synthesis.md#literature-discovery-synthesis) | Systems focused on finding, organizing, comparing, and synthesizing prior work. | 5 |
@@ -108,11 +108,11 @@ Use this view when you want to find systems through the disciplines where they a
 
 | Domain | Focus | Count |
 | --- | --- | --- |
-| [Artificial Intelligence](docs/views/by-domain.md#ai) | Applications in artificial intelligence research, machine learning research workflows, and AI-for-AI systems with explicit AI research targets or evaluation. | 21 |
+| [Artificial Intelligence](docs/views/by-domain.md#ai) | Applications in artificial intelligence research, machine learning research workflows, and AI-for-AI systems with explicit AI research targets or evaluation. | 23 |
 | [Biomedical](docs/views/by-domain.md#biomedical) | Applications in biology, medicine, drug discovery, and biomedical literature. | 4 |
 | [Chemistry](docs/views/by-domain.md#chemistry) | Applications in chemical reasoning, synthesis, and molecular discovery. | 2 |
 | [Computer Science](docs/views/by-domain.md#computer-science) | Applications in non-AI computer science research such as formal methods, programming systems, and algorithmic reasoning. | 4 |
-| [General](docs/views/by-domain.md#general) | Cross-domain or discipline-agnostic systems for AI-driven research workflows, literature work, agent infrastructure, and research methodology that are not clearly anchored to one vertical field. | 19 |
+| [General](docs/views/by-domain.md#general) | Cross-domain or discipline-agnostic systems for AI-driven research workflows, literature work, agent infrastructure, and research methodology that are not clearly anchored to one vertical field. | 20 |
 | [Materials Science](docs/views/by-domain.md#materials-science) | Applications in materials discovery, materials property reasoning, and experimental design. | 2 |
 | [Math](docs/views/by-domain.md#math) | Applications in mathematical reasoning, theorem proving, and formal proof discovery. | 3 |
 | [Physics](docs/views/by-domain.md#physics) | Applications in physical science reasoning, modeling, and scientific analysis. | 2 |

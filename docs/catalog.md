@@ -32,6 +32,20 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
+<a id="evoscientist"></a>
+
+### EvoScientist (2026)
+
+End-to-End Research Systems · L3 · Technical report
+
+**Links:** [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai)
+
+**Summary:** A multi-agent evolving framework for end-to-end scientific discovery that uses persistent memory and evolutionary self-improvement across research, engineering, and evolution manager agents.
+
+`self-evolving` `multi-agent` `end-to-end`
+
+---
+
 <a id="autoresearch"></a>
 
 ### Autoresearch (2026)
@@ -43,6 +57,20 @@ Experimentation & Agent Methods · L3 · Repo only
 **Summary:** A self-improving AI research repo where agents iteratively rewrite a small training stack, run short experiments, and keep better variants.
 
 `self-evolving` `single-gpu` `autonomous-research`
+
+---
+
+<a id="internagent"></a>
+
+### InternAgent (2026)
+
+End-to-End Research Systems · L3 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent)
+
+**Summary:** A unified agentic framework for long-horizon autonomous scientific discovery that coordinates generation, verification, and evolution subsystems across both computational and empirical research domains.
+
+`multi-agent` `autonomous-research` `cross-domain`
 
 ---
 

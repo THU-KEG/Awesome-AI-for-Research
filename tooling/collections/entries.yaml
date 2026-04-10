@@ -1441,5 +1441,59 @@
     },
     "stage_focus": "implement",
     "stage_secondary": "execute-experiment"
+  },
+  {
+    "id": "evoscientist",
+    "title": "EvoScientist",
+    "year": 2026,
+    "sort_date": "2026-03-10",
+    "section": "end-to-end-research-systems",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Technical report",
+    "human_role": "Mostly automated",
+    "summary": "A multi-agent evolving framework for end-to-end scientific discovery that uses persistent memory and evolutionary self-improvement across research, engineering, and evolution manager agents.",
+    "why_it_matters": "It combines multi-agent orchestration with evolutionary self-improvement and persistent memory, making it a strong reference for systems that learn from prior research cycles rather than starting each run from scratch.",
+    "tags": [
+      "self-evolving",
+      "multi-agent",
+      "end-to-end"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.08127",
+      "repo": "https://github.com/EvoScientist/EvoScientist",
+      "project": "https://evoscientist.ai"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "internagent",
+    "title": "InternAgent",
+    "year": 2026,
+    "sort_date": "2026-02-09",
+    "section": "end-to-end-research-systems",
+    "level": "l3-systems",
+    "domains": [
+      "ai",
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A unified agentic framework for long-horizon autonomous scientific discovery that coordinates generation, verification, and evolution subsystems across both computational and empirical research domains.",
+    "why_it_matters": "It bridges computational and empirical research within a single unified system, demonstrating cross-domain autonomous discovery across algorithm design, earth sciences, life sciences, and physical sciences.",
+    "tags": [
+      "multi-agent",
+      "autonomous-research",
+      "cross-domain"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2602.08990",
+      "repo": "https://github.com/InternScience/InternAgent"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
   }
 ]
