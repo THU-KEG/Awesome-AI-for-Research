@@ -4,6 +4,34 @@
 
 This page centralizes the detailed records referenced across section pages, grouped views, and benchmark indexes. Items are sorted newest-first.
 
+<a id="aiscientist-long-horizon"></a>
+
+### AiScientist (2026)
+
+End-to-End Research Systems · L3 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.13018)
+
+**Summary:** A system for autonomous long-horizon engineering for ML research combining hierarchical orchestration with File-as-Bus workspace, where specialized agents re-ground on durable artifacts rather than conversational handoffs.
+
+`long-horizon` `hierarchical-orchestration` `file-as-bus` `durable-state`
+
+---
+
+<a id="giants"></a>
+
+### GIANTS (2026)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.09793)
+
+**Summary:** A framework introducing insight anticipation task where model predicts downstream paper's core insight from foundational parent papers, with GiantsBench containing 17k examples across eight scientific domains.
+
+`insight-anticipation` `literature-grounded` `reinforcement-learning` `cross-domain`
+
+---
+
 <a id="autosota"></a>
 
 ### AutoSOTA (2026)
@@ -18,6 +46,20 @@ End-to-End Research Systems · L3 · Execute & Experiment · Preprint
 
 ---
 
+<a id="coral"></a>
+
+### CORAL (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL)
+
+**Summary:** The first framework for autonomous multi-agent evolution on open-ended problems, featuring long-running agents with shared persistent memory, asynchronous multi-agent execution, and heartbeat-based interventions.
+
+`multi-agent-evolution` `open-ended-discovery` `persistent-memory` `autonomous`
+
+---
+
 <a id="automated-w2s-researcher"></a>
 
 ### Automated Weak-to-Strong Researcher (2026)
@@ -29,6 +71,34 @@ Experimentation & Agent Methods · L3 · Execute & Experiment · Organization re
 **Summary:** An autonomous AI agent system built on Claude that proposes ideas, runs experiments, and iterates on the weak-to-strong supervision alignment problem, where a weaker model's feedback is used to train a stronger model.
 
 `alignment-research` `autonomous-agent` `weak-to-strong`
+
+---
+
+<a id="asi-evolve"></a>
+
+### ASI-Evolve (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.29640)
+
+**Summary:** An agentic framework for AI-for-AI research through learn-design-experiment-analyze cycle, augmenting evolutionary agents with cognition base for human priors and dedicated analyzer for distilling outcomes into reusable insights.
+
+`ai-for-ai` `architecture-discovery` `data-curation` `algorithm-design`
+
+---
+
+<a id="flowpie"></a>
+
+### FlowPIE (2026)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.29557)
+
+**Summary:** A tightly coupled retrieval-generation framework treating literature exploration and idea generation as co-evolving process, using flow-guided MCTS and test-time idea evolution with selection, crossover, and mutation.
+
+`flow-guided-retrieval` `test-time-evolution` `gflownets` `co-evolution`
 
 ---
 
@@ -60,6 +130,62 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
+<a id="aira-2"></a>
+
+### AIRA_2 (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.26499)
+
+**Summary:** A research agent system addressing three structural bottlenecks through asynchronous multi-GPU worker pool, Hidden Consistent Evaluation protocol, and ReAct agents that dynamically scope actions and debug interactively.
+
+`multi-gpu` `hidden-evaluation` `react-agent` `scaling-law`
+
+---
+
+<a id="evoideator"></a>
+
+### EvoIdeator (2026)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.21728)
+
+**Summary:** A framework facilitating scientific idea evolution by aligning RL training with checklist-grounded feedback, generating lexicographic rewards for multi-dimensional optimization and fine-grained language feedback with span-level critiques.
+
+`checklist-grounded` `lexicographic-rewards` `idea-evolution` `generalization`
+
+---
+
+<a id="ai-scientist-synthetic-task"></a>
+
+### AI Scientist via Synthetic Task Scaling (2026)
+
+Experimentation & Agent Methods · L2 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.17216)
+
+**Summary:** A novel synthetic environment generation pipeline for machine learning agents that automatically synthesizes ML challenges compatible with SWE-agent framework, covering topic sampling, dataset proposal, and code generation.
+
+`synthetic-tasks` `training-pipeline` `ml-agents` `self-debugging`
+
+---
+
+<a id="idea-catalyst"></a>
+
+### Idea-Catalyst (2026)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.12226)
+
+**Summary:** A framework systematically identifying interdisciplinary insights by decomposing abstract goals into target-domain research questions, reformulating as domain-agnostic problems, and retrieving from external disciplines.
+
+`interdisciplinary` `brainstorming` `creative-reasoning` `domain-transfer`
+
+---
+
 <a id="evoscientist"></a>
 
 ### EvoScientist (2026)
@@ -88,6 +214,20 @@ Experimentation & Agent Methods · L3 · Repo only
 
 ---
 
+<a id="deepinnovator"></a>
+
+### DeepInnovator (2026)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator)
+
+**Summary:** A training framework designed to trigger innovative capability of LLMs through automated knowledge extraction and Next Idea Prediction training paradigm that models idea generation as iterative prediction, evaluation, and refinement.
+
+`innovative-capability` `next-idea-prediction` `training-framework` `knowledge-extraction`
+
+---
+
 <a id="internagent"></a>
 
 ### InternAgent (2026)
@@ -113,6 +253,20 @@ Experimentation & Agent Methods · L3 · Preprint
 **Summary:** A test-time training system that uses reinforcement learning on a single target problem so the model can keep improving while searching for stronger scientific and algorithmic solutions.
 
 `test-time-training` `reinforcement-learning` `scientific-discovery`
+
+---
+
+<a id="execution-grounded-ai-research"></a>
+
+### Towards Execution-Grounded Automated AI Research (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2601.14525)
+
+**Summary:** An investigation into whether automated execution is feasible and whether LLMs can learn from execution feedback, with an automated executor for implementing ideas and large-scale parallel GPU experiments.
+
+`execution-grounding` `evolutionary-search` `automated-execution` `parallel-experiments`
 
 ---
 
@@ -253,6 +407,20 @@ Literature Discovery & Synthesis · L1 · Discover & Synthesize · Journal
 
 ---
 
+<a id="training-ai-co-scientists"></a>
+
+### Training AI Co-Scientists Using Rubric Rewards (2025)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2512.23707)
+
+**Summary:** A scalable training approach that uses rubric-based reinforcement learning to improve LLM research plan generation, with self-grading creating a generator-verifier gap for improvements without external supervision.
+
+`research-planning` `reinforcement-learning` `self-grading` `cross-domain`
+
+---
+
 <a id="thetaevolve"></a>
 
 ### ThetaEvolve (2025)
@@ -264,6 +432,62 @@ Experimentation & Agent Methods · L3 · Implement · Preprint
 **Summary:** An open-source test-time learning framework that combines evolutionary program search with optional reinforcement learning so models can keep improving while tackling open optimization problems.
 
 `test-time-learning` `reinforcement-learning` `program-evolution`
+
+---
+
+<a id="agentexpt"></a>
+
+### AgentExpt (2025)
+
+Experimentation & Agent Methods · L2 · Implement · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2511.04921)
+
+**Summary:** A comprehensive framework for baseline and dataset recommendation that automates AI experiment design, using collective perception enhanced retriever and reasoning-augmented reranker.
+
+`baseline-recommendation` `dataset-retrieval` `collective-perception` `experiment-design`
+
+---
+
+<a id="deep-ideation"></a>
+
+### Deep Ideation (2025)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2511.02238) · [Repo](https://github.com/kyZhao-1/Deep-Ideation)
+
+**Summary:** A framework integrating scientific network with keyword co-occurrence and contextual relationships, featuring an explore-expand-evolve workflow with Idea Stack tracking and critic engine trained on real-world reviewer feedback.
+
+`scientific-network` `idea-refinement` `critic-engine` `explore-expand-evolve`
+
+---
+
+<a id="kosmos"></a>
+
+### Kosmos (2025)
+
+End-to-End Research Systems · L3 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2511.02824)
+
+**Summary:** An AI scientist that automates data-driven discovery with up to 12 hours of parallel data analysis, literature search, and hypothesis generation, using a structured world model for coherent long-horizon pursuit.
+
+`data-driven-discovery` `world-model` `multi-agent` `cross-domain`
+
+---
+
+<a id="freephdlabor"></a>
+
+### freephdlabor (2025)
+
+End-to-End Research Systems · L3 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2510.15624)
+
+**Summary:** An open-source multiagent framework featuring fully dynamic workflows determined by real-time agent reasoning, with modular architecture, automatic context compaction, workspace-based communication, and memory persistence.
+
+`multi-agent` `dynamic-workflows` `continual-research` `modular-architecture`
 
 ---
 
