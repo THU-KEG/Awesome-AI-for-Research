@@ -1573,5 +1573,424 @@
     },
     "stage_focus": "write-review",
     "stage_secondary": "discover-synthesize"
+  },
+  {
+    "id": "training-ai-co-scientists",
+    "title": "Training AI Co-Scientists Using Rubric Rewards",
+    "year": 2025,
+    "sort_date": "2025-12-29",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A scalable training approach that uses rubric-based reinforcement learning to improve LLM research plan generation, with self-grading creating a generator-verifier gap for improvements without external supervision.",
+    "why_it_matters": "It is a representative example of self-supervised training for research agents, showing that rubric-based self-grading can create a generator-verifier gap for improving research plan generation without human supervision.",
+    "tags": [
+      "research-planning",
+      "reinforcement-learning",
+      "self-grading",
+      "cross-domain"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2512.23707"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": "plan-design"
+  },
+  {
+    "id": "freephdlabor",
+    "title": "freephdlabor",
+    "year": 2025,
+    "sort_date": "2025-10-17",
+    "section": "end-to-end-research-systems",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "An open-source multiagent framework featuring fully dynamic workflows determined by real-time agent reasoning, with modular architecture, automatic context compaction, workspace-based communication, and memory persistence.",
+    "why_it_matters": "It is a strong infrastructure reference for continual research automation, demonstrating how dynamic workflows and persistent memory can turn isolated research attempts into coherent, evolving research programs.",
+    "tags": [
+      "multi-agent",
+      "dynamic-workflows",
+      "continual-research",
+      "modular-architecture"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2510.15624"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "execution-grounded-ai-research",
+    "title": "Towards Execution-Grounded Automated AI Research",
+    "year": 2026,
+    "sort_date": "2026-01-20",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "An investigation into whether automated execution is feasible and whether LLMs can learn from execution feedback, with an automated executor for implementing ideas and large-scale parallel GPU experiments.",
+    "why_it_matters": "It addresses the fundamental question of whether execution feedback can ground automated research, providing concrete evidence that evolutionary search over execution outcomes is a viable path for discovering research methods.",
+    "tags": [
+      "execution-grounding",
+      "evolutionary-search",
+      "automated-execution",
+      "parallel-experiments"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2601.14525"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "ideate"
+  },
+  {
+    "id": "kosmos",
+    "title": "Kosmos",
+    "year": 2025,
+    "sort_date": "2025-11-04",
+    "section": "end-to-end-research-systems",
+    "level": "l3-systems",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "An AI scientist that automates data-driven discovery with up to 12 hours of parallel data analysis, literature search, and hypothesis generation, using a structured world model for coherent long-horizon pursuit.",
+    "why_it_matters": "It is a strong cross-domain reference for long-horizon autonomous discovery, showing how a structured world model can enable coherent multi-agent coordination over hundreds of rollouts across diverse scientific domains.",
+    "tags": [
+      "data-driven-discovery",
+      "world-model",
+      "multi-agent",
+      "cross-domain"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2511.02824"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "deepinnovator",
+    "title": "DeepInnovator",
+    "year": 2026,
+    "sort_date": "2026-02-21",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A training framework designed to trigger innovative capability of LLMs through automated knowledge extraction and Next Idea Prediction training paradigm that models idea generation as iterative prediction, evaluation, and refinement.",
+    "why_it_matters": "It is representative of the training-based approach to research ideation, moving beyond prompt engineering to show how next-idea prediction can be formulated as a learnable objective from scientific literature.",
+    "tags": [
+      "innovative-capability",
+      "next-idea-prediction",
+      "training-framework",
+      "knowledge-extraction"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2602.18920",
+      "repo": "https://github.com/HKUDS/DeepInnovator"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": null
+  },
+  {
+    "id": "deep-ideation",
+    "title": "Deep Ideation",
+    "year": 2025,
+    "sort_date": "2025-11-04",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A framework integrating scientific network with keyword co-occurrence and contextual relationships, featuring an explore-expand-evolve workflow with Idea Stack tracking and critic engine trained on real-world reviewer feedback.",
+    "why_it_matters": "It is a strong ideation reference that grounds idea generation in scientific concept networks rather than isolated prompts, demonstrating how literature structure can guide the explore-expand-evolve discovery workflow.",
+    "tags": [
+      "scientific-network",
+      "idea-refinement",
+      "critic-engine",
+      "explore-expand-evolve"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2511.02238",
+      "repo": "https://github.com/kyZhao-1/Deep-Ideation"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": "discover-synthesize"
+  },
+  {
+    "id": "agentexpt",
+    "title": "AgentExpt",
+    "year": 2025,
+    "sort_date": "2025-11-07",
+    "section": "experimentation-agent-methods",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A comprehensive framework for baseline and dataset recommendation that automates AI experiment design, using collective perception enhanced retriever and reasoning-augmented reranker.",
+    "why_it_matters": "It is a useful infrastructure anchor for experiment automation, showing how collective citation perception can drive baseline and dataset retrieval to reduce manual experiment setup overhead.",
+    "tags": [
+      "baseline-recommendation",
+      "dataset-retrieval",
+      "collective-perception",
+      "experiment-design"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2511.04921"
+    },
+    "stage_focus": "implement",
+    "stage_secondary": "plan-design"
+  },
+  {
+    "id": "aira-2",
+    "title": "AIRA_2",
+    "year": 2026,
+    "sort_date": "2026-03-27",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A research agent system addressing three structural bottlenecks through asynchronous multi-GPU worker pool, Hidden Consistent Evaluation protocol, and ReAct agents that dynamically scope actions and debug interactively.",
+    "why_it_matters": "It is a systems-level reference that explicitly identifies and addresses structural bottlenecks in research agents, demonstrating that sample throughput, evaluation reliability, and agent capability each require distinct architectural solutions.",
+    "tags": [
+      "multi-gpu",
+      "hidden-evaluation",
+      "react-agent",
+      "scaling-law"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.26499"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "implement"
+  },
+  {
+    "id": "evoideator",
+    "title": "EvoIdeator",
+    "year": 2026,
+    "sort_date": "2026-03-23",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A framework facilitating scientific idea evolution by aligning RL training with checklist-grounded feedback, generating lexicographic rewards for multi-dimensional optimization and fine-grained language feedback with span-level critiques.",
+    "why_it_matters": "It bridges RL training with structured feedback for idea evolution, showing that checklist-grounded language feedback can provide the granularity that scalar rewards lack for iterative ideation refinement.",
+    "tags": [
+      "checklist-grounded",
+      "lexicographic-rewards",
+      "idea-evolution",
+      "generalization"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.21728"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": null
+  },
+  {
+    "id": "asi-evolve",
+    "title": "ASI-Evolve",
+    "year": 2026,
+    "sort_date": "2026-03-31",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "An agentic framework for AI-for-AI research through learn-design-experiment-analyze cycle, augmenting evolutionary agents with cognition base for human priors and dedicated analyzer for distilling outcomes into reusable insights.",
+    "why_it_matters": "It is a unified AI-for-AI reference that demonstrates closed-loop discovery across the full AI stack—data, architectures, and algorithms—within a single learn-design-experiment-analyze framework.",
+    "tags": [
+      "ai-for-ai",
+      "architecture-discovery",
+      "data-curation",
+      "algorithm-design"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.29640"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "implement"
+  },
+  {
+    "id": "idea-catalyst",
+    "title": "Idea-Catalyst",
+    "year": 2026,
+    "sort_date": "2026-03-12",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A framework systematically identifying interdisciplinary insights by decomposing abstract goals into target-domain research questions, reformulating as domain-agnostic problems, and retrieving from external disciplines.",
+    "why_it_matters": "It is representative of interdisciplinary ideation systems, showing how abstract research goals can be systematically decomposed and reconnected to insights from external disciplines rather than relying solely on in-domain knowledge.",
+    "tags": [
+      "interdisciplinary",
+      "brainstorming",
+      "creative-reasoning",
+      "domain-transfer"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.12226"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": "discover-synthesize"
+  },
+  {
+    "id": "coral",
+    "title": "CORAL",
+    "year": 2026,
+    "sort_date": "2026-04-02",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "The first framework for autonomous multi-agent evolution on open-ended problems, featuring long-running agents with shared persistent memory, asynchronous multi-agent execution, and heartbeat-based interventions.",
+    "why_it_matters": "It is a strong autonomy reference for open-ended discovery, replacing fixed evolutionary heuristics with long-running agents that explore, reflect, and communicate through persistent memory and asynchronous coordination.",
+    "tags": [
+      "multi-agent-evolution",
+      "open-ended-discovery",
+      "persistent-memory",
+      "autonomous"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.01658",
+      "repo": "https://github.com/Human-Agent-Society/CORAL"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "implement"
+  },
+  {
+    "id": "ai-scientist-synthetic-task",
+    "title": "AI Scientist via Synthetic Task Scaling",
+    "year": 2026,
+    "sort_date": "2026-03-17",
+    "section": "experimentation-agent-methods",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A novel synthetic environment generation pipeline for machine learning agents that automatically synthesizes ML challenges compatible with SWE-agent framework, covering topic sampling, dataset proposal, and code generation.",
+    "why_it_matters": "It addresses the training data bottleneck for research agents by showing how synthetic ML tasks can be automatically generated and verified, providing a scalable path for agents to learn from doing without human-curated datasets.",
+    "tags": [
+      "synthetic-tasks",
+      "training-pipeline",
+      "ml-agents",
+      "self-debugging"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.17216"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "implement"
+  },
+  {
+    "id": "giants",
+    "title": "GIANTS",
+    "year": 2026,
+    "sort_date": "2026-04-10",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A framework introducing insight anticipation task where model predicts downstream paper's core insight from foundational parent papers, with GiantsBench containing 17k examples across eight scientific domains.",
+    "why_it_matters": "It introduces insight anticipation as a literature-grounded generation task, framing scientific synthesis as predicting downstream contributions from parent papers rather than extracting or summarizing existing content.",
+    "tags": [
+      "insight-anticipation",
+      "literature-grounded",
+      "reinforcement-learning",
+      "cross-domain"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.09793"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": "discover-synthesize"
+  },
+  {
+    "id": "flowpie",
+    "title": "FlowPIE",
+    "year": 2026,
+    "sort_date": "2026-03-31",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A tightly coupled retrieval-generation framework treating literature exploration and idea generation as co-evolving process, using flow-guided MCTS and test-time idea evolution with selection, crossover, and mutation.",
+    "why_it_matters": "It is representative of test-time idea evolution systems, tightly coupling retrieval and generation into a co-evolving process where literature exploration adapts to current idea quality rather than remaining static.",
+    "tags": [
+      "flow-guided-retrieval",
+      "test-time-evolution",
+      "gflownets",
+      "co-evolution"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.29557"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": "discover-synthesize"
+  },
+  {
+    "id": "aiscientist-long-horizon",
+    "title": "AiScientist",
+    "year": 2026,
+    "sort_date": "2026-04-14",
+    "section": "end-to-end-research-systems",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A system for autonomous long-horizon engineering for ML research combining hierarchical orchestration with File-as-Bus workspace, where specialized agents re-ground on durable artifacts rather than conversational handoffs.",
+    "why_it_matters": "It is a strong long-horizon engineering reference, showing that durable state artifacts—rather than conversational context—are the key to sustaining coherent multi-stage research workflows over hours or days.",
+    "tags": [
+      "long-horizon",
+      "hierarchical-orchestration",
+      "file-as-bus",
+      "durable-state"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.13018"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
   }
 ]

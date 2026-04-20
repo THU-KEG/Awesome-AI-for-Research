@@ -9,8 +9,8 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 ## On this page
 
 - [L1 Tools](#l1-tools) (19)
-- [L2 Collaborators](#l2-collaborators) (17)
-- [L3 Systems](#l3-systems) (26)
+- [L2 Collaborators](#l2-collaborators) (26)
+- [L3 Systems](#l3-systems) (33)
 
 <a id="l1-tools"></a>
 ## L1 Tools
@@ -48,8 +48,17 @@ Human in the loop. The AI can advance multi-step work, but humans still steer, g
 
 | Work | Details | External |
 | --- | --- | --- |
+| GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
+| FlowPIE (2026) | [Details](../catalog.md#flowpie) | [Paper](https://arxiv.org/abs/2603.29557) |
+| EvoIdeator (2026) | [Details](../catalog.md#evoideator) | [Paper](https://arxiv.org/abs/2603.21728) |
+| AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
+| Idea-Catalyst (2026) | [Details](../catalog.md#idea-catalyst) | [Paper](https://arxiv.org/abs/2603.12226) |
+| DeepInnovator (2026) | [Details](../catalog.md#deepinnovator) | [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator) |
 | ARIS (2026) | [Details](../catalog.md#aris) | [Repo](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
+| Training AI Co-Scientists Using Rubric Rewards (2025) | [Details](../catalog.md#training-ai-co-scientists) | [Paper](https://arxiv.org/abs/2512.23707) |
+| AgentExpt (2025) | [Details](../catalog.md#agentexpt) | [Paper](https://arxiv.org/abs/2511.04921) |
+| Deep Ideation (2025) | [Details](../catalog.md#deep-ideation) | [Paper](https://arxiv.org/abs/2511.02238) · [Repo](https://github.com/kyZhao-1/Deep-Ideation) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | Agent Laboratory (2025) | [Details](../catalog.md#agent-laboratory) | [Paper](https://arxiv.org/abs/2501.04227) · [Project](https://agentlaboratory.github.io/) |
 | AgentSociety (2025) | [Details](../catalog.md#agentsociety) | [Paper](https://arxiv.org/abs/2502.08691) · [Repo](https://github.com/tsinghua-fib-lab/AgentSociety) · [Project](https://agentsociety.readthedocs.io/) |
@@ -75,19 +84,26 @@ AI drives the loop. The system owns substantial execution and iteration, while h
 
 | Work | Details | External |
 | --- | --- | --- |
+| AiScientist (2026) | [Details](../catalog.md#aiscientist-long-horizon) | [Paper](https://arxiv.org/abs/2604.13018) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
 | PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
+| CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
+| ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
 | Meta-Harness (2026) | [Details](../catalog.md#meta-harness) | [Paper](https://arxiv.org/abs/2603.28052) · [Project](https://yoonholee.com/meta-harness/) |
 | Towards a Medical AI Scientist (2026) | [Details](../catalog.md#medical-ai-scientist) | [Paper](https://arxiv.org/abs/2603.28589) |
+| AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |
 | Autoresearch (2026) | [Details](../catalog.md#autoresearch) | [Repo](https://github.com/karpathy/autoresearch) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | Learning to Discover at Test Time (2026) | [Details](../catalog.md#ttt-discover) | [Paper](https://doi.org/10.48550/arXiv.2601.16175) · [Project](https://test-time-training.github.io/discover/) |
+| Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
 | AutoResearchClaw (2026) | [Details](../catalog.md#autoresearchclaw) | [Repo](https://github.com/aiming-lab/AutoResearchClaw) |
 | Claudini (2026) | [Details](../catalog.md#claudini) | [Paper](https://doi.org/10.48550/arXiv.2603.24511) · [Repo](https://github.com/romovpa/claudini) |
 | ThetaEvolve (2025) | [Details](../catalog.md#thetaevolve) | [Paper](https://arxiv.org/abs/2511.23473) · [Repo](https://github.com/ypwang61/ThetaEvolve) |
+| Kosmos (2025) | [Details](../catalog.md#kosmos) | [Paper](https://arxiv.org/abs/2511.02824) |
+| freephdlabor (2025) | [Details](../catalog.md#freephdlabor) | [Paper](https://arxiv.org/abs/2510.15624) |
 | ShinkaEvolve (2025) | [Details](../catalog.md#shinkaevolve) | [Paper](https://arxiv.org/abs/2509.19349) · [Repo](https://github.com/SakanaAI/ShinkaEvolve) |
 | AlphaEvolve (2025) | [Details](../catalog.md#alphaevolve) | [Paper](https://arxiv.org/abs/2506.13131) · [Blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) |
 | Agentic AI for Multi-Stage Physics Experiments at a Large-Scale User Facility Particle Accelerator (2025) | [Details](../catalog.md#agentic-physics-experiments) | [Paper](https://arxiv.org/abs/2509.17255) |

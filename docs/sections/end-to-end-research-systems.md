@@ -17,12 +17,15 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| AiScientist (2026) | [Details](../catalog.md#aiscientist-long-horizon) | [Paper](https://arxiv.org/abs/2604.13018) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
 | Towards a Medical AI Scientist (2026) | [Details](../catalog.md#medical-ai-scientist) | [Paper](https://arxiv.org/abs/2603.28589) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | ARIS (2026) | [Details](../catalog.md#aris) | [Repo](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
 | AutoResearchClaw (2026) | [Details](../catalog.md#autoresearchclaw) | [Repo](https://github.com/aiming-lab/AutoResearchClaw) |
+| Kosmos (2025) | [Details](../catalog.md#kosmos) | [Paper](https://arxiv.org/abs/2511.02824) |
+| freephdlabor (2025) | [Details](../catalog.md#freephdlabor) | [Paper](https://arxiv.org/abs/2510.15624) |
 | Agent Laboratory (2025) | [Details](../catalog.md#agent-laboratory) | [Paper](https://arxiv.org/abs/2501.04227) · [Project](https://agentlaboratory.github.io/) |
 | AI-Researcher (2025) | [Details](../catalog.md#ai-researcher) | [Paper](https://arxiv.org/abs/2505.18705) · [Repo](https://github.com/hkuds/ai-researcher) · [Project](https://autoresearcher.github.io/) |
 | SciMaster (2025) | [Details](../catalog.md#scimaster) | [Paper](https://arxiv.org/abs/2507.05241) · [Repo](https://github.com/sjtu-sai-agents/X-Master) · [Project](https://scimaster.bohrium.com/) |

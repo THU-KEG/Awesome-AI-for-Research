@@ -6,11 +6,11 @@ Use this page when you want to find systems by the stage of research they most c
 
 ## On this page
 
-- [Discover & Synthesize](#discover-synthesize) (10)
-- [Ideate](#ideate) (8)
-- [Plan & Design](#plan-design) (2)
-- [Implement](#implement) (9)
-- [Execute & Experiment](#execute-experiment) (22)
+- [Discover & Synthesize](#discover-synthesize) (14)
+- [Ideate](#ideate) (16)
+- [Plan & Design](#plan-design) (4)
+- [Implement](#implement) (14)
+- [Execute & Experiment](#execute-experiment) (27)
 - [Analyze & Visualize](#analyze-visualize) (8)
 - [Write & Review](#write-review) (7)
 
@@ -21,8 +21,12 @@ Literature search, evidence gathering, contradiction spotting, and structured sy
 
 | Work | Details | External |
 | --- | --- | --- |
+| GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
 | PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
+| FlowPIE (2026) | [Details](../catalog.md#flowpie) | [Paper](https://arxiv.org/abs/2603.29557) |
+| Idea-Catalyst (2026) | [Details](../catalog.md#idea-catalyst) | [Paper](https://arxiv.org/abs/2603.12226) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
+| Deep Ideation (2025) | [Details](../catalog.md#deep-ideation) | [Paper](https://arxiv.org/abs/2511.02238) · [Repo](https://github.com/kyZhao-1/Deep-Ideation) |
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | PaSa (2025) | [Details](../catalog.md#pasa) | [Paper](https://arxiv.org/abs/2501.10120) · [Repo](https://github.com/bytedance/pasa) · [Project](https://pasa-agent.ai/) |
 | SurveyX (2025) | [Details](../catalog.md#surveyx) | [Paper](https://arxiv.org/abs/2502.14776) · [Repo](https://github.com/IAAR-Shanghai/SurveyX) · [Project](https://www.surveyx.cn/) |
@@ -41,7 +45,15 @@ Hypothesis generation, gap finding, analogical search, and research framing.
 
 | Work | Details | External |
 | --- | --- | --- |
+| GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
+| FlowPIE (2026) | [Details](../catalog.md#flowpie) | [Paper](https://arxiv.org/abs/2603.29557) |
+| EvoIdeator (2026) | [Details](../catalog.md#evoideator) | [Paper](https://arxiv.org/abs/2603.21728) |
+| Idea-Catalyst (2026) | [Details](../catalog.md#idea-catalyst) | [Paper](https://arxiv.org/abs/2603.12226) |
+| DeepInnovator (2026) | [Details](../catalog.md#deepinnovator) | [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator) |
+| Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |
+| Training AI Co-Scientists Using Rubric Rewards (2025) | [Details](../catalog.md#training-ai-co-scientists) | [Paper](https://arxiv.org/abs/2512.23707) |
+| Deep Ideation (2025) | [Details](../catalog.md#deep-ideation) | [Paper](https://arxiv.org/abs/2511.02238) · [Repo](https://github.com/kyZhao-1/Deep-Ideation) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | AlphaGo Moment for Model Architecture Discovery (2025) | [Details](../catalog.md#alpha-go-moment) | [Paper](https://arxiv.org/abs/2507.18074) · [Repo](https://github.com/GAIR-NLP/ASI-Arch) |
 | The Ideation-Execution Gap (2025) | [Details](../catalog.md#ideation-execution-gap) | [Paper](https://arxiv.org/abs/2506.20803) |
@@ -59,6 +71,8 @@ Protocol drafting, experiment planning, evaluation design, and task decompositio
 
 | Work | Details | External |
 | --- | --- | --- |
+| Training AI Co-Scientists Using Rubric Rewards (2025) | [Details](../catalog.md#training-ai-co-scientists) | [Paper](https://arxiv.org/abs/2512.23707) |
+| AgentExpt (2025) | [Details](../catalog.md#agentexpt) | [Paper](https://arxiv.org/abs/2511.04921) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | ResearchAgent (2024) | [Details](../catalog.md#researchagent) | [Paper](https://arxiv.org/abs/2404.07738) · [Project](https://www.microsoft.com/en-us/research/publication/researchagent-iterative-research-idea-generation-over-scientific-literature-with-large-language-models/) |
 
@@ -72,10 +86,15 @@ Code generation, pipeline assembly, environment setup, and artifact construction
 | Work | Details | External |
 | --- | --- | --- |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
+| CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
+| ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
 | Meta-Harness (2026) | [Details](../catalog.md#meta-harness) | [Paper](https://arxiv.org/abs/2603.28052) · [Project](https://yoonholee.com/meta-harness/) |
+| AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
+| AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | ThetaEvolve (2025) | [Details](../catalog.md#thetaevolve) | [Paper](https://arxiv.org/abs/2511.23473) · [Repo](https://github.com/ypwang61/ThetaEvolve) |
+| AgentExpt (2025) | [Details](../catalog.md#agentexpt) | [Paper](https://arxiv.org/abs/2511.04921) |
 | ShinkaEvolve (2025) | [Details](../catalog.md#shinkaevolve) | [Paper](https://arxiv.org/abs/2509.19349) · [Repo](https://github.com/SakanaAI/ShinkaEvolve) |
 | AlphaEvolve (2025) | [Details](../catalog.md#alphaevolve) | [Paper](https://arxiv.org/abs/2506.13131) · [Blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) |
 | AIDE (2025) | [Details](../catalog.md#aide) | [Paper](https://arxiv.org/abs/2502.13138) · [Repo](https://github.com/WecoAI/aideml) · [Project](https://www.aide.ml/) |
@@ -91,8 +110,13 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 | Work | Details | External |
 | --- | --- | --- |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
+| CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
+| ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
 | Meta-Harness (2026) | [Details](../catalog.md#meta-harness) | [Paper](https://arxiv.org/abs/2603.28052) · [Project](https://yoonholee.com/meta-harness/) |
+| AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
+| AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
+| Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | ThetaEvolve (2025) | [Details](../catalog.md#thetaevolve) | [Paper](https://arxiv.org/abs/2511.23473) · [Repo](https://github.com/ypwang61/ThetaEvolve) |

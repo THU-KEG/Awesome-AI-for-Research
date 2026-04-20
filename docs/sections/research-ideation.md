@@ -17,6 +17,13 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
+| FlowPIE (2026) | [Details](../catalog.md#flowpie) | [Paper](https://arxiv.org/abs/2603.29557) |
+| EvoIdeator (2026) | [Details](../catalog.md#evoideator) | [Paper](https://arxiv.org/abs/2603.21728) |
+| Idea-Catalyst (2026) | [Details](../catalog.md#idea-catalyst) | [Paper](https://arxiv.org/abs/2603.12226) |
+| DeepInnovator (2026) | [Details](../catalog.md#deepinnovator) | [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator) |
+| Training AI Co-Scientists Using Rubric Rewards (2025) | [Details](../catalog.md#training-ai-co-scientists) | [Paper](https://arxiv.org/abs/2512.23707) |
+| Deep Ideation (2025) | [Details](../catalog.md#deep-ideation) | [Paper](https://arxiv.org/abs/2511.02238) · [Repo](https://github.com/kyZhao-1/Deep-Ideation) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | The Ideation-Execution Gap (2025) | [Details](../catalog.md#ideation-execution-gap) | [Paper](https://arxiv.org/abs/2506.20803) |
 | The Ramon Llull's Thinking Machine for Automated Ideation (2025) | [Details](../catalog.md#ramon-llull-thinking-machine) | [Paper](https://openreview.net/forum?id=DhIqrga74P) |
