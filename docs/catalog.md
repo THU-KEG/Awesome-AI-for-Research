@@ -18,6 +18,20 @@ End-to-End Research Systems · L3 · Execute & Experiment · Preprint
 
 ---
 
+<a id="paperorchestra"></a>
+
+### PaperOrchestra (2026)
+
+Survey / Review Automation · L3 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/)
+
+**Summary:** A multi-agent paper-writing framework that turns unstructured pre-writing materials into submission-ready LaTeX manuscripts through coordinated outline, plotting, literature review, section writing, and refinement agents.
+
+`paper-writing` `multi-agent` `latex-generation`
+
+---
+
 <a id="automated-w2s-researcher"></a>
 
 ### Automated Weak-to-Strong Researcher (2026)
@@ -210,6 +224,19 @@ Experimentation & Agent Methods · L1 · Technical report
 **Summary:** A continually learnable agent-designing agent that externalizes reusable skills as markdown memory and updates them through a read-write reflective learning loop.
 
 `self-evolving` `continual-learning` `externalized-memory`
+
+---
+
+<a id="paperwritingbench"></a>
+### PaperWritingBench (2026)
+
+System Benchmark · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/)
+
+**Summary:** A benchmark of reverse-engineered pre-writing materials from 200 top-tier AI conference papers (100 each from CVPR 2025 and ICLR 2025), pairing idea summaries, experimental logs, and venue-specific LaTeX templates with automated evaluators for assessing end-to-end paper-writing agents.
+
+`paper-writing` `manuscript-evaluation` `latex-generation`
 
 ---
 

@@ -17,6 +17,7 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | SurveyX (2025) | [Details](../catalog.md#surveyx) | [Paper](https://arxiv.org/abs/2502.14776) · [Repo](https://github.com/IAAR-Shanghai/SurveyX) · [Project](https://www.surveyx.cn/) |
 | AutoSurvey (2024) | [Details](../catalog.md#autosurvey) | [Paper](https://arxiv.org/abs/2406.10252) · [Repo](https://github.com/AutoSurveys/AutoSurvey) |

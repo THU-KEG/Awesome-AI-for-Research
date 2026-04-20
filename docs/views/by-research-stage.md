@@ -6,13 +6,13 @@ Use this page when you want to find systems by the stage of research they most c
 
 ## On this page
 
-- [Discover & Synthesize](#discover-synthesize) (9)
+- [Discover & Synthesize](#discover-synthesize) (10)
 - [Ideate](#ideate) (8)
 - [Plan & Design](#plan-design) (2)
 - [Implement](#implement) (9)
 - [Execute & Experiment](#execute-experiment) (22)
 - [Analyze & Visualize](#analyze-visualize) (8)
-- [Write & Review](#write-review) (6)
+- [Write & Review](#write-review) (7)
 
 <a id="discover-synthesize"></a>
 ## Discover & Synthesize
@@ -21,6 +21,7 @@ Literature search, evidence gathering, contradiction spotting, and structured sy
 
 | Work | Details | External |
 | --- | --- | --- |
+| PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | PaSa (2025) | [Details](../catalog.md#pasa) | [Paper](https://arxiv.org/abs/2501.10120) · [Repo](https://github.com/bytedance/pasa) · [Project](https://pasa-agent.ai/) |
@@ -139,6 +140,7 @@ Drafting manuscripts, assembling reports, review simulation, and revision.
 
 | Work | Details | External |
 | --- | --- | --- |
+| PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | SurveyX (2025) | [Details](../catalog.md#surveyx) | [Paper](https://arxiv.org/abs/2502.14776) · [Repo](https://github.com/IAAR-Shanghai/SurveyX) · [Project](https://www.surveyx.cn/) |

@@ -6,7 +6,7 @@ Use this page to find systems grouped by application domain.
 
 ## On this page
 
-- [Artificial Intelligence](#ai) (25)
+- [Artificial Intelligence](#ai) (26)
 - [Biomedical](#biomedical) (4)
 - [Chemistry](#chemistry) (2)
 - [Computer Science](#computer-science) (4)
@@ -24,6 +24,7 @@ Applications in artificial intelligence research, machine learning research work
 | Work | Details | External |
 | --- | --- | --- |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
+| PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
 | Meta-Harness (2026) | [Details](../catalog.md#meta-harness) | [Paper](https://arxiv.org/abs/2603.28052) · [Project](https://yoonholee.com/meta-harness/) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |

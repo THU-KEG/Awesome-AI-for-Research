@@ -310,5 +310,25 @@
       "repo": "https://github.com/aisa-group/PostTrainBench",
       "benchmark": "https://posttrainbench.com/"
     }
+  },
+  {
+    "id": "paperwritingbench",
+    "title": "PaperWritingBench",
+    "year": 2026,
+    "evidence": "Preprint",
+    "types": [
+      "System Benchmark"
+    ],
+    "summary": "A benchmark of reverse-engineered pre-writing materials from 200 top-tier AI conference papers (100 each from CVPR 2025 and ICLR 2025), pairing idea summaries, experimental logs, and venue-specific LaTeX templates with automated evaluators for assessing end-to-end paper-writing agents.",
+    "why_it_matters": "It is the first standardized benchmark for AI paper-writing systems because it grounds evaluation in real top-tier conference submissions, covers both double-column and single-column venue layouts, and provides automated evaluators aligned with human-expert side-by-side judgments.",
+    "tags": [
+      "paper-writing",
+      "manuscript-evaluation",
+      "latex-generation"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.05018",
+      "project": "https://yiwen-song.github.io/paper_orchestra/"
+    }
   }
 ]

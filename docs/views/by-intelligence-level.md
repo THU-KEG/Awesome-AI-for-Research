@@ -10,7 +10,7 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 
 - [L1 Tools](#l1-tools) (19)
 - [L2 Collaborators](#l2-collaborators) (17)
-- [L3 Systems](#l3-systems) (25)
+- [L3 Systems](#l3-systems) (26)
 
 <a id="l1-tools"></a>
 ## L1 Tools
@@ -76,6 +76,7 @@ AI drives the loop. The system owns substantial execution and iteration, while h
 | Work | Details | External |
 | --- | --- | --- |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
+| PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
 | Meta-Harness (2026) | [Details](../catalog.md#meta-harness) | [Paper](https://arxiv.org/abs/2603.28052) · [Project](https://yoonholee.com/meta-harness/) |
 | Towards a Medical AI Scientist (2026) | [Details](../catalog.md#medical-ai-scientist) | [Paper](https://arxiv.org/abs/2603.28589) |

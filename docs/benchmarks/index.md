@@ -8,6 +8,7 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 ## Quick Links
 
 - [EXP-Bench](../catalog.md#exp-bench) (2026)
+- [PaperWritingBench](../catalog.md#paperwritingbench) (2026)
 - [PostTrainBench](../catalog.md#posttrainbench) (2026)
 - [ResearchClawBench](../catalog.md#researchclawbench) (2026)
 - [AstaBench](../catalog.md#astabench) (2025)
@@ -36,6 +37,7 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 | Work | Details | External |
 | --- | --- | --- |
 | EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
+| PaperWritingBench (2026) | [Details](../catalog.md#paperwritingbench) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | PostTrainBench (2026) | [Details](../catalog.md#posttrainbench) | [Paper](https://arxiv.org/abs/2603.08640) · [Repo](https://github.com/aisa-group/PostTrainBench) · [Benchmark](https://posttrainbench.com/) |
 | ResearchClawBench (2026) | [Details](../catalog.md#researchclawbench) | [Repo](https://github.com/InternScience/ResearchClawBench) · [Benchmark](https://internscience.github.io/ResearchClawBench-Home/) |
 | AstaBench (2025) | [Details](../catalog.md#astabench) | [Repo](https://github.com/allenai/asta-bench) · [Benchmark](https://allenai.org/asta/bench) · [Blog](https://allenai.org/blog/astabench) |
