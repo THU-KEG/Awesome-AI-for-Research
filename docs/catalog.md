@@ -284,20 +284,6 @@ Experimentation & Agent Methods · L3 · Repo only
 
 ---
 
-<a id="autofigure-edit"></a>
-
-### AutoFigure-Edit (2026)
-
-Research Infrastructure & Frameworks · L1 · Analyze & Visualize · Preprint
-
-**Links:** [Paper](https://arxiv.org/abs/2603.06674) · [Repo](https://github.com/ResearAI/AutoFigure-Edit) · [Project](https://deepscientist.cc/)
-
-**Summary:** End-to-end system generating fully editable scientific illustrations from scientific text with flexible style adaptation through reference images, combining long-context understanding with native SVG editing.
-
-`figure-generation` `editable-output` `svg` `style-adaptation`
-
----
-
 <a id="deepinnovator"></a>
 
 ### DeepInnovator (2026)
@@ -337,34 +323,6 @@ Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
 **Summary:** A principle-evolvable framework treating scientific discovery as Bayesian optimization over an expanding principle space, integrating Information-Directed Hypothesis Selection via Gaussian Process and anomaly-driven augmentation.
 
 `principle-evolution` `bayesian-optimization` `hypothesis-selection` `anomaly-driven`
-
----
-
-<a id="autofigure"></a>
-
-### AutoFigure (2026)
-
-Research Infrastructure & Frameworks · L1 · Analyze & Visualize · Preprint
-
-**Links:** [Paper](https://arxiv.org/abs/2602.03828) · [Repo](https://github.com/ResearAI/AutoFigure)
-
-**Summary:** Agentic framework for generating scientific illustrations from long-form scientific text, engaging in thinking, recombination, and validation to produce publication-ready figures.
-
-`figure-generation` `scientific-illustration` `publication-ready` `agentic`
-
----
-
-<a id="paperbanana"></a>
-
-### PaperBanana (2026)
-
-Research Infrastructure & Frameworks · L1 · Analyze & Visualize · Preprint
-
-**Links:** [Paper](https://arxiv.org/abs/2601.23265)
-
-**Summary:** Agentic framework for automated generation of publication-ready academic illustrations, orchestrating specialized agents for reference retrieval, content planning, image rendering, and iterative refinement via self-critique.
-
-`figure-generation` `self-critique` `publication-ready` `ai-scientist`
 
 ---
 
@@ -588,6 +546,20 @@ Literature Discovery & Synthesis · L1 · Discover & Synthesize · Journal
 
 ---
 
+<a id="scp"></a>
+
+### SCP (2025)
+
+Research Infrastructure & Frameworks · L1 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2512.24189)
+
+**Summary:** An open-source standard (Science Context Protocol) enabling a global network of autonomous scientific agents with unified resource integration and orchestrated experiment lifecycle management over 1,600 tool resources.
+
+`protocol` `tool-ecosystem` `multi-institution` `orchestration`
+
+---
+
 <a id="training-ai-co-scientists"></a>
 
 ### Training AI Co-Scientists Using Rubric Rewards (2025)
@@ -686,17 +658,31 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
-<a id="paper2video"></a>
+<a id="tinyscientist"></a>
 
-### Paper2Video (2025)
+### TinyScientist (2025)
 
-Research Infrastructure & Frameworks · L1 · Write & Review · Preprint
+Research Infrastructure & Frameworks · L1 · Preprint
 
-**Links:** [Paper](https://arxiv.org/abs/2510.05096) · [Repo](https://github.com/showlab/Paper2Video)
+**Links:** [Paper](https://arxiv.org/abs/2510.06579)
 
-**Summary:** Multi-agent framework for academic presentation video generation, integrating slide generation with layout refinement, subtitling, speech synthesis, and talking-head rendering.
+**Summary:** An interactive, extensible, and controllable framework for building research agents, identifying essential components of automatic research workflows with open-source codebase and PyPI package.
 
-`video-generation` `presentation` `multi-modal` `multi-agent`
+`framework` `extensible` `interactive` `modular`
+
+---
+
+<a id="tooluniverse"></a>
+
+### ToolUniverse (2025)
+
+Research Infrastructure & Frameworks · L1 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2509.23426) · [Project](https://aiscientist.tools)
+
+**Summary:** An ecosystem for building AI scientists from any language or reasoning model, providing 600+ ML models, datasets, APIs, and scientific packages with automatic tool interface refinement and workflow composition.
+
+`tool-ecosystem` `democratization` `unified-interface` `extensible`
 
 ---
 

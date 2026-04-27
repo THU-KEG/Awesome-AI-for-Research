@@ -8,7 +8,7 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 
 ## On this page
 
-- [L1 Tools](#l1-tools) (26)
+- [L1 Tools](#l1-tools) (25)
 - [L2 Collaborators](#l2-collaborators) (30)
 - [L3 Systems](#l3-systems) (39)
 
@@ -19,12 +19,11 @@ Human drives the loop. The AI acts as a tool, local component, or narrow assista
 
 | Work | Details | External |
 | --- | --- | --- |
-| AutoFigure-Edit (2026) | [Details](../catalog.md#autofigure-edit) | [Paper](https://arxiv.org/abs/2603.06674) · [Repo](https://github.com/ResearAI/AutoFigure-Edit) · [Project](https://deepscientist.cc/) |
-| AutoFigure (2026) | [Details](../catalog.md#autofigure) | [Paper](https://arxiv.org/abs/2602.03828) · [Repo](https://github.com/ResearAI/AutoFigure) |
-| PaperBanana (2026) | [Details](../catalog.md#paperbanana) | [Paper](https://arxiv.org/abs/2601.23265) |
 | Memento-Skills (2026) | [Details](../catalog.md#memento-skills) | [Paper](https://doi.org/10.48550/arXiv.2603.18743) · [Repo](https://github.com/Memento-Teams/Memento-Skills) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
-| Paper2Video (2025) | [Details](../catalog.md#paper2video) | [Paper](https://arxiv.org/abs/2510.05096) · [Repo](https://github.com/showlab/Paper2Video) |
+| SCP (2025) | [Details](../catalog.md#scp) | [Paper](https://arxiv.org/abs/2512.24189) |
+| TinyScientist (2025) | [Details](../catalog.md#tinyscientist) | [Paper](https://arxiv.org/abs/2510.06579) |
+| ToolUniverse (2025) | [Details](../catalog.md#tooluniverse) | [Paper](https://arxiv.org/abs/2509.23426) · [Project](https://aiscientist.tools) |
 | DeepReview (2025) | [Details](../catalog.md#deepreview) | [Paper](https://arxiv.org/abs/2503.08569) · [Project](http://ai-researcher.net) |
 | AI Research Skills Library (2025) | [Details](../catalog.md#ai-research-skills) | [Repo](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [Project](https://www.orchestra-research.com/) |
 | Anthropic Agent Skills (2025) | [Details](../catalog.md#anthropic-agent-skills) | [Repo](https://github.com/anthropics/skills) · [Blog](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills) |

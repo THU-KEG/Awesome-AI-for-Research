@@ -10,7 +10,7 @@ Use this page to find systems grouped by application domain.
 - [Biomedical](#biomedical) (4)
 - [Chemistry](#chemistry) (2)
 - [Computer Science](#computer-science) (4)
-- [General](#general) (31)
+- [General](#general) (30)
 - [Materials Science](#materials-science) (2)
 - [Math](#math) (3)
 - [Physics](#physics) (2)
@@ -44,7 +44,6 @@ Applications in artificial intelligence research, machine learning research work
 | DeepInnovator (2026) | [Details](../catalog.md#deepinnovator) | [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |
-| PaperBanana (2026) | [Details](../catalog.md#paperbanana) | [Paper](https://arxiv.org/abs/2601.23265) |
 | Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |
 | ARIS (2026) | [Details](../catalog.md#aris) | [Repo](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
@@ -56,6 +55,7 @@ Applications in artificial intelligence research, machine learning research work
 | AgentExpt (2025) | [Details](../catalog.md#agentexpt) | [Paper](https://arxiv.org/abs/2511.04921) |
 | Deep Ideation (2025) | [Details](../catalog.md#deep-ideation) | [Paper](https://arxiv.org/abs/2511.02238) · [Repo](https://github.com/kyZhao-1/Deep-Ideation) |
 | freephdlabor (2025) | [Details](../catalog.md#freephdlabor) | [Paper](https://arxiv.org/abs/2510.15624) |
+| TinyScientist (2025) | [Details](../catalog.md#tinyscientist) | [Paper](https://arxiv.org/abs/2510.06579) |
 | Can Language Models Discover Scaling Laws? (2025) | [Details](../catalog.md#sldagent) | [Paper](https://arxiv.org/abs/2507.21184) |
 | Agent Laboratory (2025) | [Details](../catalog.md#agent-laboratory) | [Paper](https://arxiv.org/abs/2501.04227) · [Project](https://agentlaboratory.github.io/) |
 | AI Research Skills Library (2025) | [Details](../catalog.md#ai-research-skills) | [Repo](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [Project](https://www.orchestra-research.com/) |
@@ -122,16 +122,15 @@ Cross-domain or discipline-agnostic systems for AI-driven research workflows, li
 | Work | Details | External |
 | --- | --- | --- |
 | GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
-| AutoFigure-Edit (2026) | [Details](../catalog.md#autofigure-edit) | [Paper](https://arxiv.org/abs/2603.06674) · [Repo](https://github.com/ResearAI/AutoFigure-Edit) · [Project](https://deepscientist.cc/) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
-| AutoFigure (2026) | [Details](../catalog.md#autofigure) | [Paper](https://arxiv.org/abs/2602.03828) · [Repo](https://github.com/ResearAI/AutoFigure) |
 | ScholarPeer (2026) | [Details](../catalog.md#scholarpeer) | [Paper](https://arxiv.org/abs/2601.22638) |
 | Learning to Discover at Test Time (2026) | [Details](../catalog.md#ttt-discover) | [Paper](https://doi.org/10.48550/arXiv.2601.16175) · [Project](https://test-time-training.github.io/discover/) |
 | RebuttalAgent (2026) | [Details](../catalog.md#rebuttal-agent) | [Paper](https://arxiv.org/abs/2601.15715) |
 | Paper2Rebuttal (2026) | [Details](../catalog.md#paper2rebuttal) | [Paper](https://arxiv.org/abs/2601.14171) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
+| SCP (2025) | [Details](../catalog.md#scp) | [Paper](https://arxiv.org/abs/2512.24189) |
 | Kosmos (2025) | [Details](../catalog.md#kosmos) | [Paper](https://arxiv.org/abs/2511.02824) |
-| Paper2Video (2025) | [Details](../catalog.md#paper2video) | [Paper](https://arxiv.org/abs/2510.05096) · [Repo](https://github.com/showlab/Paper2Video) |
+| ToolUniverse (2025) | [Details](../catalog.md#tooluniverse) | [Paper](https://arxiv.org/abs/2509.23426) · [Project](https://aiscientist.tools) |
 | DeepReview (2025) | [Details](../catalog.md#deepreview) | [Paper](https://arxiv.org/abs/2503.08569) · [Project](http://ai-researcher.net) |
 | An AI system to help scientists write expert-level empirical software (2025) | [Details](../catalog.md#expert-level-empirical-software) | [Paper](https://arxiv.org/abs/2509.06503) |
 | Anthropic Agent Skills (2025) | [Details](../catalog.md#anthropic-agent-skills) | [Repo](https://github.com/anthropics/skills) · [Blog](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills) |

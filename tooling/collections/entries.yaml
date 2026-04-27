@@ -2203,33 +2203,6 @@
     "stage_secondary": null
   },
   {
-    "id": "paper2video",
-    "title": "Paper2Video",
-    "year": 2025,
-    "sort_date": "2025-10-06",
-    "section": "research-infrastructure-frameworks",
-    "level": "l1-tools",
-    "domains": [
-      "general"
-    ],
-    "evidence": "Preprint",
-    "human_role": "Full automation claim",
-    "summary": "Multi-agent framework for academic presentation video generation, integrating slide generation with layout refinement, subtitling, speech synthesis, and talking-head rendering.",
-    "why_it_matters": "It bridges the gap between paper manuscripts and presentation videos, showing how multiple modalities can be coordinated to transform static papers into dynamic communication artifacts.",
-    "tags": [
-      "video-generation",
-      "presentation",
-      "multi-modal",
-      "multi-agent"
-    ],
-    "links": {
-      "paper": "https://arxiv.org/abs/2510.05096",
-      "repo": "https://github.com/showlab/Paper2Video"
-    },
-    "stage_focus": "write-review",
-    "stage_secondary": null
-  },
-  {
     "id": "scholarpeer",
     "title": "ScholarPeer",
     "year": 2026,
@@ -2309,87 +2282,6 @@
     "stage_secondary": null
   },
   {
-    "id": "autofigure",
-    "title": "AutoFigure",
-    "year": 2026,
-    "sort_date": "2026-02-03",
-    "section": "research-infrastructure-frameworks",
-    "level": "l1-tools",
-    "domains": [
-      "general"
-    ],
-    "evidence": "Preprint",
-    "human_role": "Mostly automated",
-    "summary": "Agentic framework for generating scientific illustrations from long-form scientific text, engaging in thinking, recombination, and validation to produce publication-ready figures.",
-    "why_it_matters": "It addresses the illustration bottleneck in scientific communication, showing that structured planning before rendering produces figures suitable for publication.",
-    "tags": [
-      "figure-generation",
-      "scientific-illustration",
-      "publication-ready",
-      "agentic"
-    ],
-    "links": {
-      "paper": "https://arxiv.org/abs/2602.03828",
-      "repo": "https://github.com/ResearAI/AutoFigure"
-    },
-    "stage_focus": "analyze-visualize",
-    "stage_secondary": null
-  },
-  {
-    "id": "autofigure-edit",
-    "title": "AutoFigure-Edit",
-    "year": 2026,
-    "sort_date": "2026-03-03",
-    "section": "research-infrastructure-frameworks",
-    "level": "l1-tools",
-    "domains": [
-      "general"
-    ],
-    "evidence": "Preprint",
-    "human_role": "Mostly automated",
-    "summary": "End-to-end system generating fully editable scientific illustrations from scientific text with flexible style adaptation through reference images, combining long-context understanding with native SVG editing.",
-    "why_it_matters": "It extends static figure generation to editable outputs, enabling iterative refinement that matches the revision workflow of scientific writing.",
-    "tags": [
-      "figure-generation",
-      "editable-output",
-      "svg",
-      "style-adaptation"
-    ],
-    "links": {
-      "paper": "https://arxiv.org/abs/2603.06674",
-      "repo": "https://github.com/ResearAI/AutoFigure-Edit",
-      "project": "https://deepscientist.cc/"
-    },
-    "stage_focus": "analyze-visualize",
-    "stage_secondary": null
-  },
-  {
-    "id": "paperbanana",
-    "title": "PaperBanana",
-    "year": 2026,
-    "sort_date": "2026-01-30",
-    "section": "research-infrastructure-frameworks",
-    "level": "l1-tools",
-    "domains": [
-      "ai"
-    ],
-    "evidence": "Preprint",
-    "human_role": "Full automation claim",
-    "summary": "Agentic framework for automated generation of publication-ready academic illustrations, orchestrating specialized agents for reference retrieval, content planning, image rendering, and iterative refinement via self-critique.",
-    "why_it_matters": "It is specifically designed for AI scientist workflows, demonstrating how illustration generation can be integrated into autonomous research pipelines.",
-    "tags": [
-      "figure-generation",
-      "self-critique",
-      "publication-ready",
-      "ai-scientist"
-    ],
-    "links": {
-      "paper": "https://arxiv.org/abs/2601.23265"
-    },
-    "stage_focus": "analyze-visualize",
-    "stage_secondary": null
-  },
-  {
     "id": "evomaster",
     "title": "EvoMaster",
     "year": 2026,
@@ -2440,6 +2332,85 @@
       "paper": "https://arxiv.org/abs/2604.19341"
     },
     "stage_focus": "execute-experiment",
+    "stage_secondary": null
+  },
+  {
+    "id": "tinyscientist",
+    "title": "TinyScientist",
+    "year": 2025,
+    "sort_date": "2025-10-08",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-driven",
+    "summary": "An interactive, extensible, and controllable framework for building research agents, identifying essential components of automatic research workflows with open-source codebase and PyPI package.",
+    "why_it_matters": "It provides a modular foundation for building and extending AI research agents, making auto-research pipelines accessible while supporting iterative growth and adaptation.",
+    "tags": [
+      "framework",
+      "extensible",
+      "interactive",
+      "modular"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2510.06579"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "scp",
+    "title": "SCP",
+    "year": 2025,
+    "sort_date": "2025-12-30",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "An open-source standard (Science Context Protocol) enabling a global network of autonomous scientific agents with unified resource integration and orchestrated experiment lifecycle management over 1,600 tool resources.",
+    "why_it_matters": "It establishes protocol-level infrastructure for scalable, multi-institution, agent-driven science by standardizing scientific context and tool orchestration.",
+    "tags": [
+      "protocol",
+      "tool-ecosystem",
+      "multi-institution",
+      "orchestration"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2512.24189"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "tooluniverse",
+    "title": "ToolUniverse",
+    "year": 2025,
+    "sort_date": "2025-09-27",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-driven",
+    "summary": "An ecosystem for building AI scientists from any language or reasoning model, providing 600+ ML models, datasets, APIs, and scientific packages with automatic tool interface refinement and workflow composition.",
+    "why_it_matters": "It democratizes AI scientist development by providing a unified ecosystem that standardizes how AI scientists identify and call tools across diverse platforms.",
+    "tags": [
+      "tool-ecosystem",
+      "democratization",
+      "unified-interface",
+      "extensible"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2509.23426",
+      "project": "https://aiscientist.tools"
+    },
+    "stage_focus": null,
     "stage_secondary": null
   }
 ]

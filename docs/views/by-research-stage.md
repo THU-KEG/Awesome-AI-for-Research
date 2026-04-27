@@ -11,8 +11,8 @@ Use this page when you want to find systems by the stage of research they most c
 - [Plan & Design](#plan-design) (4)
 - [Implement](#implement) (14)
 - [Execute & Experiment](#execute-experiment) (32)
-- [Analyze & Visualize](#analyze-visualize) (12)
-- [Write & Review](#write-review) (14)
+- [Analyze & Visualize](#analyze-visualize) (9)
+- [Write & Review](#write-review) (13)
 
 <a id="discover-synthesize"></a>
 ## Discover & Synthesize
@@ -154,9 +154,6 @@ Result interpretation, figure generation, statistical inspection, and error anal
 
 | Work | Details | External |
 | --- | --- | --- |
-| AutoFigure-Edit (2026) | [Details](../catalog.md#autofigure-edit) | [Paper](https://arxiv.org/abs/2603.06674) · [Repo](https://github.com/ResearAI/AutoFigure-Edit) · [Project](https://deepscientist.cc/) |
-| AutoFigure (2026) | [Details](../catalog.md#autofigure) | [Paper](https://arxiv.org/abs/2602.03828) · [Repo](https://github.com/ResearAI/AutoFigure) |
-| PaperBanana (2026) | [Details](../catalog.md#paperbanana) | [Paper](https://arxiv.org/abs/2601.23265) |
 | Can Language Models Discover Scaling Laws? (2025) | [Details](../catalog.md#sldagent) | [Paper](https://arxiv.org/abs/2507.21184) |
 | Agentic AI for Multi-Stage Physics Experiments at a Large-Scale User Facility Particle Accelerator (2025) | [Details](../catalog.md#agentic-physics-experiments) | [Paper](https://arxiv.org/abs/2509.17255) |
 | AgentSociety (2025) | [Details](../catalog.md#agentsociety) | [Paper](https://arxiv.org/abs/2502.08691) · [Repo](https://github.com/tsinghua-fib-lab/AgentSociety) · [Project](https://agentsociety.readthedocs.io/) |
@@ -181,7 +178,6 @@ Drafting manuscripts, assembling reports, review simulation, and revision.
 | RebuttalAgent (2026) | [Details](../catalog.md#rebuttal-agent) | [Paper](https://arxiv.org/abs/2601.15715) |
 | Paper2Rebuttal (2026) | [Details](../catalog.md#paper2rebuttal) | [Paper](https://arxiv.org/abs/2601.14171) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
-| Paper2Video (2025) | [Details](../catalog.md#paper2video) | [Paper](https://arxiv.org/abs/2510.05096) · [Repo](https://github.com/showlab/Paper2Video) |
 | DeepReview (2025) | [Details](../catalog.md#deepreview) | [Paper](https://arxiv.org/abs/2503.08569) · [Project](http://ai-researcher.net) |
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | SurveyX (2025) | [Details](../catalog.md#surveyx) | [Paper](https://arxiv.org/abs/2502.14776) · [Repo](https://github.com/IAAR-Shanghai/SurveyX) · [Project](https://www.surveyx.cn/) |
