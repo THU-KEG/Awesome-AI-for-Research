@@ -9,10 +9,10 @@ Use this page when you want to find systems by the stage of research they most c
 - [Discover & Synthesize](#discover-synthesize) (14)
 - [Ideate](#ideate) (19)
 - [Plan & Design](#plan-design) (4)
-- [Implement](#implement) (14)
-- [Execute & Experiment](#execute-experiment) (32)
+- [Implement](#implement) (16)
+- [Execute & Experiment](#execute-experiment) (34)
 - [Analyze & Visualize](#analyze-visualize) (12)
-- [Write & Review](#write-review) (14)
+- [Write & Review](#write-review) (15)
 
 <a id="discover-synthesize"></a>
 ## Discover & Synthesize
@@ -89,11 +89,13 @@ Code generation, pipeline assembly, environment setup, and artifact construction
 | Work | Details | External |
 | --- | --- | --- |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
+| CoEvoSkills (2026) | [Details](../catalog.md#coevoskills) | [Paper](https://arxiv.org/abs/2604.01687) · [Project](https://evoskills.net/) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
 | Meta-Harness (2026) | [Details](../catalog.md#meta-harness) | [Paper](https://arxiv.org/abs/2603.28052) · [Project](https://yoonholee.com/meta-harness/) |
 | AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
 | AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
+| AutoHarness (2026) | [Details](../catalog.md#autoharness) | [Paper](https://arxiv.org/abs/2603.03329) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | ThetaEvolve (2025) | [Details](../catalog.md#thetaevolve) | [Paper](https://arxiv.org/abs/2511.23473) · [Repo](https://github.com/ypwang61/ThetaEvolve) |
@@ -114,6 +116,7 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 | --- | --- | --- |
 | SimpleTES (2026) | [Details](../catalog.md#simpletes) | [Paper](https://arxiv.org/abs/2604.19341) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
+| CoEvoSkills (2026) | [Details](../catalog.md#coevoskills) | [Paper](https://arxiv.org/abs/2604.01687) · [Project](https://evoskills.net/) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
 | ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
@@ -121,6 +124,7 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 | AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
+| AutoHarness (2026) | [Details](../catalog.md#autoharness) | [Paper](https://arxiv.org/abs/2603.03329) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |
 | Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
@@ -187,6 +191,7 @@ Drafting manuscripts, assembling reports, review simulation, and revision.
 | SurveyX (2025) | [Details](../catalog.md#surveyx) | [Paper](https://arxiv.org/abs/2502.14776) · [Repo](https://github.com/IAAR-Shanghai/SurveyX) · [Project](https://www.surveyx.cn/) |
 | WebWeaver (2025) | [Details](../catalog.md#webweaver) | [Paper](https://arxiv.org/abs/2509.13312) · [Repo](https://github.com/Alibaba-NLP/DeepResearch) |
 | AgentReview (2024) | [Details](../catalog.md#agentreview) | [Paper](https://arxiv.org/abs/2406.12708) · [Repo](https://github.com/Ahren09/AgentReview) |
+| Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions (2024) | [Details](../catalog.md#peer-review-dialogue) | [Paper](https://arxiv.org/abs/2406.05688) · [Repo](https://github.com/chengtan9907/ReviewMT) |
 | Reviewer2 (2024) | [Details](../catalog.md#reviewer2) | [Paper](https://arxiv.org/abs/2402.10886) |
 | AutoSurvey (2024) | [Details](../catalog.md#autosurvey) | [Paper](https://arxiv.org/abs/2406.10252) · [Repo](https://github.com/AutoSurveys/AutoSurvey) |
 | LitLLM (2024) | [Details](../catalog.md#litllm) | [Paper](https://arxiv.org/abs/2402.01788) · [Repo](https://github.com/LitLLM/litllms-for-literature-review-tmlr) |

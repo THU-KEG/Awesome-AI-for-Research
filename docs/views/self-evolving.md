@@ -7,9 +7,12 @@ Use this page to find systems explicitly tagged `self-evolving`.
 ## On this page
 
 - [EvoMaster](../catalog.md#evomaster) (2026)
+- [CoEvoSkills](../catalog.md#coevoskills) (2026)
+- [Natural-Language Agent Harnesses](../catalog.md#natural-language-agent-harnesses) (2026)
 - [Hyperagents](../catalog.md#hyperagents) (2026)
 - [EvoScientist](../catalog.md#evoscientist) (2026)
 - [Autoresearch](../catalog.md#autoresearch) (2026)
+- [AutoHarness](../catalog.md#autoharness) (2026)
 - [AutoAgent](../catalog.md#autoagent) (2026)
 - [AutoResearchClaw](../catalog.md#autoresearchclaw) (2026)
 - [Memento-Skills](../catalog.md#memento-skills) (2026)
@@ -20,9 +23,12 @@ Use this page to find systems explicitly tagged `self-evolving`.
 | Work | Details | External |
 | --- | --- | --- |
 | EvoMaster (2026) | [Details](../catalog.md#evomaster) | [Paper](https://arxiv.org/abs/2604.17406) · [Repo](https://github.com/sjtu-sai-agents/EvoMaster) |
+| CoEvoSkills (2026) | [Details](../catalog.md#coevoskills) | [Paper](https://arxiv.org/abs/2604.01687) · [Project](https://evoskills.net/) |
+| Natural-Language Agent Harnesses (2026) | [Details](../catalog.md#natural-language-agent-harnesses) | [Paper](https://arxiv.org/abs/2603.25723) |
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |
 | Autoresearch (2026) | [Details](../catalog.md#autoresearch) | [Repo](https://github.com/karpathy/autoresearch) |
+| AutoHarness (2026) | [Details](../catalog.md#autoharness) | [Paper](https://arxiv.org/abs/2603.03329) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
 | AutoResearchClaw (2026) | [Details](../catalog.md#autoresearchclaw) | [Repo](https://github.com/aiming-lab/AutoResearchClaw) |
 | Memento-Skills (2026) | [Details](../catalog.md#memento-skills) | [Paper](https://doi.org/10.48550/arXiv.2603.18743) · [Repo](https://github.com/Memento-Teams/Memento-Skills) |

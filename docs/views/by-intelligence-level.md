@@ -8,9 +8,9 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 
 ## On this page
 
-- [L1 Tools](#l1-tools) (26)
-- [L2 Collaborators](#l2-collaborators) (30)
-- [L3 Systems](#l3-systems) (39)
+- [L1 Tools](#l1-tools) (29)
+- [L2 Collaborators](#l2-collaborators) (32)
+- [L3 Systems](#l3-systems) (41)
 
 <a id="l1-tools"></a>
 ## L1 Tools
@@ -19,6 +19,7 @@ Human drives the loop. The AI acts as a tool, local component, or narrow assista
 
 | Work | Details | External |
 | --- | --- | --- |
+| Natural-Language Agent Harnesses (2026) | [Details](../catalog.md#natural-language-agent-harnesses) | [Paper](https://arxiv.org/abs/2603.25723) |
 | AutoFigure-Edit (2026) | [Details](../catalog.md#autofigure-edit) | [Paper](https://arxiv.org/abs/2603.06674) · [Repo](https://github.com/ResearAI/AutoFigure-Edit) · [Project](https://deepscientist.cc/) |
 | AutoFigure (2026) | [Details](../catalog.md#autofigure) | [Paper](https://arxiv.org/abs/2602.03828) · [Repo](https://github.com/ResearAI/AutoFigure) |
 | PaperBanana (2026) | [Details](../catalog.md#paperbanana) | [Paper](https://arxiv.org/abs/2601.23265) |
@@ -34,7 +35,9 @@ Human drives the loop. The AI acts as a tool, local component, or narrow assista
 | The Ramon Llull's Thinking Machine for Automated Ideation (2025) | [Details](../catalog.md#ramon-llull-thinking-machine) | [Paper](https://openreview.net/forum?id=DhIqrga74P) |
 | Can LLMs Generate Novel Research Ideas? (2024) | [Details](../catalog.md#can-llms-generate-novel-research-ideas) | [Paper](https://arxiv.org/abs/2409.04109) · [Project](https://saltlab.stanford.edu/papers/si-research-idea-2025/) |
 | AgentReview (2024) | [Details](../catalog.md#agentreview) | [Paper](https://arxiv.org/abs/2406.12708) · [Repo](https://github.com/Ahren09/AgentReview) |
+| Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions (2024) | [Details](../catalog.md#peer-review-dialogue) | [Paper](https://arxiv.org/abs/2406.05688) · [Repo](https://github.com/chengtan9907/ReviewMT) |
 | AlphaFold 3 (2024) | [Details](../catalog.md#alphafold-3) | [Paper](https://doi.org/10.1038/s41586-024-07487-w) · [Repo](https://github.com/google-deepmind/alphafold3) · [Project](https://alphafoldserver.com/welcome) |
+| AIOS (2024) | [Details](../catalog.md#aios) | [Paper](https://arxiv.org/abs/2403.16971) · [Repo](https://github.com/agiresearch/AIOS) |
 | Reviewer2 (2024) | [Details](../catalog.md#reviewer2) | [Paper](https://arxiv.org/abs/2402.10886) |
 | Aviary (2024) | [Details](../catalog.md#aviary) | [Paper](https://arxiv.org/abs/2412.21154) · [Repo](https://github.com/Future-House/aviary) |
 | LangGraph (2024) | [Details](../catalog.md#langgraph) | [Repo](https://github.com/langchain-ai/langgraph) · [Project](https://langchain-ai.github.io/langgraph/) |
@@ -68,8 +71,10 @@ Human in the loop. The AI can advance multi-step work, but humans still steer, g
 | ARIS (2026) | [Details](../catalog.md#aris) | [Repo](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | Training AI Co-Scientists Using Rubric Rewards (2025) | [Details](../catalog.md#training-ai-co-scientists) | [Paper](https://arxiv.org/abs/2512.23707) |
+| OmniScientist (2025) | [Details](../catalog.md#omniscientist) | [Paper](https://arxiv.org/abs/2511.16931) · [Repo](https://github.com/tsinghua-fib-lab/OmniScientist) · [Project](https://omniscientist.lab.bjzgca.edu.cn/chat) |
 | AgentExpt (2025) | [Details](../catalog.md#agentexpt) | [Paper](https://arxiv.org/abs/2511.04921) |
 | Deep Ideation (2025) | [Details](../catalog.md#deep-ideation) | [Paper](https://arxiv.org/abs/2511.02238) · [Repo](https://github.com/kyZhao-1/Deep-Ideation) |
+| Freephdlabor (2025) | [Details](../catalog.md#freephdlabor) | [Paper](https://arxiv.org/abs/2510.15624) · [Repo](https://github.com/ltjed/freephdlabor) · [Project](https://freephdlabor.github.io/) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | Agent Laboratory (2025) | [Details](../catalog.md#agent-laboratory) | [Paper](https://arxiv.org/abs/2501.04227) · [Project](https://agentlaboratory.github.io/) |
 | AgentSociety (2025) | [Details](../catalog.md#agentsociety) | [Paper](https://arxiv.org/abs/2502.08691) · [Repo](https://github.com/tsinghua-fib-lab/AgentSociety) · [Project](https://agentsociety.readthedocs.io/) |
@@ -100,6 +105,7 @@ AI drives the loop. The system owns substantial execution and iteration, while h
 | AiScientist (2026) | [Details](../catalog.md#aiscientist-long-horizon) | [Paper](https://arxiv.org/abs/2604.13018) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
 | PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
+| CoEvoSkills (2026) | [Details](../catalog.md#coevoskills) | [Paper](https://arxiv.org/abs/2604.01687) · [Project](https://evoskills.net/) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
 | ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
@@ -109,6 +115,7 @@ AI drives the loop. The system owns substantial execution and iteration, while h
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |
 | Autoresearch (2026) | [Details](../catalog.md#autoresearch) | [Repo](https://github.com/karpathy/autoresearch) |
+| AutoHarness (2026) | [Details](../catalog.md#autoharness) | [Paper](https://arxiv.org/abs/2603.03329) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |
 | Learning to Discover at Test Time (2026) | [Details](../catalog.md#ttt-discover) | [Paper](https://doi.org/10.48550/arXiv.2601.16175) · [Project](https://test-time-training.github.io/discover/) |
