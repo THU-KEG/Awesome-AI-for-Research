@@ -21,6 +21,7 @@
 | --- | --- | --- |
 | SimpleTES (2026) | [Details](../catalog.md#simpletes) | [Paper](https://arxiv.org/abs/2604.19341) |
 | EvoMaster (2026) | [Details](../catalog.md#evomaster) | [Paper](https://arxiv.org/abs/2604.17406) · [Repo](https://github.com/sjtu-sai-agents/EvoMaster) |
+| CoEvoSkills (2026) | [Details](../catalog.md#coevoskills) | [Paper](https://arxiv.org/abs/2604.01687) · [Project](https://evoskills.net/) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
 | ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
@@ -29,6 +30,7 @@
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
 | Autoresearch (2026) | [Details](../catalog.md#autoresearch) | [Repo](https://github.com/karpathy/autoresearch) |
+| AutoHarness (2026) | [Details](../catalog.md#autoharness) | [Paper](https://arxiv.org/abs/2603.03329) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |
 | Learning to Discover at Test Time (2026) | [Details](../catalog.md#ttt-discover) | [Paper](https://doi.org/10.48550/arXiv.2601.16175) · [Project](https://test-time-training.github.io/discover/) |
 | Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |

@@ -6,11 +6,11 @@ Use this page to find systems grouped by application domain.
 
 ## On this page
 
-- [Artificial Intelligence](#ai) (48)
+- [Artificial Intelligence](#ai) (49)
 - [Biomedical](#biomedical) (4)
 - [Chemistry](#chemistry) (2)
 - [Computer Science](#computer-science) (4)
-- [General](#general) (31)
+- [General](#general) (37)
 - [Materials Science](#materials-science) (2)
 - [Math](#math) (3)
 - [Physics](#physics) (2)
@@ -28,6 +28,7 @@ Applications in artificial intelligence research, machine learning research work
 | AiScientist (2026) | [Details](../catalog.md#aiscientist-long-horizon) | [Paper](https://arxiv.org/abs/2604.13018) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
 | PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
+| CoEvoSkills (2026) | [Details](../catalog.md#coevoskills) | [Paper](https://arxiv.org/abs/2604.01687) · [Project](https://evoskills.net/) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
 | ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
@@ -122,7 +123,9 @@ Cross-domain or discipline-agnostic systems for AI-driven research workflows, li
 | Work | Details | External |
 | --- | --- | --- |
 | GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
+| Natural-Language Agent Harnesses (2026) | [Details](../catalog.md#natural-language-agent-harnesses) | [Paper](https://arxiv.org/abs/2603.25723) |
 | AutoFigure-Edit (2026) | [Details](../catalog.md#autofigure-edit) | [Paper](https://arxiv.org/abs/2603.06674) · [Repo](https://github.com/ResearAI/AutoFigure-Edit) · [Project](https://deepscientist.cc/) |
+| AutoHarness (2026) | [Details](../catalog.md#autoharness) | [Paper](https://arxiv.org/abs/2603.03329) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | AutoFigure (2026) | [Details](../catalog.md#autofigure) | [Paper](https://arxiv.org/abs/2602.03828) · [Repo](https://github.com/ResearAI/AutoFigure) |
 | ScholarPeer (2026) | [Details](../catalog.md#scholarpeer) | [Paper](https://arxiv.org/abs/2601.22638) |
@@ -130,7 +133,9 @@ Cross-domain or discipline-agnostic systems for AI-driven research workflows, li
 | RebuttalAgent (2026) | [Details](../catalog.md#rebuttal-agent) | [Paper](https://arxiv.org/abs/2601.15715) |
 | Paper2Rebuttal (2026) | [Details](../catalog.md#paper2rebuttal) | [Paper](https://arxiv.org/abs/2601.14171) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
+| OmniScientist (2025) | [Details](../catalog.md#omniscientist) | [Paper](https://arxiv.org/abs/2511.16931) · [Repo](https://github.com/tsinghua-fib-lab/OmniScientist) · [Project](https://omniscientist.lab.bjzgca.edu.cn/chat) |
 | Kosmos (2025) | [Details](../catalog.md#kosmos) | [Paper](https://arxiv.org/abs/2511.02824) |
+| Freephdlabor (2025) | [Details](../catalog.md#freephdlabor) | [Paper](https://arxiv.org/abs/2510.15624) · [Repo](https://github.com/ltjed/freephdlabor) · [Project](https://freephdlabor.github.io/) |
 | Paper2Video (2025) | [Details](../catalog.md#paper2video) | [Paper](https://arxiv.org/abs/2510.05096) · [Repo](https://github.com/showlab/Paper2Video) |
 | DeepReview (2025) | [Details](../catalog.md#deepreview) | [Paper](https://arxiv.org/abs/2503.08569) · [Project](http://ai-researcher.net) |
 | An AI system to help scientists write expert-level empirical software (2025) | [Details](../catalog.md#expert-level-empirical-software) | [Paper](https://arxiv.org/abs/2509.06503) |
@@ -141,6 +146,8 @@ Cross-domain or discipline-agnostic systems for AI-driven research workflows, li
 | SurveyX (2025) | [Details](../catalog.md#surveyx) | [Paper](https://arxiv.org/abs/2502.14776) · [Repo](https://github.com/IAAR-Shanghai/SurveyX) · [Project](https://www.surveyx.cn/) |
 | WebWeaver (2025) | [Details](../catalog.md#webweaver) | [Paper](https://arxiv.org/abs/2509.13312) · [Repo](https://github.com/Alibaba-NLP/DeepResearch) |
 | AgentReview (2024) | [Details](../catalog.md#agentreview) | [Paper](https://arxiv.org/abs/2406.12708) · [Repo](https://github.com/Ahren09/AgentReview) |
+| Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions (2024) | [Details](../catalog.md#peer-review-dialogue) | [Paper](https://arxiv.org/abs/2406.05688) · [Repo](https://github.com/chengtan9907/ReviewMT) |
+| AIOS (2024) | [Details](../catalog.md#aios) | [Paper](https://arxiv.org/abs/2403.16971) · [Repo](https://github.com/agiresearch/AIOS) |
 | Reviewer2 (2024) | [Details](../catalog.md#reviewer2) | [Paper](https://arxiv.org/abs/2402.10886) |
 | AutoSurvey (2024) | [Details](../catalog.md#autosurvey) | [Paper](https://arxiv.org/abs/2406.10252) · [Repo](https://github.com/AutoSurveys/AutoSurvey) |
 | Aviary (2024) | [Details](../catalog.md#aviary) | [Paper](https://arxiv.org/abs/2412.21154) · [Repo](https://github.com/Future-House/aviary) |

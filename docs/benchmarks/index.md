@@ -7,16 +7,21 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 
 ## Quick Links
 
+- [NovBench](../catalog.md#novbench) (2026)
 - [EXP-Bench](../catalog.md#exp-bench) (2026)
 - [PaperWritingBench](../catalog.md#paperwritingbench) (2026)
 - [PostTrainBench](../catalog.md#posttrainbench) (2026)
 - [ResearchClawBench](../catalog.md#researchclawbench) (2026)
+- [MMReview](../catalog.md#mmreview) (2025)
+- [MLR-Bench](../catalog.md#mlr-bench) (2025)
+- [HypoBench](../catalog.md#hypobench) (2025)
 - [AstaBench](../catalog.md#astabench) (2025)
 - [FrontierScience](../catalog.md#frontierscience) (2025)
 - [KernelBench](../catalog.md#kernelbench) (2025)
 - [PaperBench](../catalog.md#paperbench) (2025)
 - [Scientist-Bench](../catalog.md#scientist-bench) (2025)
 - [TritonBench](../catalog.md#tritonbench) (2025)
+- [IdeaBench](../catalog.md#ideabench) (2024)
 - [DiscoveryBench](../catalog.md#discoverybench) (2024)
 - [LAB-Bench](../catalog.md#lab-bench) (2024)
 - [MLE-Bench](../catalog.md#mle-bench) (2024)
@@ -36,16 +41,21 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 
 | Work | Details | External |
 | --- | --- | --- |
+| NovBench (2026) | [Details](../catalog.md#novbench) | [Paper](https://arxiv.org/abs/2604.11543) · [Repo](https://github.com/njust-winchy/llm4novelty) |
 | EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
 | PaperWritingBench (2026) | [Details](../catalog.md#paperwritingbench) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | PostTrainBench (2026) | [Details](../catalog.md#posttrainbench) | [Paper](https://arxiv.org/abs/2603.08640) · [Repo](https://github.com/aisa-group/PostTrainBench) · [Benchmark](https://posttrainbench.com/) |
 | ResearchClawBench (2026) | [Details](../catalog.md#researchclawbench) | [Repo](https://github.com/InternScience/ResearchClawBench) · [Benchmark](https://internscience.github.io/ResearchClawBench-Home/) |
+| MMReview (2025) | [Details](../catalog.md#mmreview) | [Paper](https://arxiv.org/abs/2508.14146) |
+| MLR-Bench (2025) | [Details](../catalog.md#mlr-bench) | [Paper](https://arxiv.org/abs/2505.19955) · [Repo](https://github.com/chchenhui/mlrbench) |
+| HypoBench (2025) | [Details](../catalog.md#hypobench) | [Paper](https://arxiv.org/abs/2504.11524) · [Repo](https://github.com/chicagohai/HypoBench) · [Benchmark](https://chicagohai.github.io/HypoBench/) |
 | AstaBench (2025) | [Details](../catalog.md#astabench) | [Repo](https://github.com/allenai/asta-bench) · [Benchmark](https://allenai.org/asta/bench) · [Blog](https://allenai.org/blog/astabench) |
 | FrontierScience (2025) | [Details](../catalog.md#frontierscience) | [Project](https://openai.com/index/frontier-science/) |
 | KernelBench (2025) | [Details](../catalog.md#kernelbench) | [Paper](https://arxiv.org/abs/2502.10517) · [Repo](https://github.com/ScalingIntelligence/KernelBench) · [Blog](https://scalingintelligence.stanford.edu/blogs/kernelbench/) |
 | PaperBench (2025) | [Details](../catalog.md#paperbench) | [Paper](https://arxiv.org/abs/2504.01848) · [Repo](https://github.com/openai/preparedness) · [Benchmark](https://openai.com/index/paperbench/) |
 | Scientist-Bench (2025) | [Details](../catalog.md#scientist-bench) | [Paper](https://arxiv.org/abs/2505.18705) · [Project](https://autoresearcher.github.io/research.html) |
 | TritonBench (2025) | [Details](../catalog.md#tritonbench) | [Paper](https://arxiv.org/abs/2502.14752) · [Repo](https://github.com/thunlp/TritonBench) |
+| IdeaBench (2024) | [Details](../catalog.md#ideabench) | [Paper](https://arxiv.org/abs/2411.02429) · [Repo](https://github.com/amir-hassan25/IdeaBench) |
 | DiscoveryBench (2024) | [Details](../catalog.md#discoverybench) | [Paper](https://arxiv.org/abs/2407.01725) · [Repo](https://github.com/allenai/discoverybench) · [Benchmark](https://huggingface.co/datasets/allenai/discoverybench) |
 | LAB-Bench (2024) | [Details](../catalog.md#lab-bench) | [Paper](https://arxiv.org/abs/2407.10362) · [Repo](https://github.com/Future-House/LAB-Bench) · [Benchmark](https://huggingface.co/datasets/futurehouse/lab-bench) |
 | MLE-Bench (2024) | [Details](../catalog.md#mle-bench) | [Paper](https://arxiv.org/abs/2410.07095) · [Repo](https://github.com/openai/mle-bench) · [Benchmark](https://openai.com/index/mle-bench/) |

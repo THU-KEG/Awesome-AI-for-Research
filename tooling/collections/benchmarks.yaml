@@ -330,5 +330,112 @@
       "paper": "https://arxiv.org/abs/2604.05018",
       "project": "https://yiwen-song.github.io/paper_orchestra/"
     }
+  },
+  {
+    "id": "novbench",
+    "title": "NovBench",
+    "year": 2026,
+    "sort_date": "2026-04-13",
+    "evidence": "Preprint",
+    "types": [
+      "Ideation & Discovery"
+    ],
+    "summary": "A benchmark for evaluating whether language models can assess the novelty of academic papers and generate novelty-focused judgments that support peer review.",
+    "why_it_matters": "It adds a dedicated evaluation surface for novelty assessment, which is central to both research ideation and paper reviewing but usually gets collapsed into broader review-quality judgments.",
+    "tags": [
+      "novelty-assessment",
+      "peer-review-support",
+      "idea-evaluation"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.11543",
+      "repo": "https://github.com/njust-winchy/llm4novelty"
+    }
+  },
+  {
+    "id": "mmreview",
+    "title": "MMReview",
+    "year": 2025,
+    "sort_date": "2025-08-19",
+    "evidence": "Preprint",
+    "types": [
+      "System Benchmark",
+      "Scientific Reasoning"
+    ],
+    "summary": "A multidisciplinary and multimodal benchmark for automated peer review, covering 240 papers across 17 domains with tasks for review generation, outcome prediction, preference alignment, and robustness.",
+    "why_it_matters": "It is a strong benchmark addition for AI-for-research because it moves peer-review evaluation beyond text-only settings and forces models to reason across figures, tables, disciplines, and adversarial inputs.",
+    "tags": [
+      "peer-review",
+      "multimodal-evaluation",
+      "multidisciplinary",
+      "robustness"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2508.14146"
+    }
+  },
+  {
+    "id": "mlr-bench",
+    "title": "MLR-Bench",
+    "year": 2025,
+    "sort_date": "2025-05-26",
+    "evidence": "Conference",
+    "types": [
+      "System Benchmark"
+    ],
+    "summary": "A benchmark for open-ended machine learning research that evaluates agents across idea generation, proposal formulation, experimentation, paper writing, and end-to-end research-paper output.",
+    "why_it_matters": "It is a high-signal benchmark for AI-for-research because it directly targets open-ended ML research rather than only bounded engineering tasks, while also exposing where current agents break across different research stages.",
+    "tags": [
+      "open-ended-research",
+      "ml-research",
+      "stagewise-evaluation"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2505.19955",
+      "repo": "https://github.com/chchenhui/mlrbench"
+    }
+  },
+  {
+    "id": "hypobench",
+    "title": "HypoBench",
+    "year": 2025,
+    "sort_date": "2025-04-15",
+    "evidence": "Preprint",
+    "types": [
+      "Ideation & Discovery"
+    ],
+    "summary": "A benchmark for hypothesis generation methods that measures practical utility, generalizability, and hypothesis discovery across real-world and synthetic tasks.",
+    "why_it_matters": "It gives the repository a principled hypothesis-generation benchmark instead of treating ideation as an unstructured prompt task, making it easier to compare methods under shared definitions and difficulty controls.",
+    "tags": [
+      "hypothesis-generation",
+      "synthetic-and-real",
+      "difficulty-control"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2504.11524",
+      "repo": "https://github.com/chicagohai/HypoBench",
+      "benchmark": "https://chicagohai.github.io/HypoBench/"
+    }
+  },
+  {
+    "id": "ideabench",
+    "title": "IdeaBench",
+    "year": 2024,
+    "sort_date": "2024-11-06",
+    "evidence": "Conference",
+    "types": [
+      "Ideation & Discovery"
+    ],
+    "summary": "A benchmark system for research idea generation that grounds models in target papers and references to emulate how human researchers formulate new project ideas.",
+    "why_it_matters": "It is an important ideation benchmark anchor because it turns research idea generation into a comparable evaluation problem instead of relying on anecdotal examples of seemingly creative outputs.",
+    "tags": [
+      "idea-generation",
+      "literature-grounded",
+      "research-creativity"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2411.02429",
+      "repo": "https://github.com/amir-hassan25/IdeaBench"
+    }
   }
 ]

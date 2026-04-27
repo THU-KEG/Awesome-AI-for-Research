@@ -25,5 +25,6 @@
 | InteractiveSurvey (2025) | [Details](../catalog.md#interactivesurvey) | [Paper](https://arxiv.org/abs/2504.08762) · [Repo](https://github.com/TechnicolorGUO/InteractiveSurvey) · [Project](https://technicolorguo.github.io/InteractiveSurvey/) |
 | SurveyX (2025) | [Details](../catalog.md#surveyx) | [Paper](https://arxiv.org/abs/2502.14776) · [Repo](https://github.com/IAAR-Shanghai/SurveyX) · [Project](https://www.surveyx.cn/) |
 | AgentReview (2024) | [Details](../catalog.md#agentreview) | [Paper](https://arxiv.org/abs/2406.12708) · [Repo](https://github.com/Ahren09/AgentReview) |
+| Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions (2024) | [Details](../catalog.md#peer-review-dialogue) | [Paper](https://arxiv.org/abs/2406.05688) · [Repo](https://github.com/chengtan9907/ReviewMT) |
 | Reviewer2 (2024) | [Details](../catalog.md#reviewer2) | [Paper](https://arxiv.org/abs/2402.10886) |
 | AutoSurvey (2024) | [Details](../catalog.md#autosurvey) | [Paper](https://arxiv.org/abs/2406.10252) · [Repo](https://github.com/AutoSurveys/AutoSurvey) |

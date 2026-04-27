@@ -46,6 +46,19 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
+<a id="novbench"></a>
+### NovBench (2026)
+
+Ideation & Discovery · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.11543) · [Repo](https://github.com/njust-winchy/llm4novelty)
+
+**Summary:** A benchmark for evaluating whether language models can assess the novelty of academic papers and generate novelty-focused judgments that support peer review.
+
+`novelty-assessment` `peer-review-support` `idea-evaluation`
+
+---
+
 <a id="giants"></a>
 
 ### GIANTS (2026)
@@ -85,6 +98,20 @@ Survey / Review Automation · L3 · Write & Review · Preprint
 **Summary:** A multi-agent paper-writing framework that turns unstructured pre-writing materials into submission-ready LaTeX manuscripts through coordinated outline, plotting, literature review, section writing, and refinement agents.
 
 `paper-writing` `multi-agent` `latex-generation`
+
+---
+
+<a id="coevoskills"></a>
+
+### CoEvoSkills (2026)
+
+Experimentation & Agent Methods · L3 · Implement · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.01687) · [Project](https://evoskills.net/)
+
+**Summary:** A self-evolving skills framework that couples skill generation with a co-evolving surrogate verifier to iteratively improve multi-file agent skill packages.
+
+`self-evolving` `skills` `co-evolutionary-verification`
 
 ---
 
@@ -183,6 +210,20 @@ Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
 **Summary:** A research agent system addressing three structural bottlenecks through asynchronous multi-GPU worker pool, Hidden Consistent Evaluation protocol, and ReAct agents that dynamically scope actions and debug interactively.
 
 `multi-gpu` `hidden-evaluation` `react-agent` `scaling-law`
+
+---
+
+<a id="natural-language-agent-harnesses"></a>
+
+### Natural-Language Agent Harnesses (2026)
+
+Research Infrastructure & Frameworks · L1 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.25723)
+
+**Summary:** A harness-design framework that externalizes agent control logic as editable natural-language artifacts and executes them through a shared Intelligent Harness Runtime.
+
+`harness-engineering` `natural-language-harness` `self-evolving`
 
 ---
 
@@ -309,6 +350,20 @@ Research Ideation · L2 · Ideate · Preprint
 **Summary:** A training framework designed to trigger innovative capability of LLMs through automated knowledge extraction and Next Idea Prediction training paradigm that models idea generation as iterative prediction, evaluation, and refinement.
 
 `innovative-capability` `next-idea-prediction` `training-framework` `knowledge-extraction`
+
+---
+
+<a id="autoharness"></a>
+
+### AutoHarness (2026)
+
+Experimentation & Agent Methods · L3 · Implement · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.03329)
+
+**Summary:** A framework in which an LLM automatically synthesizes and iteratively refines a code harness using environment feedback to constrain and improve agent behavior.
+
+`harness-engineering` `self-evolving` `environment-feedback`
 
 ---
 
@@ -616,6 +671,20 @@ Experimentation & Agent Methods · L3 · Implement · Preprint
 
 ---
 
+<a id="omniscientist"></a>
+
+### OmniScientist (2025)
+
+End-to-End Research Systems · L2 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2511.16931) · [Repo](https://github.com/tsinghua-fib-lab/OmniScientist) · [Project](https://omniscientist.lab.bjzgca.edu.cn/chat)
+
+**Summary:** A human-AI science ecosystem framework that models knowledge systems, collaborative protocols, and evaluation platforms for co-evolving scientific discovery.
+
+`human-ai-collaboration` `research-ecosystem` `co-evolving`
+
+---
+
 <a id="alpharesearch"></a>
 
 ### AlphaResearch (2025)
@@ -686,6 +755,20 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
+<a id="freephdlabor"></a>
+
+### Freephdlabor (2025)
+
+End-to-End Research Systems · L2 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2510.15624) · [Repo](https://github.com/ltjed/freephdlabor) · [Project](https://freephdlabor.github.io/)
+
+**Summary:** A customizable multi-agent science-automation framework with dynamic workflows, workspace-based communication, memory persistence, and non-blocking human intervention.
+
+`dynamic-workflow` `multi-agent` `continual-research`
+
+---
+
 <a id="paper2video"></a>
 
 ### Paper2Video (2025)
@@ -714,6 +797,19 @@ Experimentation & Agent Methods · L3 · Implement · Preprint
 
 ---
 
+<a id="mmreview"></a>
+### MMReview (2025)
+
+System Benchmark · Scientific Reasoning · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2508.14146)
+
+**Summary:** A multidisciplinary and multimodal benchmark for automated peer review, covering 240 papers across 17 domains with tasks for review generation, outcome prediction, preference alignment, and robustness.
+
+`peer-review` `multimodal-evaluation` `multidisciplinary` `robustness`
+
+---
+
 <a id="sldagent"></a>
 
 ### Can Language Models Discover Scaling Laws? (2025)
@@ -739,6 +835,32 @@ Experimentation & Agent Methods · L3 · Implement · Technical report
 **Summary:** A Gemini-powered evolutionary coding agent for discovering better algorithms and scientific solutions through repeated proposal, execution, and selection.
 
 `evolutionary-search` `coding-agent` `algorithm-discovery`
+
+---
+
+<a id="mlr-bench"></a>
+### MLR-Bench (2025)
+
+System Benchmark · Conference
+
+**Links:** [Paper](https://arxiv.org/abs/2505.19955) · [Repo](https://github.com/chchenhui/mlrbench)
+
+**Summary:** A benchmark for open-ended machine learning research that evaluates agents across idea generation, proposal formulation, experimentation, paper writing, and end-to-end research-paper output.
+
+`open-ended-research` `ml-research` `stagewise-evaluation`
+
+---
+
+<a id="hypobench"></a>
+### HypoBench (2025)
+
+Ideation & Discovery · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2504.11524) · [Repo](https://github.com/chicagohai/HypoBench) · [Benchmark](https://chicagohai.github.io/HypoBench/)
+
+**Summary:** A benchmark for hypothesis generation methods that measures practical utility, generalizability, and hypothesis discovery across real-world and synthetic tasks.
+
+`hypothesis-generation` `synthetic-and-real` `difficulty-control`
 
 ---
 
@@ -1212,6 +1334,19 @@ Literature Discovery & Synthesis · L2 · Discover & Synthesize · Preprint
 
 ---
 
+<a id="ideabench"></a>
+### IdeaBench (2024)
+
+Ideation & Discovery · Conference
+
+**Links:** [Paper](https://arxiv.org/abs/2411.02429) · [Repo](https://github.com/amir-hassan25/IdeaBench)
+
+**Summary:** A benchmark system for research idea generation that grounds models in target papers and references to emulate how human researchers formulate new project ideas.
+
+`idea-generation` `literature-grounded` `research-creativity`
+
+---
+
 <a id="can-llms-generate-novel-research-ideas"></a>
 
 ### Can LLMs Generate Novel Research Ideas? (2024)
@@ -1254,6 +1389,20 @@ Survey / Review Automation · L1 · Write & Review · Preprint
 
 ---
 
+<a id="peer-review-dialogue"></a>
+
+### Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions (2024)
+
+Survey / Review Automation · L1 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2406.05688) · [Repo](https://github.com/chengtan9907/ReviewMT)
+
+**Summary:** A peer-review framework that models reviewing as a role-based, multi-turn, long-context dialogue rather than a single static review-generation pass.
+
+`peer-review` `multi-turn-dialogue` `long-context` `role-based`
+
+---
+
 <a id="alphafold-3"></a>
 
 ### AlphaFold 3 (2024)
@@ -1265,6 +1414,20 @@ Experimentation & Agent Methods · L1 · Execute & Experiment · Journal
 **Summary:** A biomolecular structure and interaction prediction system that extends AlphaFold from protein folding to complexes involving proteins, nucleic acids, ligands, and ions.
 
 `protein-folding` `structure-prediction` `biomolecular-modeling`
+
+---
+
+<a id="aios"></a>
+
+### AIOS (2024)
+
+Research Infrastructure & Frameworks · L1 · Conference
+
+**Links:** [Paper](https://arxiv.org/abs/2403.16971) · [Repo](https://github.com/agiresearch/AIOS)
+
+**Summary:** An LLM agent operating system that provides scheduling, context switching, concurrency, tool services, and access control as a runtime substrate for multi-agent systems.
+
+`agent-operating-system` `runtime` `concurrency`
 
 ---
 

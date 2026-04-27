@@ -2441,5 +2441,188 @@
     },
     "stage_focus": "execute-experiment",
     "stage_secondary": null
+  },
+  {
+    "id": "natural-language-agent-harnesses",
+    "title": "Natural-Language Agent Harnesses",
+    "year": 2026,
+    "sort_date": "2026-03-26",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-driven",
+    "summary": "A harness-design framework that externalizes agent control logic as editable natural-language artifacts and executes them through a shared Intelligent Harness Runtime.",
+    "why_it_matters": "It makes harness engineering portable and inspectable instead of burying it in controller code, which is valuable for comparing, reusing, and systematically studying research-agent scaffolds.",
+    "tags": [
+      "harness-engineering",
+      "natural-language-harness",
+      "self-evolving"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.25723"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "aios",
+    "title": "AIOS",
+    "year": 2024,
+    "sort_date": "2024-03-25",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Conference",
+    "human_role": "Human-driven",
+    "summary": "An LLM agent operating system that provides scheduling, context switching, concurrency, tool services, and access control as a runtime substrate for multi-agent systems.",
+    "why_it_matters": "It is a strong infrastructure anchor for AI-for-research because it reframes agent performance as a systems problem of runtime management rather than only a prompting problem.",
+    "tags": [
+      "agent-operating-system",
+      "runtime",
+      "concurrency"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2403.16971",
+      "repo": "https://github.com/agiresearch/AIOS"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "peer-review-dialogue",
+    "title": "Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions",
+    "year": 2024,
+    "sort_date": "2024-06-09",
+    "section": "survey-review-automation",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "A peer-review framework that models reviewing as a role-based, multi-turn, long-context dialogue rather than a single static review-generation pass.",
+    "why_it_matters": "It is a useful review-automation reference because it brings interaction structure and dialogue state into peer review, making the task closer to real academic reviewing workflows.",
+    "tags": [
+      "peer-review",
+      "multi-turn-dialogue",
+      "long-context",
+      "role-based"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2406.05688",
+      "repo":"https://github.com/chengtan9907/ReviewMT"
+    },
+    "stage_focus": "write-review",
+    "stage_secondary": null
+  },
+  {
+    "id": "freephdlabor",
+    "title": "Freephdlabor",
+    "year": 2025,
+    "sort_date": "2025-10-17",
+    "section": "end-to-end-research-systems",
+    "level": "l2-collaborators",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A customizable multi-agent science-automation framework with dynamic workflows, workspace-based communication, memory persistence, and non-blocking human intervention.",
+    "why_it_matters": "It is a strong reference for continual AI-for-research workflows because it explicitly replaces rigid fixed pipelines with adaptive research programs that can build on intermediate findings and human feedback.",
+    "tags": [
+      "dynamic-workflow",
+      "multi-agent",
+      "continual-research"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2510.15624",
+      "repo": "https://github.com/ltjed/freephdlabor",
+      "project": "https://freephdlabor.github.io/"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "omniscientist",
+    "title": "OmniScientist",
+    "year": 2025,
+    "sort_date": "2025-11-21",
+    "section": "end-to-end-research-systems",
+    "level": "l2-collaborators",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A human-AI science ecosystem framework that models knowledge systems, collaborative protocols, and evaluation platforms for co-evolving scientific discovery.",
+    "why_it_matters": "It broadens the repository beyond single-agent autonomy by treating science as a collaborative ecosystem, making human coordination and institutional structure part of the system design.",
+    "tags": [
+      "human-ai-collaboration",
+      "research-ecosystem",
+      "co-evolving"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2511.16931",
+      "repo":"https://github.com/tsinghua-fib-lab/OmniScientist",
+      "project":"https://omniscientist.lab.bjzgca.edu.cn/chat"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "autoharness",
+    "title": "AutoHarness",
+    "year": 2026,
+    "sort_date": "2026-02-10",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A framework in which an LLM automatically synthesizes and iteratively refines a code harness using environment feedback to constrain and improve agent behavior.",
+    "why_it_matters": "It is a strong harness-engineering reference because it shows that scaffold optimization can outperform simply swapping to a larger model, making the wrapper itself a first-class improvement target.",
+    "tags": [
+      "harness-engineering",
+      "self-evolving",
+      "environment-feedback"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.03329"
+    },
+    "stage_focus": "implement",
+    "stage_secondary": "execute-experiment"
+  },
+  {
+    "id": "coevoskills",
+    "title": "CoEvoSkills",
+    "year": 2026,
+    "sort_date": "2026-04-02",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A self-evolving skills framework that couples skill generation with a co-evolving surrogate verifier to iteratively improve multi-file agent skill packages.",
+    "why_it_matters": "It extends self-improvement from tools to reusable skill bundles, which is highly relevant for research agents whose performance depends on structured, persistent workflow knowledge rather than single API calls.",
+    "tags": [
+      "self-evolving",
+      "skills",
+      "co-evolutionary-verification"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.01687",
+      "project": "https://evoskills.net/"
+    },
+    "stage_focus": "implement",
+    "stage_secondary": "execute-experiment"
   }
 ]
