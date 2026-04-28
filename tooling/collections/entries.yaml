@@ -1992,5 +1992,32 @@
     },
     "stage_focus": null,
     "stage_secondary": null
+  },
+  {
+    "id": "aibuildai",
+    "title": "AIBuildAI",
+    "year": 2026,
+    "sort_date": "2026-04-17",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A hierarchical agent system that automatically builds AI models from a task description and training data, with a management agent coordinating model design, code generation, training, and evaluation sub-agents.",
+    "why_it_matters": "It is a strong AI-for-AI reference because it turns the full model-building pipeline — from task analysis through architecture design, implementation, training, and evaluation — into an autonomous agent loop, demonstrating that specialized hierarchical agents can outperform general-purpose coding agents on model construction tasks.",
+    "tags": [
+      "model-building",
+      "hierarchical-agents",
+      "ai-for-ai",
+      "autonomous"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.14455",
+      "repo": "https://github.com/aibuildai/AI-Build-AI"
+    },
+    "stage_focus": "implement",
+    "stage_secondary": "execute-experiment"
   }
 ]

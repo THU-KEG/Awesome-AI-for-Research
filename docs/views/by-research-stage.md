@@ -9,8 +9,8 @@ Use this page when you want to find systems by the stage of research they most c
 - [Discover & Synthesize](#discover-synthesize) (14)
 - [Ideate](#ideate) (16)
 - [Plan & Design](#plan-design) (4)
-- [Implement](#implement) (14)
-- [Execute & Experiment](#execute-experiment) (27)
+- [Implement](#implement) (15)
+- [Execute & Experiment](#execute-experiment) (28)
 - [Analyze & Visualize](#analyze-visualize) (8)
 - [Write & Review](#write-review) (7)
 
@@ -85,6 +85,7 @@ Code generation, pipeline assembly, environment setup, and artifact construction
 
 | Work | Details | External |
 | --- | --- | --- |
+| AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |
@@ -109,6 +110,7 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 
 | Work | Details | External |
 | --- | --- | --- |
+| AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |

@@ -19,6 +19,7 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |
 | CORAL (2026) | [Details](../catalog.md#coral) | [Paper](https://arxiv.org/abs/2604.01658) · [Repo](https://github.com/Human-Agent-Society/CORAL) |
 | Automated Weak-to-Strong Researcher (2026) | [Details](../catalog.md#automated-w2s-researcher) | [Blog](https://alignment.anthropic.com/2026/automated-w2s-researcher/) |
 | ASI-Evolve (2026) | [Details](../catalog.md#asi-evolve) | [Paper](https://arxiv.org/abs/2603.29640) |

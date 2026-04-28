@@ -4,6 +4,20 @@
 
 This page centralizes the detailed records referenced across section pages, grouped views, and benchmark indexes. Items are sorted newest-first.
 
+<a id="aibuildai"></a>
+
+### AIBuildAI (2026)
+
+Experimentation & Agent Methods · L3 · Implement · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI)
+
+**Summary:** A hierarchical agent system that automatically builds AI models from a task description and training data, with a management agent coordinating model design, code generation, training, and evaluation sub-agents.
+
+`model-building` `hierarchical-agents` `ai-for-ai` `autonomous`
+
+---
+
 <a id="aiscientist-long-horizon"></a>
 
 ### AiScientist (2026)

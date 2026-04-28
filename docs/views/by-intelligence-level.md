@@ -10,7 +10,7 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 
 - [L1 Tools](#l1-tools) (19)
 - [L2 Collaborators](#l2-collaborators) (26)
-- [L3 Systems](#l3-systems) (33)
+- [L3 Systems](#l3-systems) (34)
 
 <a id="l1-tools"></a>
 ## L1 Tools
@@ -84,6 +84,7 @@ AI drives the loop. The system owns substantial execution and iteration, while h
 
 | Work | Details | External |
 | --- | --- | --- |
+| AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |
 | AiScientist (2026) | [Details](../catalog.md#aiscientist-long-horizon) | [Paper](https://arxiv.org/abs/2604.13018) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
 | PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
