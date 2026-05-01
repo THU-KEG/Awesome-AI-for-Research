@@ -2412,5 +2412,31 @@
     },
     "stage_focus": null,
     "stage_secondary": null
+  },
+  {
+    "id": "ara",
+    "title": "Agent-Native Research Artifacts",
+    "year": 2026,
+    "sort_date": "2026-04-27",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "A protocol that replaces the narrative paper with a machine-executable research package (ARA) structured around four layers: scientific logic, executable code with full specifications, an exploration graph that preserves failures compilation discards, and evidence grounding every claim in raw outputs.",
+    "why_it_matters": "It addresses the fundamental mismatch between linear narrative papers and AI agents' need for executable specifications, establishing a new paradigm for research artifacts that enables agents to understand, reproduce, and extend scientific work more effectively.",
+    "tags": [
+      "protocol",
+      "research-artifact",
+      "machine-executable",
+      "reproducibility"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.24658"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
   }
 ]

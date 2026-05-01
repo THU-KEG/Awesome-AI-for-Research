@@ -4,6 +4,20 @@
 
 This page centralizes the detailed records referenced across section pages, grouped views, and benchmark indexes. Items are sorted newest-first.
 
+<a id="ara"></a>
+
+### Agent-Native Research Artifacts (2026)
+
+Research Infrastructure & Frameworks · L1 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.24658)
+
+**Summary:** A protocol that replaces the narrative paper with a machine-executable research package (ARA) structured around four layers: scientific logic, executable code with full specifications, an exploration graph that preserves failures compilation discards, and evidence grounding every claim in raw outputs.
+
+`protocol` `research-artifact` `machine-executable` `reproducibility`
+
+---
+
 <a id="simpletes"></a>
 
 ### SimpleTES (2026)
