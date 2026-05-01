@@ -10,7 +10,7 @@ Use this page to find systems grouped by application domain.
 - [Biomedical](#biomedical) (4)
 - [Chemistry](#chemistry) (2)
 - [Computer Science](#computer-science) (4)
-- [General](#general) (30)
+- [General](#general) (31)
 - [Materials Science](#materials-science) (2)
 - [Math](#math) (3)
 - [Physics](#physics) (2)
@@ -121,6 +121,7 @@ Cross-domain or discipline-agnostic systems for AI-driven research workflows, li
 
 | Work | Details | External |
 | --- | --- | --- |
+| Agent-Native Research Artifacts (2026) | [Details](../catalog.md#ara) | [Paper](https://arxiv.org/abs/2604.24658) |
 | GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | ScholarPeer (2026) | [Details](../catalog.md#scholarpeer) | [Paper](https://arxiv.org/abs/2601.22638) |

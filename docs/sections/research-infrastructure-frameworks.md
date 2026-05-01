@@ -17,6 +17,7 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| Agent-Native Research Artifacts (2026) | [Details](../catalog.md#ara) | [Paper](https://arxiv.org/abs/2604.24658) |
 | SCP (2025) | [Details](../catalog.md#scp) | [Paper](https://arxiv.org/abs/2512.24189) |
 | TinyScientist (2025) | [Details](../catalog.md#tinyscientist) | [Paper](https://arxiv.org/abs/2510.06579) |
 | ToolUniverse (2025) | [Details](../catalog.md#tooluniverse) | [Paper](https://arxiv.org/abs/2509.23426) · [Project](https://aiscientist.tools) |

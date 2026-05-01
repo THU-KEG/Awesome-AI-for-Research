@@ -8,7 +8,7 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 
 ## On this page
 
-- [L1 Tools](#l1-tools) (25)
+- [L1 Tools](#l1-tools) (26)
 - [L2 Collaborators](#l2-collaborators) (30)
 - [L3 Systems](#l3-systems) (39)
 
@@ -19,6 +19,7 @@ Human drives the loop. The AI acts as a tool, local component, or narrow assista
 
 | Work | Details | External |
 | --- | --- | --- |
+| Agent-Native Research Artifacts (2026) | [Details](../catalog.md#ara) | [Paper](https://arxiv.org/abs/2604.24658) |
 | Memento-Skills (2026) | [Details](../catalog.md#memento-skills) | [Paper](https://doi.org/10.48550/arXiv.2603.18743) · [Repo](https://github.com/Memento-Teams/Memento-Skills) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
 | SCP (2025) | [Details](../catalog.md#scp) | [Paper](https://arxiv.org/abs/2512.24189) |
