@@ -31,6 +31,34 @@ System Benchmark · Preprint
 
 ---
 
+<a id="simpletes"></a>
+
+### SimpleTES (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.19341)
+
+**Summary:** A general framework (Simple Test-time Evaluation-driven Scaling) that strategically combines parallel exploration, feedback-driven refinement, and local selection for scaling evaluation-driven discovery loops.
+
+`evaluation-driven` `test-time-scaling` `parallel-exploration` `feedback-driven`
+
+---
+
+<a id="evomaster"></a>
+
+### EvoMaster (2026)
+
+Experimentation & Agent Methods · L3 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.17406) · [Repo](https://github.com/sjtu-sai-agents/EvoMaster)
+
+**Summary:** Foundational evolving agent framework for Agentic Science at Scale, empowering agents to iteratively refine hypotheses, self-critique, and accumulate knowledge across experimental cycles.
+
+`self-evolving` `domain-agnostic` `knowledge-accumulation` `foundational-framework`
+
+---
+
 <a id="aibuildai"></a>
 
 ### AIBuildAI (2026)
@@ -213,6 +241,20 @@ Research Ideation · L2 · Ideate · Preprint
 
 ---
 
+<a id="hyperagents"></a>
+
+### Hyperagents (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.19461)
+
+**Summary:** Self-referential agents integrating a task agent and a meta agent into a single editable program, where the meta-level modification procedure is itself editable for metacognitive self-modification.
+
+`self-evolving` `metacognitive` `self-referential` `open-ended`
+
+---
+
 <a id="ai-scientist-synthetic-task"></a>
 
 ### AI Scientist via Synthetic Task Scaling (2026)
@@ -224,6 +266,20 @@ Experimentation & Agent Methods · L2 · Execute & Experiment · Preprint
 **Summary:** A novel synthetic environment generation pipeline for machine learning agents that automatically synthesizes ML challenges compatible with SWE-agent framework, covering topic sampling, dataset proposal, and code generation.
 
 `synthetic-tasks` `training-pipeline` `ml-agents` `self-debugging`
+
+---
+
+<a id="scientific-taste"></a>
+
+### AI Can Learn Scientific Taste (2026)
+
+Research Ideation · L2 · Ideate · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2603.14473)
+
+**Summary:** A training paradigm using Reinforcement Learning from Community Feedback to learn scientific taste, training Scientific Judge on 700K paper pairs to judge ideas and Scientific Thinker to propose research ideas with high potential impact.
+
+`scientific-taste` `preference-modeling` `community-feedback` `citation-prediction`
 
 ---
 
@@ -297,6 +353,34 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
+<a id="pievo"></a>
+
+### PiEvo (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2602.06448)
+
+**Summary:** A principle-evolvable framework treating scientific discovery as Bayesian optimization over an expanding principle space, integrating Information-Directed Hypothesis Selection via Gaussian Process and anomaly-driven augmentation.
+
+`principle-evolution` `bayesian-optimization` `hypothesis-selection` `anomaly-driven`
+
+---
+
+<a id="scholarpeer"></a>
+
+### ScholarPeer (2026)
+
+Survey / Review Automation · L2 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2601.22638)
+
+**Summary:** Search-enabled multi-agent framework employing dual-stream process of context acquisition and active verification, using historian agent, baseline scout, and multi-aspect Q&A engine.
+
+`peer-review` `context-aware` `literature-grounded` `multi-agent`
+
+---
+
 <a id="ttt-discover"></a>
 
 ### Learning to Discover at Test Time (2026)
@@ -308,6 +392,34 @@ Experimentation & Agent Methods · L3 · Preprint
 **Summary:** A test-time training system that uses reinforcement learning on a single target problem so the model can keep improving while searching for stronger scientific and algorithmic solutions.
 
 `test-time-training` `reinforcement-learning` `scientific-discovery`
+
+---
+
+<a id="rebuttal-agent"></a>
+
+### RebuttalAgent (2026)
+
+Survey / Review Automation · L2 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2601.15715)
+
+**Summary:** First framework grounding academic rebuttal in Theory of Mind, using ToM-Strategy-Response framework to model reviewer mental state, formulate persuasion strategy, and generate evidence-based response.
+
+`rebuttal-generation` `theory-of-mind` `persuasion-strategy` `information-asymmetry`
+
+---
+
+<a id="paper2rebuttal"></a>
+
+### Paper2Rebuttal (2026)
+
+Survey / Review Automation · L2 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2601.14171)
+
+**Summary:** Multi-agent framework reframing rebuttal generation as evidence-centric planning task, decomposing feedback into atomic concerns and generating inspectable response plans before drafting.
+
+`rebuttal-generation` `evidence-centric` `multi-agent` `response-planning`
 
 ---
 
@@ -475,6 +587,20 @@ Literature Discovery & Synthesis · L1 · Discover & Synthesize · Journal
 
 ---
 
+<a id="scp"></a>
+
+### SCP (2025)
+
+Research Infrastructure & Frameworks · L1 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2512.24189)
+
+**Summary:** An open-source standard (Science Context Protocol) enabling a global network of autonomous scientific agents with unified resource integration and orchestrated experiment lifecycle management over 1,600 tool resources.
+
+`protocol` `tool-ecosystem` `multi-institution` `orchestration`
+
+---
+
 <a id="training-ai-co-scientists"></a>
 
 ### Training AI Co-Scientists Using Rubric Rewards (2025)
@@ -500,6 +626,20 @@ Experimentation & Agent Methods · L3 · Implement · Preprint
 **Summary:** An open-source test-time learning framework that combines evolutionary program search with optional reinforcement learning so models can keep improving while tackling open optimization problems.
 
 `test-time-learning` `reinforcement-learning` `program-evolution`
+
+---
+
+<a id="alpharesearch"></a>
+
+### AlphaResearch (2025)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2511.08522)
+
+**Summary:** An autonomous research agent designed to discover new algorithms on open-ended problems by iteratively proposing ideas, programming verification, and optimizing research proposals through a dual environment combining execution-based reward and simulated peer review.
+
+`algorithm-discovery` `dual-environment` `peer-review-simulation` `autonomous-research`
 
 ---
 
@@ -559,6 +699,34 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
+<a id="tinyscientist"></a>
+
+### TinyScientist (2025)
+
+Research Infrastructure & Frameworks · L1 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2510.06579)
+
+**Summary:** An interactive, extensible, and controllable framework for building research agents, identifying essential components of automatic research workflows with open-source codebase and PyPI package.
+
+`framework` `extensible` `interactive` `modular`
+
+---
+
+<a id="tooluniverse"></a>
+
+### ToolUniverse (2025)
+
+Research Infrastructure & Frameworks · L1 · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2509.23426) · [Project](https://aiscientist.tools)
+
+**Summary:** An ecosystem for building AI scientists from any language or reasoning model, providing 600+ ML models, datasets, APIs, and scientific packages with automatic tool interface refinement and workflow composition.
+
+`tool-ecosystem` `democratization` `unified-interface` `extensible`
+
+---
+
 <a id="shinkaevolve"></a>
 
 ### ShinkaEvolve (2025)
@@ -586,6 +754,20 @@ System Benchmark · Conference
 
 ---
 
+<a id="sldagent"></a>
+
+### Can Language Models Discover Scaling Laws? (2025)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2507.21184)
+
+**Summary:** An evolution-based agent that co-optimizes scaling law models and parameters to autonomously explore complex relationships between variables, curating eight diverse scaling law discovery tasks from over 5,000 experiments.
+
+`scaling-law-discovery` `self-understanding` `evolution-based` `extrapolation`
+
+---
+
 <a id="alphaevolve"></a>
 
 ### AlphaEvolve (2025)
@@ -597,6 +779,20 @@ Experimentation & Agent Methods · L3 · Implement · Technical report
 **Summary:** A Gemini-powered evolutionary coding agent for discovering better algorithms and scientific solutions through repeated proposal, execution, and selection.
 
 `evolutionary-search` `coding-agent` `algorithm-discovery`
+
+---
+
+<a id="deepreview"></a>
+
+### DeepReview (2025)
+
+Survey / Review Automation · L1 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2503.08569) · [Project](http://ai-researcher.net)
+
+**Summary:** A multi-stage framework designed to emulate expert reviewers by incorporating structured analysis, literature retrieval, and evidence-based argumentation, training DeepReviewer-14B on DeepReview-13K dataset.
+
+`paper-review` `structured-analysis` `evidence-grounded` `multi-stage`
 
 ---
 
@@ -1084,6 +1280,20 @@ End-to-End Research Systems · L3 · Preprint
 
 ---
 
+<a id="agentreview"></a>
+
+### AgentReview (2024)
+
+Survey / Review Automation · L1 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2406.12708) · [Repo](https://github.com/Ahren09/AgentReview)
+
+**Summary:** LLM-based peer review simulation framework that disentangles impacts of multiple latent factors in the review process, revealing 37.1% variation in paper decisions due to reviewer biases.
+
+`peer-review-simulation` `reviewer-bias` `sociological-analysis` `privacy-preserving`
+
+---
+
 <a id="alphafold-3"></a>
 
 ### AlphaFold 3 (2024)
@@ -1095,6 +1305,20 @@ Experimentation & Agent Methods · L1 · Execute & Experiment · Journal
 **Summary:** A biomolecular structure and interaction prediction system that extends AlphaFold from protein folding to complexes involving proteins, nucleic acids, ligands, and ions.
 
 `protein-folding` `structure-prediction` `biomolecular-modeling`
+
+---
+
+<a id="reviewer2"></a>
+
+### Reviewer2 (2024)
+
+Survey / Review Automation · L1 · Write & Review · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2402.10886)
+
+**Summary:** Two-stage review generation framework that explicitly models the distribution of possible aspects the review may address, producing more detailed reviews that better cover human reviewer perspectives.
+
+`paper-review` `aspect-modeling` `coverage` `two-stage`
 
 ---
 

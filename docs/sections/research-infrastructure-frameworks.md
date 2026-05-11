@@ -17,6 +17,9 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| SCP (2025) | [Details](../catalog.md#scp) | [Paper](https://arxiv.org/abs/2512.24189) |
+| TinyScientist (2025) | [Details](../catalog.md#tinyscientist) | [Paper](https://arxiv.org/abs/2510.06579) |
+| ToolUniverse (2025) | [Details](../catalog.md#tooluniverse) | [Paper](https://arxiv.org/abs/2509.23426) · [Project](https://aiscientist.tools) |
 | AI Research Skills Library (2025) | [Details](../catalog.md#ai-research-skills) | [Repo](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [Project](https://www.orchestra-research.com/) |
 | Anthropic Agent Skills (2025) | [Details](../catalog.md#anthropic-agent-skills) | [Repo](https://github.com/anthropics/skills) · [Blog](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills) |
 | Aviary (2024) | [Details](../catalog.md#aviary) | [Paper](https://arxiv.org/abs/2412.21154) · [Repo](https://github.com/Future-House/aviary) |

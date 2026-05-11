@@ -2045,5 +2045,425 @@
     },
     "stage_focus": "implement",
     "stage_secondary": "execute-experiment"
+  },
+  {
+    "id": "alpharesearch",
+    "title": "AlphaResearch",
+    "year": 2025,
+    "sort_date": "2025-11-11",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "An autonomous research agent designed to discover new algorithms on open-ended problems by iteratively proposing ideas, programming verification, and optimizing research proposals through a dual environment combining execution-based reward and simulated peer review.",
+    "why_it_matters": "It is a strong algorithm-discovery reference that combines execution feedback with simulated peer review, demonstrating that agents can discover algorithms achieving best-of-known performance on open problems.",
+    "tags": [
+      "algorithm-discovery",
+      "dual-environment",
+      "peer-review-simulation",
+      "autonomous-research"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2511.08522"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "ideate"
+  },
+  {
+    "id": "scientific-taste",
+    "title": "AI Can Learn Scientific Taste",
+    "year": 2026,
+    "sort_date": "2026-03-15",
+    "section": "research-ideation",
+    "level": "l2-collaborators",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "A training paradigm using Reinforcement Learning from Community Feedback to learn scientific taste, training Scientific Judge on 700K paper pairs to judge ideas and Scientific Thinker to propose research ideas with high potential impact.",
+    "why_it_matters": "It is representative of preference-based ideation training, showing that scientific taste—the capacity to judge and propose high-impact ideas—can be learned from community feedback rather than requiring human labeling. Furthermore, the learned taste generalizes to other domains.",
+    "tags": [
+      "scientific-taste",
+      "preference-modeling",
+      "community-feedback",
+      "citation-prediction"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.14473"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": null
+  },
+  {
+    "id": "sldagent",
+    "title": "Can Language Models Discover Scaling Laws?",
+    "year": 2025,
+    "sort_date": "2025-07-27",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "An evolution-based agent that co-optimizes scaling law models and parameters to autonomously explore complex relationships between variables, curating eight diverse scaling law discovery tasks from over 5,000 experiments.",
+    "why_it_matters": "It demonstrates that AI systems can understand and improve their own scaling behavior, establishing a new paradigm where agents discover laws with better extrapolation than human-derived counterparts.",
+    "tags": [
+      "scaling-law-discovery",
+      "self-understanding",
+      "evolution-based",
+      "extrapolation"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2507.21184"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "analyze-visualize"
+  },
+  {
+    "id": "hyperagents",
+    "title": "Hyperagents",
+    "year": 2026,
+    "sort_date": "2026-03-19",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "Self-referential agents integrating a task agent and a meta agent into a single editable program, where the meta-level modification procedure is itself editable for metacognitive self-modification.",
+    "why_it_matters": "It extends self-improvement beyond coding domains by making the modification procedure itself editable, enabling meta-level improvements that transfer across domains and accumulate across runs.",
+    "tags": [
+      "self-evolving",
+      "metacognitive",
+      "self-referential",
+      "open-ended"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.19461"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": null
+  },
+  {
+    "id": "pievo",
+    "title": "PiEvo",
+    "year": 2026,
+    "sort_date": "2026-02-06",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "A principle-evolvable framework treating scientific discovery as Bayesian optimization over an expanding principle space, integrating Information-Directed Hypothesis Selection via Gaussian Process and anomaly-driven augmentation.",
+    "why_it_matters": "It shifts the focus from searching fixed hypothesis spaces to evolving underlying scientific principles, demonstrating that principle-space optimization achieves both higher solution quality and faster convergence.",
+    "tags": [
+      "principle-evolution",
+      "bayesian-optimization",
+      "hypothesis-selection",
+      "anomaly-driven"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2602.06448"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "ideate"
+  },
+  {
+    "id": "deepreview",
+    "title": "DeepReview",
+    "year": 2025,
+    "sort_date": "2025-03-11",
+    "section": "survey-review-automation",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "A multi-stage framework designed to emulate expert reviewers by incorporating structured analysis, literature retrieval, and evidence-based argumentation, training DeepReviewer-14B on DeepReview-13K dataset.",
+    "why_it_matters": "It is a strong reference for structured paper review generation, showing that emulating expert reviewer cognition through staged analysis and evidence grounding produces more detailed and actionable reviews.",
+    "tags": [
+      "paper-review",
+      "structured-analysis",
+      "evidence-grounded",
+      "multi-stage"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2503.08569",
+      "project": "http://ai-researcher.net"
+    },
+    "stage_focus": "write-review",
+    "stage_secondary": null
+  },
+  {
+    "id": "rebuttal-agent",
+    "title": "RebuttalAgent",
+    "year": 2026,
+    "sort_date": "2026-01-22",
+    "section": "survey-review-automation",
+    "level": "l2-collaborators",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "First framework grounding academic rebuttal in Theory of Mind, using ToM-Strategy-Response framework to model reviewer mental state, formulate persuasion strategy, and generate evidence-based response.",
+    "why_it_matters": "It addresses rebuttal as strategic communication under information asymmetry rather than surface-level text generation, showing that modeling reviewer perspective is essential for effective persuasion.",
+    "tags": [
+      "rebuttal-generation",
+      "theory-of-mind",
+      "persuasion-strategy",
+      "information-asymmetry"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2601.15715"
+    },
+    "stage_focus": "write-review",
+    "stage_secondary": null
+  },
+  {
+    "id": "paper2rebuttal",
+    "title": "Paper2Rebuttal",
+    "year": 2026,
+    "sort_date": "2026-01-20",
+    "section": "survey-review-automation",
+    "level": "l2-collaborators",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "Multi-agent framework reframing rebuttal generation as evidence-centric planning task, decomposing feedback into atomic concerns and generating inspectable response plans before drafting.",
+    "why_it_matters": "It treats rebuttal as a planning problem rather than direct text generation, ensuring every argument is explicitly anchored in verifiable internal or external evidence.",
+    "tags": [
+      "rebuttal-generation",
+      "evidence-centric",
+      "multi-agent",
+      "response-planning"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2601.14171"
+    },
+    "stage_focus": "write-review",
+    "stage_secondary": null
+  },
+  {
+    "id": "scholarpeer",
+    "title": "ScholarPeer",
+    "year": 2026,
+    "sort_date": "2026-01-30",
+    "section": "survey-review-automation",
+    "level": "l2-collaborators",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "Search-enabled multi-agent framework employing dual-stream process of context acquisition and active verification, using historian agent, baseline scout, and multi-aspect Q&A engine.",
+    "why_it_matters": "It moves beyond evaluating papers in isolation by dynamically constructing domain context, enabling identification of novelty gaps and methodological issues that surface-level review misses.",
+    "tags": [
+      "peer-review",
+      "context-aware",
+      "literature-grounded",
+      "multi-agent"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2601.22638"
+    },
+    "stage_focus": "write-review",
+    "stage_secondary": null
+  },
+  {
+    "id": "reviewer2",
+    "title": "Reviewer2",
+    "year": 2024,
+    "sort_date": "2024-02-16",
+    "section": "survey-review-automation",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "Two-stage review generation framework that explicitly models the distribution of possible aspects the review may address, producing more detailed reviews that better cover human reviewer perspectives.",
+    "why_it_matters": "It is representative of aspect-aware review generation, showing that explicitly modeling review coverage leads to more comprehensive feedback than direct generation approaches.",
+    "tags": [
+      "paper-review",
+      "aspect-modeling",
+      "coverage",
+      "two-stage"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2402.10886"
+    },
+    "stage_focus": "write-review",
+    "stage_secondary": null
+  },
+  {
+    "id": "agentreview",
+    "title": "AgentReview",
+    "year": 2024,
+    "sort_date": "2024-06-18",
+    "section": "survey-review-automation",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "LLM-based peer review simulation framework that disentangles impacts of multiple latent factors in the review process, revealing 37.1% variation in paper decisions due to reviewer biases.",
+    "why_it_matters": "It is a strong simulation reference for understanding peer review dynamics, enabling controlled study of reviewer behavior without privacy concerns of real review data.",
+    "tags": [
+      "peer-review-simulation",
+      "reviewer-bias",
+      "sociological-analysis",
+      "privacy-preserving"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2406.12708",
+      "repo": "https://github.com/Ahren09/AgentReview"
+    },
+    "stage_focus": "write-review",
+    "stage_secondary": null
+  },
+  {
+    "id": "evomaster",
+    "title": "EvoMaster",
+    "year": 2026,
+    "sort_date": "2026-04-19",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "Foundational evolving agent framework for Agentic Science at Scale, empowering agents to iteratively refine hypotheses, self-critique, and accumulate knowledge across experimental cycles.",
+    "why_it_matters": "It is a domain-agnostic base harness that enables building self-evolving scientific agents across arbitrary disciplines with minimal code, establishing a foundation for next-generation autonomous discovery.",
+    "tags": [
+      "self-evolving",
+      "domain-agnostic",
+      "knowledge-accumulation",
+      "foundational-framework"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.17406",
+      "repo": "https://github.com/sjtu-sai-agents/EvoMaster"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "simpletes",
+    "title": "SimpleTES",
+    "year": 2026,
+    "sort_date": "2026-04-21",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Full automation claim",
+    "summary": "A general framework (Simple Test-time Evaluation-driven Scaling) that strategically combines parallel exploration, feedback-driven refinement, and local selection for scaling evaluation-driven discovery loops.",
+    "why_it_matters": "It establishes effective evaluation-driven loop scaling as a central axis for advancing LLM-driven scientific discovery, showing that strategic scaling along the right dimensions unlocks substantial gains beyond frontier models.",
+    "tags": [
+      "evaluation-driven",
+      "test-time-scaling",
+      "parallel-exploration",
+      "feedback-driven"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.19341"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": null
+  },
+  {
+    "id": "tinyscientist",
+    "title": "TinyScientist",
+    "year": 2025,
+    "sort_date": "2025-10-08",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "ai"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-driven",
+    "summary": "An interactive, extensible, and controllable framework for building research agents, identifying essential components of automatic research workflows with open-source codebase and PyPI package.",
+    "why_it_matters": "It provides a modular foundation for building and extending AI research agents, making auto-research pipelines accessible while supporting iterative growth and adaptation.",
+    "tags": [
+      "framework",
+      "extensible",
+      "interactive",
+      "modular"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2510.06579"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "scp",
+    "title": "SCP",
+    "year": 2025,
+    "sort_date": "2025-12-30",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "An open-source standard (Science Context Protocol) enabling a global network of autonomous scientific agents with unified resource integration and orchestrated experiment lifecycle management over 1,600 tool resources.",
+    "why_it_matters": "It establishes protocol-level infrastructure for scalable, multi-institution, agent-driven science by standardizing scientific context and tool orchestration.",
+    "tags": [
+      "protocol",
+      "tool-ecosystem",
+      "multi-institution",
+      "orchestration"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2512.24189"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
+  },
+  {
+    "id": "tooluniverse",
+    "title": "ToolUniverse",
+    "year": 2025,
+    "sort_date": "2025-09-27",
+    "section": "research-infrastructure-frameworks",
+    "level": "l1-tools",
+    "domains": [
+      "general"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-driven",
+    "summary": "An ecosystem for building AI scientists from any language or reasoning model, providing 600+ ML models, datasets, APIs, and scientific packages with automatic tool interface refinement and workflow composition.",
+    "why_it_matters": "It democratizes AI scientist development by providing a unified ecosystem that standardizes how AI scientists identify and call tools across diverse platforms.",
+    "tags": [
+      "tool-ecosystem",
+      "democratization",
+      "unified-interface",
+      "extensible"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2509.23426",
+      "project": "https://aiscientist.tools"
+    },
+    "stage_focus": null,
+    "stage_secondary": null
   }
 ]
