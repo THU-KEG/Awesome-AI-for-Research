@@ -2019,5 +2019,31 @@
     },
     "stage_focus": "implement",
     "stage_secondary": "execute-experiment"
+  },
+  {
+    "id": "ai-co-mathematician",
+    "title": "AI Co-Mathematician",
+    "year": 2026,
+    "sort_date": "2026-05-07",
+    "section": "experimentation-agent-methods",
+    "level": "l2-collaborators",
+    "domains": [
+      "math"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Human-in-the-loop",
+    "summary": "An agentic workbench for mathematicians to interactively leverage AI agents for open-ended mathematical research, supporting conjecture refinement, proof strategy proposal, and Lean 4 formal verification through orchestrated sub-agents.",
+    "why_it_matters": "It demonstrates that agentic AI can meaningfully accelerate mathematical research by combining interactive conjecture-refutation cycles with formal verification, achieving 47.9% on FrontierMath Tier 4 and discovering a novel proof — showing that human-AI collaboration can advance frontier mathematics beyond what either can do alone.",
+    "tags": [
+      "agentic-workbench",
+      "formal-verification",
+      "conjecture-refutation",
+      "human-ai-collaboration"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2605.06651"
+    },
+    "stage_focus": "implement",
+    "stage_secondary": "execute-experiment"
   }
 ]

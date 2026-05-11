@@ -7,10 +7,12 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 
 ## Quick Links
 
+- [AutoMat](../catalog.md#automat) (2026)
 - [EXP-Bench](../catalog.md#exp-bench) (2026)
 - [PaperWritingBench](../catalog.md#paperwritingbench) (2026)
 - [PostTrainBench](../catalog.md#posttrainbench) (2026)
 - [ResearchClawBench](../catalog.md#researchclawbench) (2026)
+- [Hidden Pitfalls of AI Scientist Systems](../catalog.md#ai-scientist-pitfalls) (2025)
 - [AstaBench](../catalog.md#astabench) (2025)
 - [FrontierScience](../catalog.md#frontierscience) (2025)
 - [KernelBench](../catalog.md#kernelbench) (2025)
@@ -36,10 +38,12 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 
 | Work | Details | External |
 | --- | --- | --- |
+| AutoMat (2026) | [Details](../catalog.md#automat) | [Paper](https://arxiv.org/abs/2605.00803) |
 | EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
 | PaperWritingBench (2026) | [Details](../catalog.md#paperwritingbench) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | PostTrainBench (2026) | [Details](../catalog.md#posttrainbench) | [Paper](https://arxiv.org/abs/2603.08640) · [Repo](https://github.com/aisa-group/PostTrainBench) · [Benchmark](https://posttrainbench.com/) |
 | ResearchClawBench (2026) | [Details](../catalog.md#researchclawbench) | [Repo](https://github.com/InternScience/ResearchClawBench) · [Benchmark](https://internscience.github.io/ResearchClawBench-Home/) |
+| Hidden Pitfalls of AI Scientist Systems (2025) | [Details](../catalog.md#ai-scientist-pitfalls) | [Paper](https://arxiv.org/abs/2509.08713) · [Repo](https://github.com/niharshah/AIScientistPitfalls) |
 | AstaBench (2025) | [Details](../catalog.md#astabench) | [Repo](https://github.com/allenai/asta-bench) · [Benchmark](https://allenai.org/asta/bench) · [Blog](https://allenai.org/blog/astabench) |
 | FrontierScience (2025) | [Details](../catalog.md#frontierscience) | [Project](https://openai.com/index/frontier-science/) |
 | KernelBench (2025) | [Details](../catalog.md#kernelbench) | [Paper](https://arxiv.org/abs/2502.10517) · [Repo](https://github.com/ScalingIntelligence/KernelBench) · [Blog](https://scalingintelligence.stanford.edu/blogs/kernelbench/) |

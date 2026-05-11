@@ -9,7 +9,7 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 ## On this page
 
 - [L1 Tools](#l1-tools) (19)
-- [L2 Collaborators](#l2-collaborators) (26)
+- [L2 Collaborators](#l2-collaborators) (27)
 - [L3 Systems](#l3-systems) (34)
 
 <a id="l1-tools"></a>
@@ -48,6 +48,7 @@ Human in the loop. The AI can advance multi-step work, but humans still steer, g
 
 | Work | Details | External |
 | --- | --- | --- |
+| AI Co-Mathematician (2026) | [Details](../catalog.md#ai-co-mathematician) | [Paper](https://arxiv.org/abs/2605.06651) |
 | GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
 | FlowPIE (2026) | [Details](../catalog.md#flowpie) | [Paper](https://arxiv.org/abs/2603.29557) |
 | EvoIdeator (2026) | [Details](../catalog.md#evoideator) | [Paper](https://arxiv.org/abs/2603.21728) |

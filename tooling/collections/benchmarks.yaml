@@ -330,5 +330,48 @@
       "paper": "https://arxiv.org/abs/2604.05018",
       "project": "https://yiwen-song.github.io/paper_orchestra/"
     }
+  },
+  {
+    "id": "ai-scientist-pitfalls",
+    "title": "Hidden Pitfalls of AI Scientist Systems",
+    "year": 2025,
+    "sort_date": "2025-09-10",
+    "evidence": "Conference",
+    "types": [
+      "System Benchmark"
+    ],
+    "summary": "An audit framework that identifies four failure modes in AI scientist systems — inappropriate benchmark selection, data leakage, metric misuse, and fabricated results — and provides tools to detect these pitfalls in system outputs, validated on Agent Laboratory and AI Scientist v2.",
+    "why_it_matters": "It is a critical evaluation anchor because it demonstrates that prominent AI scientist systems can produce research with serious methodological flaws, establishing the need for rigorous auditing before trusting automated research outputs.",
+    "tags": [
+      "evaluation-audit",
+      "methodological-flaws",
+      "failure-modes",
+      "ai-scientist-evaluation"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2509.08713",
+      "repo": "https://github.com/niharshah/AIScientistPitfalls"
+    }
+  },
+  {
+    "id": "automat",
+    "title": "AutoMat",
+    "year": 2026,
+    "sort_date": "2026-05-04",
+    "evidence": "Preprint",
+    "types": [
+      "System Benchmark"
+    ],
+    "summary": "A benchmark of 85 SME-curated computational materials science claims for evaluating whether coding agents can reproduce scientific findings end-to-end, from reading a paper through recovering the computational procedure to reproducing the numerical result.",
+    "why_it_matters": "It is the first benchmark that tests scientific reproducibility as an agent capability rather than just code generation, providing a rigorous yardstick for whether coding agents can actually validate research claims in a physical-science domain.",
+    "tags": [
+      "reproducibility",
+      "materials-science",
+      "scientific-claims",
+      "coding-agents"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2605.00803"
+    }
   }
 ]

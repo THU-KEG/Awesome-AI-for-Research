@@ -12,7 +12,7 @@ Use this page to find systems grouped by application domain.
 - [Computer Science](#computer-science) (4)
 - [General](#general) (22)
 - [Materials Science](#materials-science) (2)
-- [Math](#math) (3)
+- [Math](#math) (4)
 - [Physics](#physics) (2)
 - [Social Science](#social-science) (2)
 
@@ -158,6 +158,7 @@ Applications in mathematical reasoning, theorem proving, and formal proof discov
 
 | Work | Details | External |
 | --- | --- | --- |
+| AI Co-Mathematician (2026) | [Details](../catalog.md#ai-co-mathematician) | [Paper](https://arxiv.org/abs/2605.06651) |
 | ThetaEvolve (2025) | [Details](../catalog.md#thetaevolve) | [Paper](https://arxiv.org/abs/2511.23473) · [Repo](https://github.com/ypwang61/ThetaEvolve) |
 | Prover Agent (2025) | [Details](../catalog.md#prover-agent) | [Paper](https://arxiv.org/abs/2506.19923) · [Repo](https://github.com/kAIto47802/Prover-Agent) |
 | Solving olympiad geometry without human demonstrations (2024) | [Details](../catalog.md#alphageometry) | [Paper](https://www.nature.com/articles/s41586-023-06747-5) · [Repo](https://github.com/google-deepmind/alphageometry) |

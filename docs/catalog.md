@@ -4,6 +4,33 @@
 
 This page centralizes the detailed records referenced across section pages, grouped views, and benchmark indexes. Items are sorted newest-first.
 
+<a id="ai-co-mathematician"></a>
+
+### AI Co-Mathematician (2026)
+
+Experimentation & Agent Methods · L2 · Implement · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2605.06651)
+
+**Summary:** An agentic workbench for mathematicians to interactively leverage AI agents for open-ended mathematical research, supporting conjecture refinement, proof strategy proposal, and Lean 4 formal verification through orchestrated sub-agents.
+
+`agentic-workbench` `formal-verification` `conjecture-refutation` `human-ai-collaboration`
+
+---
+
+<a id="automat"></a>
+### AutoMat (2026)
+
+System Benchmark · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2605.00803)
+
+**Summary:** A benchmark of 85 SME-curated computational materials science claims for evaluating whether coding agents can reproduce scientific findings end-to-end, from reading a paper through recovering the computational procedure to reproducing the numerical result.
+
+`reproducibility` `materials-science` `scientific-claims` `coding-agents`
+
+---
+
 <a id="aibuildai"></a>
 
 ### AIBuildAI (2026)
@@ -543,6 +570,19 @@ Experimentation & Agent Methods · L3 · Implement · Preprint
 **Summary:** An open-source evolutionary code-search framework that uses novelty-aware sampling and adaptive model selection to discover efficient solutions, agent scaffolds, and training losses across diverse computational tasks.
 
 `evolutionary-search` `sample-efficiency` `open-source`
+
+---
+
+<a id="ai-scientist-pitfalls"></a>
+### Hidden Pitfalls of AI Scientist Systems (2025)
+
+System Benchmark · Conference
+
+**Links:** [Paper](https://arxiv.org/abs/2509.08713) · [Repo](https://github.com/niharshah/AIScientistPitfalls)
+
+**Summary:** An audit framework that identifies four failure modes in AI scientist systems — inappropriate benchmark selection, data leakage, metric misuse, and fabricated results — and provides tools to detect these pitfalls in system outputs, validated on Agent Laboratory and AI Scientist v2.
+
+`evaluation-audit` `methodological-flaws` `failure-modes` `ai-scientist-evaluation`
 
 ---
 
