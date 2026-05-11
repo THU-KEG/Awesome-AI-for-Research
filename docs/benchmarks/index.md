@@ -8,6 +8,7 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 ## Quick Links
 
 - [AutoMat](../catalog.md#automat) (2026)
+- [AutoResearchBench](../catalog.md#autoresearchbench) (2026)
 - [EXP-Bench](../catalog.md#exp-bench) (2026)
 - [PaperWritingBench](../catalog.md#paperwritingbench) (2026)
 - [PostTrainBench](../catalog.md#posttrainbench) (2026)
@@ -39,6 +40,7 @@ This page tracks benchmarks, datasets, metrics, and evaluation frameworks for re
 | Work | Details | External |
 | --- | --- | --- |
 | AutoMat (2026) | [Details](../catalog.md#automat) | [Paper](https://arxiv.org/abs/2605.00803) |
+| AutoResearchBench (2026) | [Details](../catalog.md#autoresearchbench) | [Paper](https://arxiv.org/abs/2604.25256) · [Repo](https://github.com/CherYou/AutoResearchBench) · [Project](https://cheryou.github.io/autoresearchbench.github.io/) |
 | EXP-Bench (2026) | [Details](../catalog.md#exp-bench) | [Paper](https://arxiv.org/abs/2505.24785) · [Repo](https://github.com/EvolvingLMMs-Lab/EXP-Bench) |
 | PaperWritingBench (2026) | [Details](../catalog.md#paperwritingbench) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | PostTrainBench (2026) | [Details](../catalog.md#posttrainbench) | [Paper](https://arxiv.org/abs/2603.08640) · [Repo](https://github.com/aisa-group/PostTrainBench) · [Benchmark](https://posttrainbench.com/) |

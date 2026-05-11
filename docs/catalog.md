@@ -31,6 +31,19 @@ System Benchmark · Preprint
 
 ---
 
+<a id="autoresearchbench"></a>
+### AutoResearchBench (2026)
+
+System Benchmark · Scientific Reasoning · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2604.25256) · [Repo](https://github.com/CherYou/AutoResearchBench) · [Project](https://cheryou.github.io/autoresearchbench.github.io/)
+
+**Summary:** A benchmark of 1,000 questions spanning 195 research topics across 8+ categories for evaluating AI agents on autonomous scientific literature discovery, with answers verified against over 10,000 academic papers.
+
+`literature-discovery` `citation-networks` `reference-retrieval` `scientific-benchmark`
+
+---
+
 <a id="simpletes"></a>
 
 ### SimpleTES (2026)

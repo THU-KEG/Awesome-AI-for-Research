@@ -373,5 +373,29 @@
     "links": {
       "paper": "https://arxiv.org/abs/2605.00803"
     }
+  },
+  {
+    "id": "autoresearchbench",
+    "title": "AutoResearchBench",
+    "year": 2026,
+    "sort_date": "2026-04-28",
+    "evidence": "Preprint",
+    "types": [
+      "System Benchmark",
+      "Scientific Reasoning"
+    ],
+    "summary": "A benchmark of 1,000 questions spanning 195 research topics across 8+ categories for evaluating AI agents on autonomous scientific literature discovery, with answers verified against over 10,000 academic papers.",
+    "why_it_matters": "It is a high-signal benchmark anchor for the literature-discovery side of AI-for-research because it tests whether agents can autonomously navigate complex citation networks and recover correct references at scale, exposing the brittleness of current deep-research agents.",
+    "tags": [
+      "literature-discovery",
+      "citation-networks",
+      "reference-retrieval",
+      "scientific-benchmark"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2604.25256",
+      "repo": "https://github.com/CherYou/AutoResearchBench",
+      "project": "https://cheryou.github.io/autoresearchbench.github.io/"
+    }
   }
 ]
