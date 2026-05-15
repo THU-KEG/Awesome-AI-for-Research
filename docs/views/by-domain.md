@@ -6,11 +6,11 @@ Use this page to find systems grouped by application domain.
 
 ## On this page
 
-- [Artificial Intelligence](#ai) (49)
-- [Biomedical](#biomedical) (4)
+- [Artificial Intelligence](#ai) (50)
+- [Biomedical](#biomedical) (5)
 - [Chemistry](#chemistry) (2)
 - [Computer Science](#computer-science) (4)
-- [General](#general) (30)
+- [General](#general) (31)
 - [Materials Science](#materials-science) (2)
 - [Math](#math) (4)
 - [Physics](#physics) (2)
@@ -41,6 +41,7 @@ Applications in artificial intelligence research, machine learning research work
 | AI Can Learn Scientific Taste (2026) | [Details](../catalog.md#scientific-taste) | [Paper](https://arxiv.org/abs/2603.14473) |
 | Idea-Catalyst (2026) | [Details](../catalog.md#idea-catalyst) | [Paper](https://arxiv.org/abs/2603.12226) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |
+| HELIX (2026) | [Details](../catalog.md#helix) | [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX) |
 | Autoresearch (2026) | [Details](../catalog.md#autoresearch) | [Repo](https://github.com/karpathy/autoresearch) |
 | DeepInnovator (2026) | [Details](../catalog.md#deepinnovator) | [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
@@ -83,6 +84,7 @@ Applications in biology, medicine, drug discovery, and biomedical literature.
 | Work | Details | External |
 | --- | --- | --- |
 | Towards a Medical AI Scientist (2026) | [Details](../catalog.md#medical-ai-scientist) | [Paper](https://arxiv.org/abs/2603.28589) |
+| MOOSE-Star (2026) | [Details](../catalog.md#moose-star) | [Paper](https://arxiv.org/abs/2603.03756) · [Repo](https://github.com/ZonglinY/MOOSE-Star) |
 | AI co-scientist (2025) | [Details](../catalog.md#ai-co-scientist) | [Paper](https://arxiv.org/abs/2502.18864) · [Blog](https://blog.google/feed/google-research-ai-co-scientist/) |
 | Robin (2025) | [Details](../catalog.md#robin) | [Paper](https://doi.org/10.48550/arXiv.2505.13400) · [Repo](https://github.com/Future-House/robin) |
 | AlphaFold 3 (2024) | [Details](../catalog.md#alphafold-3) | [Paper](https://doi.org/10.1038/s41586-024-07487-w) · [Repo](https://github.com/google-deepmind/alphafold3) · [Project](https://alphafoldserver.com/welcome) |
@@ -123,6 +125,7 @@ Cross-domain or discipline-agnostic systems for AI-driven research workflows, li
 | Work | Details | External |
 | --- | --- | --- |
 | GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
+| HELIX (2026) | [Details](../catalog.md#helix) | [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | ScholarPeer (2026) | [Details](../catalog.md#scholarpeer) | [Paper](https://arxiv.org/abs/2601.22638) |
 | Learning to Discover at Test Time (2026) | [Details](../catalog.md#ttt-discover) | [Paper](https://doi.org/10.48550/arXiv.2601.16175) · [Project](https://test-time-training.github.io/discover/) |

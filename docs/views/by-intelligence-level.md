@@ -9,8 +9,8 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 ## On this page
 
 - [L1 Tools](#l1-tools) (25)
-- [L2 Collaborators](#l2-collaborators) (31)
-- [L3 Systems](#l3-systems) (40)
+- [L2 Collaborators](#l2-collaborators) (32)
+- [L3 Systems](#l3-systems) (41)
 
 <a id="l1-tools"></a>
 ## L1 Tools
@@ -61,6 +61,7 @@ Human in the loop. The AI can advance multi-step work, but humans still steer, g
 | AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
 | AI Can Learn Scientific Taste (2026) | [Details](../catalog.md#scientific-taste) | [Paper](https://arxiv.org/abs/2603.14473) |
 | Idea-Catalyst (2026) | [Details](../catalog.md#idea-catalyst) | [Paper](https://arxiv.org/abs/2603.12226) |
+| MOOSE-Star (2026) | [Details](../catalog.md#moose-star) | [Paper](https://arxiv.org/abs/2603.03756) · [Repo](https://github.com/ZonglinY/MOOSE-Star) |
 | DeepInnovator (2026) | [Details](../catalog.md#deepinnovator) | [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator) |
 | ScholarPeer (2026) | [Details](../catalog.md#scholarpeer) | [Paper](https://arxiv.org/abs/2601.22638) |
 | RebuttalAgent (2026) | [Details](../catalog.md#rebuttal-agent) | [Paper](https://arxiv.org/abs/2601.15715) |
@@ -109,6 +110,7 @@ AI drives the loop. The system owns substantial execution and iteration, while h
 | AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |
+| HELIX (2026) | [Details](../catalog.md#helix) | [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX) |
 | Autoresearch (2026) | [Details](../catalog.md#autoresearch) | [Repo](https://github.com/karpathy/autoresearch) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |

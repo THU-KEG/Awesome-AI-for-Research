@@ -324,6 +324,20 @@ End-to-End Research Systems · L3 · Technical report
 
 ---
 
+<a id="helix"></a>
+
+### HELIX (2026)
+
+Experimentation & Agent Methods · L3 · Execute & Experiment · Conference
+
+**Links:** [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX)
+
+**Summary:** A hierarchical evolutionary reinforcement learning framework that combines diverse in-context solution pools for broad exploration with RL-based iterative policy refinement for open-ended scientific problem solving.
+
+`evolutionary-search` `reinforcement-learning` `scientific-discovery` `in-context-learning`
+
+---
+
 <a id="autoresearch"></a>
 
 ### Autoresearch (2026)
@@ -335,6 +349,20 @@ Experimentation & Agent Methods · L3 · Repo only
 **Summary:** A self-improving AI research repo where agents iteratively rewrite a small training stack, run short experiments, and keep better variants.
 
 `self-evolving` `single-gpu` `autonomous-research`
+
+---
+
+<a id="moose-star"></a>
+
+### MOOSE-Star (2026)
+
+Experimentation & Agent Methods · L2 · Ideate · Conference
+
+**Links:** [Paper](https://arxiv.org/abs/2603.03756) · [Repo](https://github.com/ZonglinY/MOOSE-Star)
+
+**Summary:** A framework that makes training LLMs for scientific hypothesis generation tractable by decomposing combinatorial inspiration retrieval into sequential steps, training a separate Inspiration Retrieval model, and using motivation-guided hierarchical search to reduce complexity from exponential to logarithmic.
+
+`hypothesis-generation` `hierarchical-search` `inspiration-retrieval` `complexity-reduction`
 
 ---
 

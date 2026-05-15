@@ -30,7 +30,9 @@
 | AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
+| HELIX (2026) | [Details](../catalog.md#helix) | [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX) |
 | Autoresearch (2026) | [Details](../catalog.md#autoresearch) | [Repo](https://github.com/karpathy/autoresearch) |
+| MOOSE-Star (2026) | [Details](../catalog.md#moose-star) | [Paper](https://arxiv.org/abs/2603.03756) · [Repo](https://github.com/ZonglinY/MOOSE-Star) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |
 | Learning to Discover at Test Time (2026) | [Details](../catalog.md#ttt-discover) | [Paper](https://doi.org/10.48550/arXiv.2601.16175) · [Project](https://test-time-training.github.io/discover/) |
 | Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |

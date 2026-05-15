@@ -7,10 +7,10 @@ Use this page when you want to find systems by the stage of research they most c
 ## On this page
 
 - [Discover & Synthesize](#discover-synthesize) (14)
-- [Ideate](#ideate) (19)
+- [Ideate](#ideate) (20)
 - [Plan & Design](#plan-design) (4)
-- [Implement](#implement) (16)
-- [Execute & Experiment](#execute-experiment) (34)
+- [Implement](#implement) (17)
+- [Execute & Experiment](#execute-experiment) (36)
 - [Analyze & Visualize](#analyze-visualize) (9)
 - [Write & Review](#write-review) (13)
 
@@ -51,6 +51,7 @@ Hypothesis generation, gap finding, analogical search, and research framing.
 | EvoIdeator (2026) | [Details](../catalog.md#evoideator) | [Paper](https://arxiv.org/abs/2603.21728) |
 | AI Can Learn Scientific Taste (2026) | [Details](../catalog.md#scientific-taste) | [Paper](https://arxiv.org/abs/2603.14473) |
 | Idea-Catalyst (2026) | [Details](../catalog.md#idea-catalyst) | [Paper](https://arxiv.org/abs/2603.12226) |
+| MOOSE-Star (2026) | [Details](../catalog.md#moose-star) | [Paper](https://arxiv.org/abs/2603.03756) · [Repo](https://github.com/ZonglinY/MOOSE-Star) |
 | DeepInnovator (2026) | [Details](../catalog.md#deepinnovator) | [Paper](https://arxiv.org/abs/2602.18920) · [Repo](https://github.com/HKUDS/DeepInnovator) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |
 | Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |
@@ -96,6 +97,7 @@ Code generation, pipeline assembly, environment setup, and artifact construction
 | Meta-Harness (2026) | [Details](../catalog.md#meta-harness) | [Paper](https://arxiv.org/abs/2603.28052) · [Project](https://yoonholee.com/meta-harness/) |
 | AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
 | AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
+| HELIX (2026) | [Details](../catalog.md#helix) | [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | ThetaEvolve (2025) | [Details](../catalog.md#thetaevolve) | [Paper](https://arxiv.org/abs/2511.23473) · [Repo](https://github.com/ypwang61/ThetaEvolve) |
@@ -125,6 +127,8 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 | AIRA_2 (2026) | [Details](../catalog.md#aira-2) | [Paper](https://arxiv.org/abs/2603.26499) |
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | AI Scientist via Synthetic Task Scaling (2026) | [Details](../catalog.md#ai-scientist-synthetic-task) | [Paper](https://arxiv.org/abs/2603.17216) |
+| HELIX (2026) | [Details](../catalog.md#helix) | [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX) |
+| MOOSE-Star (2026) | [Details](../catalog.md#moose-star) | [Paper](https://arxiv.org/abs/2603.03756) · [Repo](https://github.com/ZonglinY/MOOSE-Star) |
 | PiEvo (2026) | [Details](../catalog.md#pievo) | [Paper](https://arxiv.org/abs/2602.06448) |
 | Towards Execution-Grounded Automated AI Research (2026) | [Details](../catalog.md#execution-grounded-ai-research) | [Paper](https://arxiv.org/abs/2601.14525) |
 | AutoAgent (2026) | [Details](../catalog.md#autoagent) | [Repo](https://github.com/kevinrgu/autoagent/tree/main) |

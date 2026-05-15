@@ -205,6 +205,33 @@
     "stage_secondary": "analyze-visualize"
   },
   {
+    "id": "moose-star",
+    "title": "MOOSE-Star",
+    "year": 2026,
+    "sort_date": "2026-03-04",
+    "section": "experimentation-agent-methods",
+    "level": "l2-collaborators",
+    "domains": [
+      "biomedical"
+    ],
+    "evidence": "Conference",
+    "human_role": "Human-in-the-loop",
+    "summary": "A framework that makes training LLMs for scientific hypothesis generation tractable by decomposing combinatorial inspiration retrieval into sequential steps, training a separate Inspiration Retrieval model, and using motivation-guided hierarchical search to reduce complexity from exponential to logarithmic.",
+    "why_it_matters": "It provides the first formal complexity analysis proving direct training for scientific discovery is intractable, then solves it with a decomposed training pipeline and hierarchical search — bridging the gap between inference-only and brute-force training approaches.",
+    "tags": [
+      "hypothesis-generation",
+      "hierarchical-search",
+      "inspiration-retrieval",
+      "complexity-reduction"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.03756",
+      "repo": "https://github.com/ZonglinY/MOOSE-Star"
+    },
+    "stage_focus": "ideate",
+    "stage_secondary": "execute-experiment"
+  },
+  {
     "id": "autoresearch",
     "title": "Autoresearch",
     "year": 2026,
@@ -228,6 +255,34 @@
     },
     "stage_focus": null,
     "stage_secondary": null
+  },
+  {
+    "id": "helix",
+    "title": "HELIX",
+    "year": 2026,
+    "sort_date": "2026-03-08",
+    "section": "experimentation-agent-methods",
+    "level": "l3-systems",
+    "domains": [
+      "general",
+      "ai"
+    ],
+    "evidence": "Conference",
+    "human_role": "Mostly automated",
+    "summary": "A hierarchical evolutionary reinforcement learning framework that combines diverse in-context solution pools for broad exploration with RL-based iterative policy refinement for open-ended scientific problem solving.",
+    "why_it_matters": "It is a strong reference for combining evolutionary search breadth with RL refinement depth, and demonstrates that a 14B model can surpass GPT-4o pipelines on scientific and ML optimization tasks when the search-and-refine loop is well-structured.",
+    "tags": [
+      "evolutionary-search",
+      "reinforcement-learning",
+      "scientific-discovery",
+      "in-context-learning"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2603.07642",
+      "repo": "https://github.com/EdwardIX/HELIX"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "implement"
   },
   {
     "id": "claudini",
