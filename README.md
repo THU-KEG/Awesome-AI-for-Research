@@ -204,3 +204,8 @@ When contributing:
 <p align="center">
 <img alt="contributors: 3" src="https://img.shields.io/badge/contributors-3-475569?style=flat-square" /> <a href="https://github.com/LeoJ-xy"><img alt="Yi Jing: GitHub" src="https://img.shields.io/badge/Yi_Jing-GitHub-1f6feb?style=flat-square&logo=github" /></a> <a href="https://github.com/APopCycle"><img alt="Amy Xin: GitHub" src="https://img.shields.io/badge/Amy_Xin-GitHub-0f766e?style=flat-square&logo=github" /></a> <a href="https://github.com/TranSirius"><img alt="Zijun Yao: GitHub" src="https://img.shields.io/badge/Zijun_Yao-GitHub-7c3aed?style=flat-square&logo=github" /></a>
 </p>
+
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries. Separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, confidence calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
