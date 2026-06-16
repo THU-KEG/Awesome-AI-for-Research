@@ -4,6 +4,20 @@
 
 This page centralizes the detailed records referenced across section pages, grouped views, and benchmark indexes. Items are sorted newest-first.
 
+<a id="eurekagent"></a>
+
+### EurekAgent (2026)
+
+Research Infrastructure & Frameworks · L3 · Execute & Experiment · Preprint
+
+**Links:** [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent)
+
+**Summary:** An environment-engineered autonomous discovery system that coordinates off-the-shelf CLI agents through permission-bounded execution, artifact memory, budget control, and human oversight.
+
+`environment-engineering` `autonomous-research` `artifact-memory` `secure-evaluation` `budget-aware` `self-evolving`
+
+---
+
 <a id="ai-co-mathematician"></a>
 
 ### AI Co-Mathematician (2026)

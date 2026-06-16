@@ -9,8 +9,8 @@ Use this page when you want to find systems by the stage of research they most c
 - [Discover & Synthesize](#discover-synthesize) (14)
 - [Ideate](#ideate) (20)
 - [Plan & Design](#plan-design) (4)
-- [Implement](#implement) (17)
-- [Execute & Experiment](#execute-experiment) (36)
+- [Implement](#implement) (18)
+- [Execute & Experiment](#execute-experiment) (37)
 - [Analyze & Visualize](#analyze-visualize) (9)
 - [Write & Review](#write-review) (13)
 
@@ -89,6 +89,7 @@ Code generation, pipeline assembly, environment setup, and artifact construction
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | AI Co-Mathematician (2026) | [Details](../catalog.md#ai-co-mathematician) | [Paper](https://arxiv.org/abs/2605.06651) |
 | AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |
 | AutoSOTA (2026) | [Details](../catalog.md#autosota) | [Paper](https://arxiv.org/abs/2604.05550) · [Repo](https://github.com/tsinghua-fib-lab/AutoSOTA) · [Project](https://tsinghua-fib-lab.github.io/AutoSOTA/) |
@@ -116,6 +117,7 @@ Running experiments, tool orchestration, adaptive retries, and lab-in-the-loop e
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | AI Co-Mathematician (2026) | [Details](../catalog.md#ai-co-mathematician) | [Paper](https://arxiv.org/abs/2605.06651) |
 | SimpleTES (2026) | [Details](../catalog.md#simpletes) | [Paper](https://arxiv.org/abs/2604.19341) |
 | AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |

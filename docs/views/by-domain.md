@@ -6,13 +6,13 @@ Use this page to find systems grouped by application domain.
 
 ## On this page
 
-- [Artificial Intelligence](#ai) (50)
+- [Artificial Intelligence](#ai) (51)
 - [Biomedical](#biomedical) (5)
 - [Chemistry](#chemistry) (2)
-- [Computer Science](#computer-science) (4)
-- [General](#general) (31)
+- [Computer Science](#computer-science) (5)
+- [General](#general) (32)
 - [Materials Science](#materials-science) (2)
-- [Math](#math) (4)
+- [Math](#math) (5)
 - [Physics](#physics) (2)
 - [Social Science](#social-science) (2)
 
@@ -23,6 +23,7 @@ Applications in artificial intelligence research, machine learning research work
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | SimpleTES (2026) | [Details](../catalog.md#simpletes) | [Paper](https://arxiv.org/abs/2604.19341) |
 | EvoMaster (2026) | [Details](../catalog.md#evomaster) | [Paper](https://arxiv.org/abs/2604.17406) · [Repo](https://github.com/sjtu-sai-agents/EvoMaster) |
 | AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |
@@ -110,6 +111,7 @@ Applications in non-AI computer science research such as formal methods, program
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | ShinkaEvolve (2025) | [Details](../catalog.md#shinkaevolve) | [Paper](https://arxiv.org/abs/2509.19349) · [Repo](https://github.com/SakanaAI/ShinkaEvolve) |
 | AlphaEvolve (2025) | [Details](../catalog.md#alphaevolve) | [Paper](https://arxiv.org/abs/2506.13131) · [Blog](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) |
@@ -124,6 +126,7 @@ Cross-domain or discipline-agnostic systems for AI-driven research workflows, li
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
 | HELIX (2026) | [Details](../catalog.md#helix) | [Paper](https://arxiv.org/abs/2603.07642) · [Repo](https://github.com/EdwardIX/HELIX) |
 | InternAgent (2026) | [Details](../catalog.md#internagent) | [Paper](https://arxiv.org/abs/2602.08990) · [Repo](https://github.com/InternScience/InternAgent) |
@@ -177,6 +180,7 @@ Applications in mathematical reasoning, theorem proving, and formal proof discov
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | AI Co-Mathematician (2026) | [Details](../catalog.md#ai-co-mathematician) | [Paper](https://arxiv.org/abs/2605.06651) |
 | ThetaEvolve (2025) | [Details](../catalog.md#thetaevolve) | [Paper](https://arxiv.org/abs/2511.23473) · [Repo](https://github.com/ypwang61/ThetaEvolve) |
 | Prover Agent (2025) | [Details](../catalog.md#prover-agent) | [Paper](https://arxiv.org/abs/2506.19923) · [Repo](https://github.com/kAIto47802/Prover-Agent) |

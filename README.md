@@ -3,7 +3,7 @@
 <h1 align="center">Awesome AI for Research</h1>
 
 <p align="center">
-<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="LICENSE"><img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-2563eb?style=flat-square" /></a> <img alt="entries: 98" src="https://img.shields.io/badge/entries-98-0f766e?style=flat-square" /> <img alt="benchmarks: 19" src="https://img.shields.io/badge/benchmarks-19-b45309?style=flat-square" /> <img alt="updated: 2026-05-16" src="https://img.shields.io/badge/updated-2026--05--16-475569?style=flat-square" /> <img alt="curation: curated" src="https://img.shields.io/badge/curation-curated-334155?style=flat-square" /> <img alt="coverage: benchmark-aware" src="https://img.shields.io/badge/coverage-benchmark--aware-7c3aed?style=flat-square" />
+<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a> <a href="LICENSE"><img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC_BY_4.0-2563eb?style=flat-square" /></a> <img alt="entries: 99" src="https://img.shields.io/badge/entries-99-0f766e?style=flat-square" /> <img alt="benchmarks: 19" src="https://img.shields.io/badge/benchmarks-19-b45309?style=flat-square" /> <img alt="updated: 2026-06-16" src="https://img.shields.io/badge/updated-2026--06--16-475569?style=flat-square" /> <img alt="curation: curated" src="https://img.shields.io/badge/curation-curated-334155?style=flat-square" /> <img alt="coverage: benchmark-aware" src="https://img.shields.io/badge/coverage-benchmark--aware-7c3aed?style=flat-square" />
 </p>
 
 <p align="center">
@@ -44,6 +44,8 @@
 
 Representative papers and systems that give a fast first read on the current AI4Research landscape.
 
+- **[EurekAgent](docs/catalog.md#eurekagent) (2026) `Research Infrastructure & Frameworks` `L3`**
+  An environment-engineered autonomous discovery system that coordinates off-the-shelf CLI agents through permission-bounded execution, artifact memory, budget control, and human oversight. [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent)
 - **[Autoresearch](docs/catalog.md#autoresearch) (2026) `Experimentation & Agent Methods` `L3`**
   A self-improving AI research repo where agents iteratively rewrite a small training stack, run short experiments, and keep better variants. [Repo](https://github.com/karpathy/autoresearch)
 - **[Learning to Discover at Test Time](docs/catalog.md#ttt-discover) (2026) `Experimentation & Agent Methods` `L3`**
@@ -67,8 +69,8 @@ Representative papers and systems that give a fast first read on the current AI4
 
 Use this view when you want to find systems by the stage of research they most clearly serve.
 
-[`Discover & Synthesize · 14`](docs/views/by-research-stage.md#discover-synthesize) · [`Ideate · 20`](docs/views/by-research-stage.md#ideate) · [`Plan & Design · 4`](docs/views/by-research-stage.md#plan-design) · [`Implement · 17`](docs/views/by-research-stage.md#implement)  
-[`Execute & Experiment · 36`](docs/views/by-research-stage.md#execute-experiment) · [`Analyze & Visualize · 9`](docs/views/by-research-stage.md#analyze-visualize) · [`Write & Review · 13`](docs/views/by-research-stage.md#write-review)
+[`Discover & Synthesize · 14`](docs/views/by-research-stage.md#discover-synthesize) · [`Ideate · 20`](docs/views/by-research-stage.md#ideate) · [`Plan & Design · 4`](docs/views/by-research-stage.md#plan-design) · [`Implement · 18`](docs/views/by-research-stage.md#implement)  
+[`Execute & Experiment · 37`](docs/views/by-research-stage.md#execute-experiment) · [`Analyze & Visualize · 9`](docs/views/by-research-stage.md#analyze-visualize) · [`Write & Review · 13`](docs/views/by-research-stage.md#write-review)
 
 
 ---
@@ -80,7 +82,7 @@ This ladder separates human-driven tools, human-in-the-loop collaborators, and A
 
 1. [`L1 Tools · 25`](docs/views/by-intelligence-level.md#l1-tools) - Human drives the loop. The AI acts as a tool, local component, or narrow assistant rather than as a workflow owner.
 2. [`L2 Collaborators · 32`](docs/views/by-intelligence-level.md#l2-collaborators) - Human in the loop. The AI can advance multi-step work, but humans still steer, gate, or validate important decisions.
-3. [`L3 Systems · 41`](docs/views/by-intelligence-level.md#l3-systems) - AI drives the loop. The system owns substantial execution and iteration, while humans mainly provide goals, constraints, or downstream review.
+3. [`L3 Systems · 42`](docs/views/by-intelligence-level.md#l3-systems) - AI drives the loop. The system owns substantial execution and iteration, while humans mainly provide goals, constraints, or downstream review.
 
 
 ---
@@ -95,7 +97,7 @@ This ladder separates human-driven tools, human-in-the-loop collaborators, and A
 | [💡 Research Ideation](docs/sections/research-ideation.md#research-ideation) | Systems focused on generating research questions, hypotheses, directions, or project ideas. | 14 |
 | [📚 Literature Discovery & Synthesis](docs/sections/literature-discovery-synthesis.md#literature-discovery-synthesis) | Systems focused on finding, organizing, comparing, and synthesizing prior work. | 5 |
 | [📝 Survey / Review Automation](docs/sections/survey-review-automation.md#survey-review-automation) | Systems designed to produce structured surveys, reviews, or systematic review-style outputs. | 10 |
-| [🧱 Research Infrastructure & Frameworks](docs/sections/research-infrastructure-frameworks.md#research-infrastructure-frameworks) | Frameworks, platforms, runtimes, and engineering environments for building and operating research agents. | 9 |
+| [🧱 Research Infrastructure & Frameworks](docs/sections/research-infrastructure-frameworks.md#research-infrastructure-frameworks) | Frameworks, platforms, runtimes, and engineering environments for building and operating research agents. | 10 |
 | [📏 Benchmarks & Evaluation](docs/benchmarks/index.md#benchmarks-evaluation) | Benchmarks, datasets, metrics, and evaluation frameworks for research agents and AI-for-research systems. | 19 |
 
 
@@ -108,13 +110,13 @@ Use this view when you want to find systems through the disciplines where they a
 
 | Domain | Focus | Count |
 | --- | --- | --- |
-| [Artificial Intelligence](docs/views/by-domain.md#ai) | Applications in artificial intelligence research, machine learning research workflows, and AI-for-AI systems with explicit AI research targets or evaluation. | 50 |
+| [Artificial Intelligence](docs/views/by-domain.md#ai) | Applications in artificial intelligence research, machine learning research workflows, and AI-for-AI systems with explicit AI research targets or evaluation. | 51 |
 | [Biomedical](docs/views/by-domain.md#biomedical) | Applications in biology, medicine, drug discovery, and biomedical literature. | 5 |
 | [Chemistry](docs/views/by-domain.md#chemistry) | Applications in chemical reasoning, synthesis, and molecular discovery. | 2 |
-| [Computer Science](docs/views/by-domain.md#computer-science) | Applications in non-AI computer science research such as formal methods, programming systems, and algorithmic reasoning. | 4 |
-| [General](docs/views/by-domain.md#general) | Cross-domain or discipline-agnostic systems for AI-driven research workflows, literature work, agent infrastructure, and research methodology that are not clearly anchored to one vertical field. | 31 |
+| [Computer Science](docs/views/by-domain.md#computer-science) | Applications in non-AI computer science research such as formal methods, programming systems, and algorithmic reasoning. | 5 |
+| [General](docs/views/by-domain.md#general) | Cross-domain or discipline-agnostic systems for AI-driven research workflows, literature work, agent infrastructure, and research methodology that are not clearly anchored to one vertical field. | 32 |
 | [Materials Science](docs/views/by-domain.md#materials-science) | Applications in materials discovery, materials property reasoning, and experimental design. | 2 |
-| [Math](docs/views/by-domain.md#math) | Applications in mathematical reasoning, theorem proving, and formal proof discovery. | 4 |
+| [Math](docs/views/by-domain.md#math) | Applications in mathematical reasoning, theorem proving, and formal proof discovery. | 5 |
 | [Physics](docs/views/by-domain.md#physics) | Applications in physical science reasoning, modeling, and scientific analysis. | 2 |
 | [Social Science](docs/views/by-domain.md#social-science) | Applications in social simulation, policy analysis, behavioral science, and computational social experiments. | 2 |
 

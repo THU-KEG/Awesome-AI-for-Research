@@ -361,6 +361,38 @@
     "stage_secondary": null
   },
   {
+    "id": "eurekagent",
+    "title": "EurekAgent",
+    "year": 2026,
+    "sort_date": "2026-06-11",
+    "section": "research-infrastructure-frameworks",
+    "level": "l3-systems",
+    "domains": [
+      "ai",
+      "general",
+      "math",
+      "computer-science"
+    ],
+    "evidence": "Preprint",
+    "human_role": "Mostly automated",
+    "summary": "An environment-engineered autonomous discovery system that coordinates off-the-shelf CLI agents through permission-bounded execution, artifact memory, budget control, and human oversight.",
+    "why_it_matters": "It reframes the autonomous-science bottleneck from prescribing detailed agent workflows to engineering the environment around capable agents, showing that permissions, artifacts, budgets, and observability can turn general CLI agents into reliable metric-driven discovery systems.",
+    "tags": [
+      "environment-engineering",
+      "autonomous-research",
+      "artifact-memory",
+      "secure-evaluation",
+      "budget-aware",
+      "self-evolving"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2606.13662",
+      "repo": "https://github.com/THU-Team-Eureka/EurekAgent"
+    },
+    "stage_focus": "execute-experiment",
+    "stage_secondary": "implement"
+  },
+  {
     "id": "darwin-godel-machine",
     "title": "Darwin Godel Machine",
     "year": 2025,

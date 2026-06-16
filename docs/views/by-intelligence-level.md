@@ -10,7 +10,7 @@ This view makes the role ladder tangible, from human-driven tools to AI-driven s
 
 - [L1 Tools](#l1-tools) (25)
 - [L2 Collaborators](#l2-collaborators) (32)
-- [L3 Systems](#l3-systems) (41)
+- [L3 Systems](#l3-systems) (42)
 
 <a id="l1-tools"></a>
 ## L1 Tools
@@ -96,6 +96,7 @@ AI drives the loop. The system owns substantial execution and iteration, while h
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | SimpleTES (2026) | [Details](../catalog.md#simpletes) | [Paper](https://arxiv.org/abs/2604.19341) |
 | EvoMaster (2026) | [Details](../catalog.md#evomaster) | [Paper](https://arxiv.org/abs/2604.17406) · [Repo](https://github.com/sjtu-sai-agents/EvoMaster) |
 | AIBuildAI (2026) | [Details](../catalog.md#aibuildai) | [Paper](https://arxiv.org/abs/2604.14455) · [Repo](https://github.com/aibuildai/AI-Build-AI) |

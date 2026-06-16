@@ -6,6 +6,7 @@ Use this page to find systems explicitly tagged `self-evolving`.
 
 ## On this page
 
+- [EurekAgent](../catalog.md#eurekagent) (2026)
 - [EvoMaster](../catalog.md#evomaster) (2026)
 - [Hyperagents](../catalog.md#hyperagents) (2026)
 - [EvoScientist](../catalog.md#evoscientist) (2026)
@@ -19,6 +20,7 @@ Use this page to find systems explicitly tagged `self-evolving`.
 
 | Work | Details | External |
 | --- | --- | --- |
+| EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | EvoMaster (2026) | [Details](../catalog.md#evomaster) | [Paper](https://arxiv.org/abs/2604.17406) · [Repo](https://github.com/sjtu-sai-agents/EvoMaster) |
 | Hyperagents (2026) | [Details](../catalog.md#hyperagents) | [Paper](https://arxiv.org/abs/2603.19461) |
 | EvoScientist (2026) | [Details](../catalog.md#evoscientist) | [Paper](https://arxiv.org/abs/2603.08127) · [Repo](https://github.com/EvoScientist/EvoScientist) · [Project](https://evoscientist.ai) |
