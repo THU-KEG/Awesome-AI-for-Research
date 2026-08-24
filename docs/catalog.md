@@ -4,6 +4,20 @@
 
 This page centralizes the detailed records referenced across section pages, grouped views, and benchmark indexes. Items are sorted newest-first.
 
+<a id="lune-research"></a>
+
+### Lune Research (2026)
+
+Literature Discovery & Synthesis · L1 · Discover & Synthesize · Repo only
+
+**Links:** [Repo](https://github.com/RetrogradeLabs/lune-mcp-server) · [Project](https://luneresearch.com/)
+
+**Summary:** An MCP server and CLI that gives coding agents full-text access to peer-reviewed computer-science papers, citation graphs, structured evidence extraction, and claim checks grounded in verbatim source passages.
+
+`literature-retrieval` `citation-graph` `claim-verification` `mcp`
+
+---
+
 <a id="eurekagent"></a>
 
 ### EurekAgent (2026)

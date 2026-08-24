@@ -6,7 +6,7 @@ Use this page when you want to find systems by the stage of research they most c
 
 ## On this page
 
-- [Discover & Synthesize](#discover-synthesize) (14)
+- [Discover & Synthesize](#discover-synthesize) (15)
 - [Ideate](#ideate) (20)
 - [Plan & Design](#plan-design) (4)
 - [Implement](#implement) (18)
@@ -21,6 +21,7 @@ Literature search, evidence gathering, contradiction spotting, and structured sy
 
 | Work | Details | External |
 | --- | --- | --- |
+| Lune Research (2026) | [Details](../catalog.md#lune-research) | [Repo](https://github.com/RetrogradeLabs/lune-mcp-server) · [Project](https://luneresearch.com/) |
 | GIANTS (2026) | [Details](../catalog.md#giants) | [Paper](https://arxiv.org/abs/2604.09793) |
 | PaperOrchestra (2026) | [Details](../catalog.md#paperorchestra) | [Paper](https://arxiv.org/abs/2604.05018) · [Project](https://yiwen-song.github.io/paper_orchestra/) |
 | FlowPIE (2026) | [Details](../catalog.md#flowpie) | [Paper](https://arxiv.org/abs/2603.29557) |

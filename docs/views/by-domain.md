@@ -6,10 +6,10 @@ Use this page to find systems grouped by application domain.
 
 ## On this page
 
-- [Artificial Intelligence](#ai) (51)
+- [Artificial Intelligence](#ai) (52)
 - [Biomedical](#biomedical) (5)
 - [Chemistry](#chemistry) (2)
-- [Computer Science](#computer-science) (5)
+- [Computer Science](#computer-science) (6)
 - [General](#general) (32)
 - [Materials Science](#materials-science) (2)
 - [Math](#math) (5)
@@ -23,6 +23,7 @@ Applications in artificial intelligence research, machine learning research work
 
 | Work | Details | External |
 | --- | --- | --- |
+| Lune Research (2026) | [Details](../catalog.md#lune-research) | [Repo](https://github.com/RetrogradeLabs/lune-mcp-server) · [Project](https://luneresearch.com/) |
 | EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | SimpleTES (2026) | [Details](../catalog.md#simpletes) | [Paper](https://arxiv.org/abs/2604.19341) |
 | EvoMaster (2026) | [Details](../catalog.md#evomaster) | [Paper](https://arxiv.org/abs/2604.17406) · [Repo](https://github.com/sjtu-sai-agents/EvoMaster) |
@@ -111,6 +112,7 @@ Applications in non-AI computer science research such as formal methods, program
 
 | Work | Details | External |
 | --- | --- | --- |
+| Lune Research (2026) | [Details](../catalog.md#lune-research) | [Repo](https://github.com/RetrogradeLabs/lune-mcp-server) · [Project](https://luneresearch.com/) |
 | EurekAgent (2026) | [Details](../catalog.md#eurekagent) | [Paper](https://arxiv.org/abs/2606.13662) · [Repo](https://github.com/THU-Team-Eureka/EurekAgent) |
 | AutoEvolver (2026) | [Details](../catalog.md#autoevolver) | [Repo](https://github.com/tengxiaoliu/autoevolver) · [Project](https://tengxiaoliu.github.io/autoevolver/) |
 | ShinkaEvolve (2025) | [Details](../catalog.md#shinkaevolve) | [Paper](https://arxiv.org/abs/2509.19349) · [Repo](https://github.com/SakanaAI/ShinkaEvolve) |
