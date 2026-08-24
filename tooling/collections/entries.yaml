@@ -2552,5 +2552,33 @@
     },
     "stage_focus": null,
     "stage_secondary": null
+  },
+  {
+    "id": "lune-research",
+    "title": "Lune Research",
+    "year": 2026,
+    "sort_date": "2026-08-24",
+    "section": "literature-discovery-synthesis",
+    "level": "l1-tools",
+    "domains": [
+      "ai",
+      "computer-science"
+    ],
+    "evidence": "Repo only",
+    "human_role": "Human-driven",
+    "summary": "An MCP server and CLI that gives coding agents full-text access to peer-reviewed computer-science papers, citation graphs, structured evidence extraction, and claim checks grounded in verbatim source passages.",
+    "why_it_matters": "It is a useful literature-infrastructure anchor because it exposes top-venue paper retrieval and source-level verification directly through a model-agnostic agent protocol.",
+    "tags": [
+      "literature-retrieval",
+      "citation-graph",
+      "claim-verification",
+      "mcp"
+    ],
+    "links": {
+      "repo": "https://github.com/RetrogradeLabs/lune-mcp-server",
+      "project": "https://luneresearch.com/"
+    },
+    "stage_focus": "discover-synthesize",
+    "stage_secondary": null
   }
 ]

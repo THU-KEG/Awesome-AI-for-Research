@@ -17,6 +17,7 @@
 
 | Work | Details | External |
 | --- | --- | --- |
+| Lune Research (2026) | [Details](../catalog.md#lune-research) | [Repo](https://github.com/RetrogradeLabs/lune-mcp-server) · [Project](https://luneresearch.com/) |
 | Synthesizing scientific literature with retrieval-augmented language models (2026) | [Details](../catalog.md#openscholar) | [Paper](https://www.nature.com/articles/s41586-025-10072-4) · [Repo](https://github.com/AkariAsai/OpenScholar) · [Project](https://openscilm.allen.ai/) |
 | PaSa (2025) | [Details](../catalog.md#pasa) | [Paper](https://arxiv.org/abs/2501.10120) · [Repo](https://github.com/bytedance/pasa) · [Project](https://pasa-agent.ai/) |
 | WebWeaver (2025) | [Details](../catalog.md#webweaver) | [Paper](https://arxiv.org/abs/2509.13312) · [Repo](https://github.com/Alibaba-NLP/DeepResearch) |
